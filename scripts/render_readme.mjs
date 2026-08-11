@@ -151,10 +151,14 @@ export function renderReadme(data, now = Date.now()) {
 
   // 🎄 pinned section — the same rows, surfaced by season instead of by category. Sorted newest
   // first and capped: this is the shop window, the category tables remain the full list.
-  const xmasRows = active.filter((r) => r.xmas)
-    .sort((a, b) => new Date(b.date_posted || 0) - new Date(a.date_posted || 0))
-    .slice(0, XMAS_CAP);
-  const xmasCount = active.filter((r) => r.xmas).length;
+  // `data.seasonal` is selected by the builder outside the category caps (a chain posting 30
+  // store-level Christmas ads must not be trimmed away here). Older payloads without it fall
+  // back to the flagged rows inside `listings`.
+  const seasonalRows = Array.isArray(data.seasonal) && data.seasonal.length
+    ? data.seasonal
+    : active.filter((r) => r.xmas).sort((a, b) => new Date(b.date_posted || 0) - new Date(a.date_posted || 0));
+  const xmasRows = seasonalRows.slice(0, XMAS_CAP);
+  const xmasCount = meta.seasonal_live_roles || seasonalRows.length;
   const xmasBlock = xmasCount
     ? `\n## ${t.xmasTitle}\n\n${fill(t.xmasBody, { N: xmasCount })}\n\n${table(xmasRows)}\n\n${fill(t.xmasPrep, { URL: `${W}/resources/interview-tips/christmas-casuals?${U}` })}\n`
     : `\n## ${t.xmasTitle}\n\n${t.xmasEmpty}\n\n${fill(t.xmasPrep, { URL: `${W}/resources/interview-tips/christmas-casuals?${U}` })}\n`;
