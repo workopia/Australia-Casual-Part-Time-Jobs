@@ -1,0 +1,36 @@
+name: Update README from listings
+
+# Simplify-style split: the Workopia pipeline runner (which holds the data) pushes
+# `.github/scripts/listings.json`; this workflow re-renders README.md from it so the
+# repo is self-healing — a data push, a manual listings edit, or a merged correction
+# all produce a fresh README without the runner having to push one.
+
+on:
+  push:
+    paths:
+      - ".github/scripts/listings.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    # The daily pipeline pushes listings.json AND the rendered README together — re-rendering
+    # then would only shift time-relative labels and fork history against the runner. Only
+    # self-heal when listings.json changed WITHOUT a README update (manual/remote edits).
+    if: github.event_name == 'workflow_dispatch' || !contains(join(github.event.head_commit.modified, ','), 'README.md')
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Render README from listings.json
+        run: node scripts/update_readme.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "workopia-bot"
+          git config user.email "bot@workopia.io"
+          git add README.md
+          git diff --cached --quiet || { git commit -m "readme: regenerate from listings.json"; git push; }

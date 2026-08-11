@@ -1,0 +1,35 @@
+name: "Report a role"
+description: "Report a closed, wrong, mislabelled or duplicate role — or tell us about a casual employer we're missing."
+title: "[report]: "
+labels: ["report"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Role link (Workopia or employer URL)
+      placeholder: https://workopia.io/jobs/...
+    validations:
+      required: false
+  - type: dropdown
+    id: issue
+    attributes:
+      label: What's the problem?
+      options:
+        - Role is closed / no longer accepting applications
+        - Wrong company
+        - Wrong location
+        - Wrong employment type (casual vs part-time vs temp)
+        - Wrong category
+        - Pay, shift or ticket/certificate is wrong
+        - Duplicate listing
+        - An employer that hires casuals is missing from this list
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: Anything that helps us fix the source data — employer career page URL is especially useful.
+    validations:
+      required: false
