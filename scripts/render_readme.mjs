@@ -104,16 +104,34 @@ const anc = (icon, name) => (icon + ' ' + name).toLowerCase().normalize('NFKD').
 const role = (t) => (t.length > 58 ? t.slice(0, 55).replace(/[\s\-–,(]+$/, '') + '…' : t);
 const fill = (s, vars) => s.replace(/\{(\w+)\}/g, (m, k) => (k in vars ? vars[k] : m));
 
-export function renderReadme(data, now = Date.now()) {
+export function renderReadme(data, now) {
   const { meta, categories, listings } = data;
   const lang = meta.lang && L10N[meta.lang] ? meta.lang : 'en';
   const t = L10N[lang];
-  const age = (d) => { if (!d) return ''; const days = Math.floor((now - new Date(d).getTime()) / 864e5); if (Number.isNaN(days)) return ''; if (days <= 0) return t.ageToday; if (days < 14) return days + t.ageDay; if (days < 60) return Math.round(days / 7) + t.ageWeek; return Math.round(days / 30) + t.ageMonth; };
+  const generatedTime = new Date(meta.generated_at || `${meta.as_of}T12:00:00Z`).getTime();
+  const renderTime = now ?? (Number.isNaN(generatedTime) ? Date.now() : generatedTime);
+  const age = (d) => { if (!d) return ''; const days = Math.floor((renderTime - new Date(d).getTime()) / 864e5); if (Number.isNaN(days)) return ''; if (days <= 0) return t.ageToday; if (days < 14) return days + t.ageDay; if (days < 60) return Math.round(days / 7) + t.ageWeek; return Math.round(days / 30) + t.ageMonth; };
 
   const U = 'utm_source=github&utm_medium=repo&utm_campaign=' + meta.repo.toLowerCase();
-  const BJ = `${W}/browsejobs/${meta.segment}?${U}`;
+  const BJ = `${W}/browsejobs/${meta.segment}/casual?${U}`;
   const active = listings.filter((r) => r.active !== false);
   const repoTotal = active.length;
+  const employerCount = new Set(active.map((r) => r.company_name)).size;
+  const noExperienceCount = active.filter((r) => r.no_experience).length;
+  const seasonalCount = meta.seasonal_live_roles || data.seasonal?.length || 0;
+  const locationCounts = new Map();
+  for (const r of active) {
+    const location = (r.location || '').replace(/ \+\d+$/, '');
+    if (!location || location === 'Australia') continue;
+    locationCounts.set(location, (locationCounts.get(location) || 0) + 1);
+  }
+  const topLocations = [...locationCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3);
+  const asOfLabel = new Intl.DateTimeFormat('en-AU', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+    timeZone: 'Australia/Melbourne',
+  }).format(new Date(`${meta.as_of}T12:00:00Z`));
 
   const byCatTier = new Map();
   for (const r of active) {
@@ -123,7 +141,7 @@ export function renderReadme(data, now = Date.now()) {
   }
   const tiersOf = (d) => Object.fromEntries(TIER_ORDER.map((tk) => [tk, byCatTier.get(d.key + '|' + tk) || []]));
 
-  const flags = (r) => { let f = ''; if (r.date_posted && (now - new Date(r.date_posted).getTime()) <= 2 * 864e5) f += ' 🆕'; if (r.xmas) f += ' 🎄'; if (r.no_experience) f += ' 🌱'; if (r.hot) f += ' 🔥'; return f; };
+  const flags = (r) => { let f = ''; if (r.date_posted && (renderTime - new Date(r.date_posted).getTime()) <= 2 * 864e5) f += ' 🆕'; if (r.xmas) f += ' 🎄'; if (r.no_experience) f += ' 🌱'; if (r.hot) f += ' 🔥'; return f; };
 
   // Fixed column geometry across every table (GitHub keeps width attrs) — without them each
   // table auto-sizes to its own content and the page reads as a pile of unrelated grids.
@@ -178,12 +196,41 @@ export function renderReadme(data, now = Date.now()) {
 
   const others = SERIES.filter(([iso]) => iso !== meta.country_iso).map(([, label, url]) => `[${label}](${url})`).join(' · ');
   const faq = (FAQ[meta.country_iso] || FAQ.AU)(U).map(([q, a]) => `**${q}**\n${a}\n`).join('\n');
+  const topLocationNames = topLocations.map(([name]) => name);
+  const topLocationSentence = topLocationNames.length > 1
+    ? `${topLocationNames.slice(0, -1).join(', ')} and ${topLocationNames.at(-1)}`
+    : topLocationNames[0] || 'your nearest city';
+  const topLocationSummary = topLocations.map(([name, count]) => `${name} (${count})`).join(' · ');
+  const directAnswer = `## How to find a casual job in Australia — ${asOfLabel}
+
+Casual jobs in Australia are filled fastest by people who apply where the roles are actually posted — employer career pages — and who make their availability obvious. As of ${asOfLabel}, this repository lists **${repoTotal.toLocaleString('en-AU')} active casual, part-time and seasonal roles from Australian employer career sites**, including **${seasonalCount.toLocaleString('en-AU')} Christmas and seasonal roles**. Five steps that work:
+
+1. **Pick your city, days and hours first.** Employers filter on availability before anything else. ${topLocationSentence} have the most listings in this repository right now. → [Browse casual jobs by city](${W}/browsejobs/au/casual?${U})
+2. **Search employer career pages, not only job boards.** Large chains post casual roles on their own career sites and ATS feeds. → [Browse ${repoTotal.toLocaleString('en-AU')} roles by category](#browse-${repoTotal}-roles-by-category)
+3. **Use the right filter for your situation.** No experience → [current roles that say so](${W}/casual-jobs/au/no-experience?${U}). Student → [student-friendly roles](${W}/casual-jobs/au/student?${U}). Weekend or night → [weekend and night roles](${W}/casual-jobs/au/weekend?${U}). Christmas → [live roles and hiring timeline](${W}/casual-jobs/au/christmas?${U}).
+4. **Put availability, work rights and required certificates in the top third of a one-page resume.** RSA, White Card, WWCC and Police Check appear in listings. → [What to prepare](${W}/casual-jobs/au/get-ready?${U}) · [Resume Library](${W}/library?${U})
+5. **Apply online for chains; ask in person only at independent venues.** Chain applications usually run through a career portal and may include a chat or video screen. → [What casual interviews look like](${W}/casual-jobs/au/interviewing?${U})
+
+### Live data summary
+
+| Measure | Current repository snapshot |
+|---|---:|
+| Active roles | ${repoTotal.toLocaleString('en-AU')} |
+| Employers represented | ${employerCount.toLocaleString('en-AU')} |
+| Christmas and seasonal roles tracked | ${seasonalCount.toLocaleString('en-AU')} |
+| Roles explicitly open to no-experience applicants | ${noExperienceCount.toLocaleString('en-AU')} |
+| Top locations | ${topLocationSummary} |
+| Data date | ${asOfLabel} |
+
+Counts are employer career-site postings represented in this repository, not the whole Australian job market. The dataset is rebuilt from Workopia's daily employer-source feed.`;
 
   const md = `# ${meta.title} — ${t.updatedDaily}
 
 ${fill(t.intro, { COUNTRY: meta.country_name, N: repoTotal, TOTAL: meta.total_site_jobs_str })}
 
 ${fill(t.maintainedBy, { URL: BJ })}
+
+${directAnswer}
 
 ${t.reportIssue}
 

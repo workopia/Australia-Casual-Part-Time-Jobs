@@ -1,0 +1,30 @@
+name: Validate data and README
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/listings.json"
+      - ".github/schema/**"
+      - "data/**"
+      - "scripts/**"
+      - "README.md"
+      - "package.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate structured data
+        run: npm run validate
+      - name: Verify generated README
+        run: npm run build-readme -- --check

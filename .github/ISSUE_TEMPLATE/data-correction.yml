@@ -1,0 +1,31 @@
+name: "Report a dataset correction"
+description: "Report a category, count, documentation or generated-data problem."
+title: "[data]: "
+labels: ["data-correction"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - README count or summary
+        - Category mapping
+        - Location aggregation
+        - Employment-type classification
+        - Pay, shift or certificate field
+        - Documentation or schema
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What is currently shown?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it show, and what source supports the correction?
+    validations:
+      required: true

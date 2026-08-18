@@ -26,8 +26,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Validate structured data
+        run: npm run validate
       - name: Render README from listings.json
-        run: node scripts/update_readme.mjs
+        run: npm run build-readme -- --no-preview
       - name: Commit if changed
         run: |
           git config user.name "workopia-bot"

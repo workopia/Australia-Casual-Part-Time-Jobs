@@ -1,5 +1,5 @@
 name: "Report a role"
-description: "Report a closed, wrong, mislabelled or duplicate role — or tell us about a casual employer we're missing."
+description: "Report a closed, wrong, mislabelled or duplicate role."
 title: "[report]: "
 labels: ["report"]
 body:
@@ -9,7 +9,7 @@ body:
       label: Role link (Workopia or employer URL)
       placeholder: https://workopia.io/jobs/...
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: issue
     attributes:
@@ -22,7 +22,6 @@ body:
         - Wrong category
         - Pay, shift or ticket/certificate is wrong
         - Duplicate listing
-        - An employer that hires casuals is missing from this list
         - Other
     validations:
       required: true
@@ -32,4 +31,11 @@ body:
       label: Details
       placeholder: Anything that helps us fix the source data — employer career page URL is especially useful.
     validations:
-      required: false
+      required: true
+  - type: checkboxes
+    id: evidence
+    attributes:
+      label: Source check
+      options:
+        - label: I checked the employer's official career page before submitting this report.
+          required: true

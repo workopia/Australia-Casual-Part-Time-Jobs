@@ -1,0 +1,15 @@
+{
+  "name": "australia-casual-part-time-jobs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build-readme": "node scripts/build-readme.mjs",
+    "check": "npm run validate && npm run build-readme -- --check",
+    "release": "node scripts/release.mjs --write"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

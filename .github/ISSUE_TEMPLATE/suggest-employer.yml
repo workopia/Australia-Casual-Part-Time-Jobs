@@ -1,0 +1,38 @@
+name: "Suggest a casual employer"
+description: "Tell us about an Australian employer whose official career page is missing."
+title: "[employer]: "
+labels: ["employer-source"]
+body:
+  - type: input
+    id: employer
+    attributes:
+      label: Employer name
+      placeholder: Example Retail Group
+    validations:
+      required: true
+  - type: input
+    id: careers_url
+    attributes:
+      label: Official careers-page URL
+      placeholder: https://careers.example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: hiring_type
+    attributes:
+      label: Roles normally advertised
+      multiple: true
+      options:
+        - Casual
+        - Part-time
+        - Christmas / seasonal
+        - Temporary / fixed-term
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Example role or supporting detail
+      description: Link an open role if one is available. Do not include personal information.
+    validations:
+      required: false
