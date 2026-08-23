@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-23",
- "count": 881,
+ "count": 879,
  "jobs": {
   "257": {
    "id": "257",
@@ -43,18 +43,6 @@
    "company": "Delaware North",
    "role": "Food And Beverage Attendant, Mindil Beach Casino Resort",
    "location": "Darwin"
-  },
-  "53742": {
-   "id": "53742",
-   "company": "Delaware North",
-   "role": "Food And Beverage Opportunities, Melbourne Cup Carnival",
-   "location": "Melbourne"
-  },
-  "54101": {
-   "id": "54101",
-   "company": "Delaware North",
-   "role": "Cook, Perth Airport",
-   "location": "Perth"
   },
   "54226": {
    "id": "54226",
@@ -950,6 +938,24 @@
    "role": "Casual Educator",
    "location": "Melbourne +2"
   },
+  "09f724e4cf4ac56528457f58a9813e5a": {
+   "id": "09f724e4cf4ac56528457f58a9813e5a",
+   "company": "Busy Bees Early Learning Australia",
+   "role": "Casual Educator",
+   "location": "Melbourne +9"
+  },
+  "6e1f10a8f657c6d7da794e4c2f3e0e0e": {
+   "id": "6e1f10a8f657c6d7da794e4c2f3e0e0e",
+   "company": "Busy Bees Early Learning Australia",
+   "role": "Casual Educator I Busy Bees At Aveley",
+   "location": "Perth"
+  },
+  "00740305434ca89eb644d09cd9c2de99": {
+   "id": "00740305434ca89eb644d09cd9c2de99",
+   "company": "Busy Bees Early Learning Australia",
+   "role": "Casual Diploma Educator",
+   "location": "Chinchilla"
+  },
   "05c31af9632f030b116b02b44314c294": {
    "id": "05c31af9632f030b116b02b44314c294",
    "company": "Knox City Council",
@@ -1040,18 +1046,6 @@
    "role": "Casual Educator I Busy Bees At Aveley",
    "location": "Perth"
   },
-  "6e1f10a8f657c6d7da794e4c2f3e0e0e": {
-   "id": "6e1f10a8f657c6d7da794e4c2f3e0e0e",
-   "company": "Busy Bees Early Learning Australia",
-   "role": "Casual Educator I Busy Bees At Aveley",
-   "location": "Perth"
-  },
-  "00740305434ca89eb644d09cd9c2de99": {
-   "id": "00740305434ca89eb644d09cd9c2de99",
-   "company": "Busy Bees Early Learning Australia",
-   "role": "Casual Diploma Educator",
-   "location": "Chinchilla"
-  },
   "e38c64e01a489a384c2cea13e03ff0c5": {
    "id": "e38c64e01a489a384c2cea13e03ff0c5",
    "company": "cbcity",
@@ -1099,12 +1093,6 @@
    "company": "Macquarie Group",
    "role": "Casual Lifeguard",
    "location": "Sydney"
-  },
-  "238aee71220fdab2a7d52a7ce07c0e18": {
-   "id": "238aee71220fdab2a7d52a7ce07c0e18",
-   "company": "Busy Bees",
-   "role": "Casual Educator I Montessori Tingalpa By Busy Bees",
-   "location": "Brisbane"
   },
   "f2d53786c7319db3b2251e32a543234e": {
    "id": "f2d53786c7319db3b2251e32a543234e",
@@ -1172,18 +1160,6 @@
    "role": "Oshc Educator / Earnshaw",
    "location": "Nudgee"
   },
-  "65d5cc51f6b02c42b7b5a0048862c7a9": {
-   "id": "65d5cc51f6b02c42b7b5a0048862c7a9",
-   "company": "Busy Bees Early Learning Australia",
-   "role": "Casual Educator",
-   "location": "Melbourne +9"
-  },
-  "8e39868222ea22bd2bc9d222edb766ae": {
-   "id": "8e39868222ea22bd2bc9d222edb766ae",
-   "company": "Busy Bees Early Learning Australia",
-   "role": "Educator",
-   "location": "Adelaide"
-  },
   "daa8a84f62c666f7f051bb1875f6db82": {
    "id": "daa8a84f62c666f7f051bb1875f6db82",
    "company": "Beestinger",
@@ -1201,6 +1177,12 @@
    "company": "Affinity Education Group",
    "role": "Lead Educator",
    "location": "Sydney"
+  },
+  "8e39868222ea22bd2bc9d222edb766ae": {
+   "id": "8e39868222ea22bd2bc9d222edb766ae",
+   "company": "Busy Bees Early Learning Australia",
+   "role": "Educator",
+   "location": "Adelaide"
   },
   "4d55bfef9ae1f6992fc789164c524f2e": {
    "id": "4d55bfef9ae1f6992fc789164c524f2e",
@@ -3452,12 +3434,6 @@
    "role": "Kitchen Attendant Grade 1",
    "location": "Maroochydore"
   },
-  "f51c30265cfb3c79067fea9d88f03df8": {
-   "id": "f51c30265cfb3c79067fea9d88f03df8",
-   "company": "Hungry Jack's",
-   "role": "Team Member",
-   "location": "Perth"
-  },
   "e99a891b727fdceab7429cb8defb8e01": {
    "id": "e99a891b727fdceab7429cb8defb8e01",
    "company": "Hungry Jack's",
@@ -3468,6 +3444,12 @@
    "id": "9fd0566f55c0fae39b758cde5711fc56",
    "company": "Hungry Jack's",
    "role": "Closing Staff (8pm-1am)",
+   "location": "Perth"
+  },
+  "f51c30265cfb3c79067fea9d88f03df8": {
+   "id": "f51c30265cfb3c79067fea9d88f03df8",
+   "company": "Hungry Jack's",
+   "role": "Team Member",
    "location": "Perth"
   },
   "f3bfad2f36d5b1c5a10b3f8bdcff7165": {
@@ -3481,6 +3463,66 @@
    "company": "Hungry Jack's",
    "role": "Crew Members Murray Bridge",
    "location": "Adelaide"
+  },
+  "e32a5f8d49d8add1ebc5b5511b5e2b93": {
+   "id": "e32a5f8d49d8add1ebc5b5511b5e2b93",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Kitchen Steward",
+   "location": "Cairns +1"
+  },
+  "e4d4d217772b727f1b6ae492aea3d7df": {
+   "id": "e4d4d217772b727f1b6ae492aea3d7df",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Bar Supervisor - Mr Mills",
+   "location": "Melbourne"
+  },
+  "817fdf7e3640f25a42b9999c033716e2": {
+   "id": "817fdf7e3640f25a42b9999c033716e2",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Food & Beverage Attendant - Hop & Huddle Mercure Perth On Hay",
+   "location": "Perth"
+  },
+  "7ab9a748593b5f33e4d74a4367e45995": {
+   "id": "7ab9a748593b5f33e4d74a4367e45995",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual Cook",
+   "location": "Brisbane +4"
+  },
+  "34d8c30608d2e24d4741ad282bc6aefc": {
+   "id": "34d8c30608d2e24d4741ad282bc6aefc",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual Crew - Lunch & Closes",
+   "location": "Melbourne"
+  },
+  "dbfdeecd4d1a19f231d750141fdf9ddb": {
+   "id": "dbfdeecd4d1a19f231d750141fdf9ddb",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual Overnight Crew",
+   "location": "Melbourne"
+  },
+  "bc6dd3b37f71c58639d530bd6309651c": {
+   "id": "bc6dd3b37f71c58639d530bd6309651c",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Crew - Gyg Croydon",
+   "location": "Melbourne"
+  },
+  "88cd0f6fb6c73cad5eb67819e91ecf89": {
+   "id": "88cd0f6fb6c73cad5eb67819e91ecf89",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual - Junior Crew",
+   "location": "Gold Coast"
+  },
+  "cff13195a72b9675c10a38644769a900": {
+   "id": "cff13195a72b9675c10a38644769a900",
+   "company": "Mitcham Hotel",
+   "role": "Chef - Mitcham Hotel",
+   "location": "Melbourne"
+  },
+  "f7cce3a4fda0c1821458029d944ac5f0": {
+   "id": "f7cce3a4fda0c1821458029d944ac5f0",
+   "company": "Porters Liquor",
+   "role": "Food And Beverage Attendant - York On Lilydale",
+   "location": "Melbourne"
   },
   "b9467496b8a5a121e2d4053fbbeebaef": {
    "id": "b9467496b8a5a121e2d4053fbbeebaef",
@@ -3504,42 +3546,6 @@
    "id": "b5e1195842c4d7bc59db87ff217468f5",
    "company": "Porters Liquor",
    "role": "Gaming Supervisor - York On Lilydale",
-   "location": "Melbourne"
-  },
-  "98de66520031c992cb9e977d3cc6e49c": {
-   "id": "98de66520031c992cb9e977d3cc6e49c",
-   "company": "Porters Liquor",
-   "role": "Chef - Manly Hotel",
-   "location": "Sydney"
-  },
-  "bc6dd3b37f71c58639d530bd6309651c": {
-   "id": "bc6dd3b37f71c58639d530bd6309651c",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Crew - Gyg Croydon",
-   "location": "Melbourne"
-  },
-  "88cd0f6fb6c73cad5eb67819e91ecf89": {
-   "id": "88cd0f6fb6c73cad5eb67819e91ecf89",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual - Junior Crew",
-   "location": "Gold Coast"
-  },
-  "2c15cee9066cc355959e326443727c47": {
-   "id": "2c15cee9066cc355959e326443727c47",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual Closing Crew",
-   "location": "Sydney"
-  },
-  "e7b00cb699d8526a26ef1f27211a4d3d": {
-   "id": "e7b00cb699d8526a26ef1f27211a4d3d",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Crew Pt Overnight Shifts - Gyg Casula",
-   "location": "Campbelltown"
-  },
-  "ee6f1d50ff5b10432cc87c1f7dcc4b83": {
-   "id": "ee6f1d50ff5b10432cc87c1f7dcc4b83",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual Late Night/overnight Cook",
    "location": "Melbourne"
   },
   "2905d067c541b817bfacf1a4325c6993": {
@@ -3733,18 +3739,6 @@
    "company": "Installator.dk Hospital",
    "role": "Cook",
    "location": "Maroochydore"
-  },
-  "e4d4d217772b727f1b6ae492aea3d7df": {
-   "id": "e4d4d217772b727f1b6ae492aea3d7df",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Bar Supervisor - Mr Mills",
-   "location": "Melbourne"
-  },
-  "817fdf7e3640f25a42b9999c033716e2": {
-   "id": "817fdf7e3640f25a42b9999c033716e2",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Food & Beverage Attendant - Hop & Huddle Mercure Perth On Hay",
-   "location": "Perth"
   },
   "d775745bd7e133b0b62c3b2a12bce92a": {
    "id": "d775745bd7e133b0b62c3b2a12bce92a",
@@ -4106,30 +4100,6 @@
    "role": "F&b Supervisor (citrique Restaurant) Seasonal",
    "location": "Gold Coast"
   },
-  "0be108bb2d396c70481af990430ef0ad": {
-   "id": "0be108bb2d396c70481af990430ef0ad",
-   "company": "Marriott International",
-   "role": "F&b Supervisor (citrique Restaurant) Seasonal",
-   "location": "Gold Coast"
-  },
-  "b9d60695bbf0614f9a65d3503f6cb92f": {
-   "id": "b9d60695bbf0614f9a65d3503f6cb92f",
-   "company": "Marriott International",
-   "role": "Human Resource Manager (parental Leave Cover)",
-   "location": "Brisbane"
-  },
-  "fe21bf37f42a91356436c7bfa1d2243e": {
-   "id": "fe21bf37f42a91356436c7bfa1d2243e",
-   "company": "Marriott International",
-   "role": "Human Resources Manager (parental Leave Cover)",
-   "location": "Brisbane"
-  },
-  "bb97bdbc944d5f913903b7af27a18a87": {
-   "id": "bb97bdbc944d5f913903b7af27a18a87",
-   "company": "Marriott International",
-   "role": "Manager, Hr Services, Anzp (maternity Cover, 12 Months)",
-   "location": "Sydney"
-  },
   "042a375ec143b2f11889844391e96601": {
    "id": "042a375ec143b2f11889844391e96601",
    "company": "Park Hyatt Melbourne",
@@ -4190,6 +4160,24 @@
    "role": "Midweight Graphic Designer (12 Month Contract)",
    "location": "Sydney"
   },
+  "b9d60695bbf0614f9a65d3503f6cb92f": {
+   "id": "b9d60695bbf0614f9a65d3503f6cb92f",
+   "company": "Marriott International",
+   "role": "Human Resource Manager (parental Leave Cover)",
+   "location": "Brisbane"
+  },
+  "fe21bf37f42a91356436c7bfa1d2243e": {
+   "id": "fe21bf37f42a91356436c7bfa1d2243e",
+   "company": "Marriott International",
+   "role": "Human Resources Manager (parental Leave Cover)",
+   "location": "Brisbane"
+  },
+  "bb97bdbc944d5f913903b7af27a18a87": {
+   "id": "bb97bdbc944d5f913903b7af27a18a87",
+   "company": "Marriott International",
+   "role": "Manager, Hr Services, Anzp (maternity Cover, 12 Months)",
+   "location": "Sydney"
+  },
   "eb258631e817cb1e2b1ec56039d38cea": {
    "id": "eb258631e817cb1e2b1ec56039d38cea",
    "company": "Hotel Chadstone Melbourne MGallery",
@@ -4225,6 +4213,36 @@
    "company": "Puma",
    "role": "Casual Sales Associate - South Wharf",
    "location": "South Wharf"
+  },
+  "4702713265348908ac97c2272db9c5a7": {
+   "id": "4702713265348908ac97c2272db9c5a7",
+   "company": "Tip Top",
+   "role": "Casual / Merchandiser / Midland",
+   "location": "Perth"
+  },
+  "8288586a00d5f02520b969a6f6b47272": {
+   "id": "8288586a00d5f02520b969a6f6b47272",
+   "company": "Tip Top",
+   "role": "Casual / Merchandiser / Blacktown",
+   "location": "Sydney"
+  },
+  "4ae2770055c128aba4dbf8f8b2c0e4fe": {
+   "id": "4ae2770055c128aba4dbf8f8b2c0e4fe",
+   "company": "Tip Top",
+   "role": "Casual / Merchandiser / Hurstville, Roselands",
+   "location": "Sydney"
+  },
+  "d94e6afb7589dbff17d4a62c15dc0d26": {
+   "id": "d94e6afb7589dbff17d4a62c15dc0d26",
+   "company": "Tip Top",
+   "role": "Casual / Merchandiser / Bankstown",
+   "location": "Sydney"
+  },
+  "9b27308719efaf7cb1bc764fcefd7f4f": {
+   "id": "9b27308719efaf7cb1bc764fcefd7f4f",
+   "company": "Tip Top",
+   "role": "Casual / Merchandiser / Butler",
+   "location": "Perth"
   },
   "48f050437b307cf45290cc4b5f386247": {
    "id": "48f050437b307cf45290cc4b5f386247",
@@ -4286,6 +4304,36 @@
    "role": "Casual Merchandiser - Brisbane North",
    "location": "Brisbane"
   },
+  "8ef05f9c8fa2adc4f4ddd3c66bdbb240": {
+   "id": "8ef05f9c8fa2adc4f4ddd3c66bdbb240",
+   "company": "The Good Guys",
+   "role": "Peak Trade - Jb Direct Team Member",
+   "location": "Melbourne"
+  },
+  "369ff4ef697dcd3a85da41f47c3f8eb0": {
+   "id": "369ff4ef697dcd3a85da41f47c3f8eb0",
+   "company": "The Good Guys",
+   "role": "Christmas Casual - Burwood",
+   "location": "Sydney"
+  },
+  "6ff7e9a65c363d3a5103059faf33ecce": {
+   "id": "6ff7e9a65c363d3a5103059faf33ecce",
+   "company": "The Good Guys",
+   "role": "Christmas Casual - Homebush Home",
+   "location": "Sydney"
+  },
+  "bbed905029054a85e915b12253be472e": {
+   "id": "bbed905029054a85e915b12253be472e",
+   "company": "The Good Guys",
+   "role": "Christmas Casual - Hurstville",
+   "location": "Sydney"
+  },
+  "929b01a51f6c8979a1d004ce0a46c334": {
+   "id": "929b01a51f6c8979a1d004ce0a46c334",
+   "company": "The Good Guys",
+   "role": "Christmas Casual - World Square",
+   "location": "Sydney"
+  },
   "239992acf8c39f7ccf8010b45969895e": {
    "id": "239992acf8c39f7ccf8010b45969895e",
    "company": "Porters Liquor",
@@ -4346,40 +4394,16 @@
    "role": "Team Member - Melville",
    "location": "Perth"
   },
+  "819f8a27e8ec8ec8bfce17bc9b5f56b5": {
+   "id": "819f8a27e8ec8ec8bfce17bc9b5f56b5",
+   "company": "Dan Murphy’s",
+   "role": "Customer Assistant - Dan Murphy’s Oxenford",
+   "location": "Gold Coast"
+  },
   "b6608eb2b2845dc8c2c500b3fe5107b1": {
    "id": "b6608eb2b2845dc8c2c500b3fe5107b1",
    "company": "Skip to main con",
    "role": "Customer Service Officer",
-   "location": "Sydney"
-  },
-  "369ff4ef697dcd3a85da41f47c3f8eb0": {
-   "id": "369ff4ef697dcd3a85da41f47c3f8eb0",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Burwood",
-   "location": "Sydney"
-  },
-  "6ff7e9a65c363d3a5103059faf33ecce": {
-   "id": "6ff7e9a65c363d3a5103059faf33ecce",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Homebush Home",
-   "location": "Sydney"
-  },
-  "bbed905029054a85e915b12253be472e": {
-   "id": "bbed905029054a85e915b12253be472e",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Hurstville",
-   "location": "Sydney"
-  },
-  "929b01a51f6c8979a1d004ce0a46c334": {
-   "id": "929b01a51f6c8979a1d004ce0a46c334",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - World Square",
-   "location": "Sydney"
-  },
-  "3c8e58f9c5a972ced2bdac6910e13876": {
-   "id": "3c8e58f9c5a972ced2bdac6910e13876",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Westfield Sydney",
    "location": "Sydney"
   },
   "3d9122162b607a0bcfb55babe99ac2fd": {
@@ -4405,12 +4429,6 @@
    "company": "Repco Australia - A Division of…",
    "role": "Customer Sales & Service - Repco Goondiwindi - Casual",
    "location": "Goondiwindi"
-  },
-  "4843631fabc9f71d50adea77f5f4e74a": {
-   "id": "4843631fabc9f71d50adea77f5f4e74a",
-   "company": "Repco Australia - A Division of…",
-   "role": "Customer Sales & Service - Repco Mt Gambier - Casual",
-   "location": "Mt Gambier"
   },
   "796d1dd0dafe7d79e3af57e87b7b5295": {
    "id": "796d1dd0dafe7d79e3af57e87b7b5295",
@@ -4478,30 +4496,6 @@
    "role": "Junior Store Assistant - Melbourne",
    "location": "Melbourne"
   },
-  "8288586a00d5f02520b969a6f6b47272": {
-   "id": "8288586a00d5f02520b969a6f6b47272",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Blacktown",
-   "location": "Sydney"
-  },
-  "4ae2770055c128aba4dbf8f8b2c0e4fe": {
-   "id": "4ae2770055c128aba4dbf8f8b2c0e4fe",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Hurstville, Roselands",
-   "location": "Sydney"
-  },
-  "d94e6afb7589dbff17d4a62c15dc0d26": {
-   "id": "d94e6afb7589dbff17d4a62c15dc0d26",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Bankstown",
-   "location": "Sydney"
-  },
-  "9b27308719efaf7cb1bc764fcefd7f4f": {
-   "id": "9b27308719efaf7cb1bc764fcefd7f4f",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Butler",
-   "location": "Perth"
-  },
   "62a8f6c7eb05ea722b03d7e5f6591bc3": {
    "id": "62a8f6c7eb05ea722b03d7e5f6591bc3",
    "company": "Salvation Army",
@@ -4562,12 +4556,6 @@
    "role": "Sales Assistant - Casual - Smiggle - Jindalee",
    "location": "Brisbane"
   },
-  "464df877c2af1c2ec50c5f0f55d0adf8": {
-   "id": "464df877c2af1c2ec50c5f0f55d0adf8",
-   "company": "GPC Tools & Equipment Sydney",
-   "role": "Customer Sales & Service - Repco Mt Gambier - Casual",
-   "location": "Mt Gambier"
-  },
   "e5d3181001ecbb76021d58b0a467ab1d": {
    "id": "e5d3181001ecbb76021d58b0a467ab1d",
    "company": "Levis Media",
@@ -4598,6 +4586,12 @@
    "role": "Part Time Sales Retail Team Member - Hobart",
    "location": "Hobart"
   },
+  "8d7b3fd7a680650b53e97c50d6926501": {
+   "id": "8d7b3fd7a680650b53e97c50d6926501",
+   "company": "Puma",
+   "role": "Part Time Retail Supervisors - Brisbane Dfo",
+   "location": "Brisbane"
+  },
   "e77c6dbf0428dc99fd8fd7207c136023": {
    "id": "e77c6dbf0428dc99fd8fd7207c136023",
    "company": "Royal Automobile Club of Victoria",
@@ -4609,6 +4603,12 @@
    "company": "Royal Automobile Club of Victoria",
    "role": "Retail Travel Sales Consultant",
    "location": "Geelong"
+  },
+  "80e00f38611175e711e812c49700607d": {
+   "id": "80e00f38611175e711e812c49700607d",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Associate Dispenser I Opsm I Part Time I Booragoon, Wa",
+   "location": "Perth"
   },
   "c86e4dc9c139d8ea665ee3e2d30860d2": {
    "id": "c86e4dc9c139d8ea665ee3e2d30860d2",
@@ -4664,12 +4664,6 @@
    "role": "Sales Consultant - Rouse Hill",
    "location": "Sydney"
   },
-  "ee5d93bb78b61230c953d9449820c0f8": {
-   "id": "ee5d93bb78b61230c953d9449820c0f8",
-   "company": "Swarovski",
-   "role": "Sales Consultant - Eastern Creek Fo",
-   "location": "Nsw"
-  },
   "8dccccd3ab109be21efe76e71618f5bc": {
    "id": "8dccccd3ab109be21efe76e71618f5bc",
    "company": "Aldi Australia",
@@ -4724,12 +4718,6 @@
    "role": "Liquor Team Member - Bws St Clair Blue Cattle Dog",
    "location": "Campbelltown"
   },
-  "aea2dffd9593d2923730f9385496bd97": {
-   "id": "aea2dffd9593d2923730f9385496bd97",
-   "company": "Porters Liquor",
-   "role": "Liquor Team Member - Bws Pelican Waters",
-   "location": "Maroochydore"
-  },
   "c8bbfc8530a03077457c318e4e6a93c5": {
    "id": "c8bbfc8530a03077457c318e4e6a93c5",
    "company": "Telstra",
@@ -4766,6 +4754,12 @@
    "role": "Customer Banking Specialist - Mentone",
    "location": "Melbourne"
   },
+  "da01158acece6675e45bf4bff94e8eb0": {
+   "id": "da01158acece6675e45bf4bff94e8eb0",
+   "company": "CommSec",
+   "role": "Customer Banking Specialist - Mentone",
+   "location": "Melbourne"
+  },
   "84060b31ebe0989ed4dd044c1bc409bc": {
    "id": "84060b31ebe0989ed4dd044c1bc409bc",
    "company": "H&M",
@@ -4777,6 +4771,18 @@
    "company": "H&M",
    "role": "Part Time Sales Advisor (the Strand, Melbourne)",
    "location": "Melbourne"
+  },
+  "fb6718397b3b20eecd0b538c99a644da": {
+   "id": "fb6718397b3b20eecd0b538c99a644da",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Part Time Sales Advisor (chatswood Chase)",
+   "location": "Sydney"
+  },
+  "2173cb2ac7e63b17a350f9553f0c7608": {
+   "id": "2173cb2ac7e63b17a350f9553f0c7608",
+   "company": "Dan Murphy's",
+   "role": "Liquor Team Member - Bws Robina",
+   "location": "Gold Coast"
   },
   "3a0b76ccdcd2b8da90da452ede1722e2": {
    "id": "3a0b76ccdcd2b8da90da452ede1722e2",
@@ -4909,24 +4915,6 @@
    "company": "Telferplaceltc",
    "role": "Telstra Retail: Part Time Customer Service & Sales Consultant Broken Hill",
    "location": "Broken Hill"
-  },
-  "f2a3bb790dabecbfab2a38ba0353dd3f": {
-   "id": "f2a3bb790dabecbfab2a38ba0353dd3f",
-   "company": "Pinnacle Drinks",
-   "role": "Customer Assistant - Dan Murphy's Caroline Springs",
-   "location": "Melbourne"
-  },
-  "0eecb0a027ecf082f28ba6f7f58d1032": {
-   "id": "0eecb0a027ecf082f28ba6f7f58d1032",
-   "company": "Pinnacle Drinks",
-   "role": "Liquor Team Member - Bws Winston Hills",
-   "location": "Sydney"
-  },
-  "cc891c0e2ca4484baab61a7084820d17": {
-   "id": "cc891c0e2ca4484baab61a7084820d17",
-   "company": "Pinnacle Drinks",
-   "role": "Customer Assistant - Dan Murphy’s South Fremantle",
-   "location": "South Fremantle"
   },
   "951867b170d4bb93a6b19a5ea3911120": {
    "id": "951867b170d4bb93a6b19a5ea3911120",

@@ -904,4 +904,21 @@
 <tr><td>Trek Bikes</td><td>Sales Associate - Full Time (seasonal)</td><td>Melbourne</td><td>2026-08-23</td></tr>
 <tr><td>CommSec</td><td>Customer Service Representative - Haymarket (12 Months Fixed Contract)</td><td>Sydney</td><td>2026-08-23</td></tr>
 <tr><td>Genpt</td><td>Sales Assistant - Amx Nunawading - Casual</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Delaware North</td><td>Food And Beverage Opportunities, Melbourne Cup Carnival</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Delaware North</td><td>Cook, Perth Airport</td><td>Perth</td><td>2026-08-23</td></tr>
+<tr><td>Busy Bees</td><td>Casual Educator I Montessori Tingalpa By Busy Bees</td><td>Brisbane</td><td>2026-08-23</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Casual Educator</td><td>Melbourne +9</td><td>2026-08-23</td></tr>
+<tr><td>Porters Liquor</td><td>Chef - Manly Hotel</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Closing Crew</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew Pt Overnight Shifts - Gyg Casula</td><td>Campbelltown</td><td>2026-08-23</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Late Night/overnight Cook</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Marriott International</td><td>F&b Supervisor (citrique Restaurant) Seasonal</td><td>Gold Coast</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Westfield Sydney</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Repco Australia - A Division of…</td><td>Customer Sales & Service - Repco Mt Gambier - Casual</td><td>Mt Gambier</td><td>2026-08-23</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Mt Gambier - Casual</td><td>Mt Gambier</td><td>2026-08-23</td></tr>
+<tr><td>Swarovski</td><td>Sales Consultant - Eastern Creek Fo</td><td>Nsw</td><td>2026-08-23</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Pelican Waters</td><td>Maroochydore</td><td>2026-08-23</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy's Caroline Springs</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Winston Hills</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy’s South Fremantle</td><td>South Fremantle</td><td>2026-08-23</td></tr>
 </table>
