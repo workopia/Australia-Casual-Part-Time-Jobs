@@ -921,4 +921,30 @@
 <tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy's Caroline Springs</td><td>Melbourne</td><td>2026-08-23</td></tr>
 <tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Winston Hills</td><td>Sydney</td><td>2026-08-23</td></tr>
 <tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy’s South Fremantle</td><td>South Fremantle</td><td>2026-08-23</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Allied Health Assistant</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Personal Carer</td><td>Carbrook +1</td><td>2026-08-24</td></tr>
+<tr><td>Motionsolutions</td><td>Store Person - Jtr Cleveland - Casual</td><td>Brisbane</td><td>2026-08-24</td></tr>
+<tr><td>RACV</td><td>Room Attendant</td><td>Noosa Resort +4</td><td>2026-08-24</td></tr>
+<tr><td>The Marian Center</td><td>Housekeeping (cleaner)</td><td>Cairns</td><td>2026-08-24</td></tr>
+<tr><td>AccorHotels</td><td>Commis Chef</td><td>Perth</td><td>2026-08-24</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Southbank Brisbane</td><td>Brisbane</td><td>2026-08-24</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Bundoora</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Wanneroo</td><td>Perth</td><td>2026-08-24</td></tr>
+<tr><td>Officeworks</td><td>Team Member - Casual</td><td>Gold Coast +7</td><td>2026-08-24</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Homebush Factory Outlet, Nsw</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual (morwell)</td><td>Morwell</td><td>2026-08-24</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual (swan Hill)</td><td>Swan Hill</td><td>2026-08-24</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Seasonal Casual (rosebud)</td><td>Geelong</td><td>2026-08-24</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual (port Stephens)</td><td>Port Stephens</td><td>2026-08-24</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Casual - Peter Alexander - Jindalee Dfo</td><td>Brisbane</td><td>2026-08-24</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Casual - Peter Alexander - Harbourtown Dfo</td><td>Gold Coast</td><td>2026-08-24</td></tr>
+<tr><td>Smiggle</td><td>Sales Assistant - Casual - Smiggle - Jindalee</td><td>Brisbane</td><td>2026-08-24</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws St Clair Blue Cattle Dog</td><td>Campbelltown</td><td>2026-08-24</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Customer Service & Sales Consultant (expression Of Interest)</td><td>Melbourne +16</td><td>2026-08-24</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Castle Hill</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Customer Service & Sales Consultant</td><td>Esperance +1</td><td>2026-08-24</td></tr>
+<tr><td>RFD TV Streaming</td><td>Inbound Sales Consultant</td><td>Traralgon</td><td>2026-08-24</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant (part-time) - Port Adelaide</td><td>Port Adelaide</td><td>2026-08-24</td></tr>
+<tr><td>Tstelemed</td><td>Part Time Customer Service & Sales Consultant Singleton</td><td>Newcastle</td><td>2026-08-24</td></tr>
+<tr><td>Telferplaceltc</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Broken Hill</td><td>Broken Hill</td><td>2026-08-24</td></tr>
 </table>
