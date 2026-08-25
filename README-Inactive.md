@@ -947,4 +947,108 @@
 <tr><td>Reece Group</td><td>Trade Counter Assistant (part-time) - Port Adelaide</td><td>Port Adelaide</td><td>2026-08-24</td></tr>
 <tr><td>Tstelemed</td><td>Part Time Customer Service & Sales Consultant Singleton</td><td>Newcastle</td><td>2026-08-24</td></tr>
 <tr><td>Telferplaceltc</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Broken Hill</td><td>Broken Hill</td><td>2026-08-24</td></tr>
+<tr><td>SVHA</td><td>Personal Care Assistant - Casual</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>SVHA</td><td>Maternity – Assistant In Midwifery/nursing Ward Night Shift</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Nursing Assistant</td><td>Norah Head +3</td><td>2026-08-25</td></tr>
+<tr><td>HammondCare</td><td>Specialised Carer - Home Care</td><td>Melbourne +6</td><td>2026-08-25</td></tr>
+<tr><td>HammondCare</td><td>Specialised Carer - Dementia Care</td><td>Wollongong +1</td><td>2026-08-25</td></tr>
+<tr><td>Full Well Bodywork</td><td>Support Worker</td><td>Cheapside Street +1</td><td>2026-08-25</td></tr>
+<tr><td>Sdhhns</td><td>Personal Care Assistant</td><td>Brisbane +2</td><td>2026-08-25</td></tr>
+<tr><td>Sdhhns</td><td>Personal Care Assistant - Casual</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Sdhhns</td><td>Maternity – Assistant In Midwifery/nursing Ward Night Shift</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Sdhhns</td><td>Allied Health Assistant</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>St Vincent’s Care Bardon</td><td>Personal Care Assistant</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>The Mater Hospital</td><td>Maternity – Assistant In Midwifery/nursing Ward Night Shift</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>St Vincent's Care Services</td><td>Personal Care Assistant - Casual</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Joslin Manor Care Community</td><td>Joslin</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker Cert Iv 007 - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Killarney Vale Care Community</td><td>Killary Vale</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing -hamlyn Terrace Care Community</td><td>Hamlyn</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing Cert 4 With 007 - Greenwich Horizons Care Community</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>UnitingCare</td><td>Mental Health Support Worker - Cps Oatlands</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer Trainee</td><td>Cairns +2</td><td>2026-08-25</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer Domestic</td><td>Brisbane +2</td><td>2026-08-25</td></tr>
+<tr><td>BlueCare</td><td>Personal Carer Trainee</td><td>Townsville</td><td>2026-08-25</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Personal Care Worker - Residential Aged Care North</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>Dm50</td><td>Lifestyle Carer</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Dm50</td><td>Carer</td><td>Carlingford House +2</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker / Bannockburn</td><td>Bannockburn Vic</td><td>2026-08-25</td></tr>
+<tr><td>The Salvation Army</td><td>Operations Support Worker</td><td>Mount Isa</td><td>2026-08-25</td></tr>
+<tr><td>The Salvation Army Employment Plus</td><td>Operations Support Worker</td><td>Mount Isa</td><td>2026-08-25</td></tr>
+<tr><td>Wellways</td><td>Home Care Worker - Wagga</td><td>Wagga Wagga</td><td>2026-08-25</td></tr>
+<tr><td>Full Well Bodywork</td><td>Home Care Worker - Wagga</td><td>Wagga Wagga</td><td>2026-08-25</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Casual Educator</td><td>Brisbane +33</td><td>2026-08-25</td></tr>
+<tr><td>UnitingCare</td><td>Casual Educator - Regional Nsw And Northern Rivers</td><td>Grafton</td><td>2026-08-25</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Food & Beverage Supervisor - Conference & Events</td><td>RACV City Club</td><td>2026-08-25</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Store Person - Jtr Cleveland - Casual</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>EssilorLuxottica</td><td>Warehouse Operator</td><td>Silverwater</td><td>2026-08-25</td></tr>
+<tr><td>Mymhcommunity</td><td>Community Transport Driver</td><td>Newcastle</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Housekeeping Services Officer - Bossley Parkside Care Community</td><td>Campbelltown</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Housekeeping Services Officer - Ashfield Terrace Care Community</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Spotless</td><td>Casual Cleaners - Harrisdale</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Housekeeper (cleaner/laundry Attendant)</td><td>Yarra Valley</td><td>2026-08-25</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Domestic Assistant (cairns)</td><td>Cairns</td><td>2026-08-25</td></tr>
+<tr><td>Downer</td><td>Casual Cleaners - Harrisdale</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Downer</td><td>Cleaner (casual) - Coastal Lakes</td><td>Lakelands</td><td>2026-08-25</td></tr>
+<tr><td>Techandleisure</td><td>Maintenance Officer</td><td>Seven Mile Beach +1</td><td>2026-08-25</td></tr>
+<tr><td>Downer EDI</td><td>Casual Cleaners - Harrisdale</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Cleaning Team Member</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>AccorHotels</td><td>Room Attendant</td><td>Cairns</td><td>2026-08-25</td></tr>
+<tr><td>Novotel Cairns Oasis Resort</td><td>Room Attendant</td><td>Cairns</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Hygiene Operative</td><td>Gold Coast</td><td>2026-08-25</td></tr>
+<tr><td>University of Northern Iowa</td><td>Expression Of Interest - Housekeeper</td><td>Wallumattagal Campus</td><td>2026-08-25</td></tr>
+<tr><td>Macquarie Group</td><td>Expression Of Interest - Housekeeper</td><td>Wallumattagal Campus</td><td>2026-08-25</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Cleaner</td><td>Gold Coast</td><td>2026-08-25</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Members Murray Bridge</td><td>Adelaide</td><td>2026-08-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food & Beverage Attendant - Hop & Huddle Mercure Perth On Hay</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - Gyg Croydon</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual - Junior Crew</td><td>Gold Coast</td><td>2026-08-25</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Gaming Attendant - Berwick Inn Hotel</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>NRMA</td><td>Chef De Partie</td><td>Strahan</td><td>2026-08-25</td></tr>
+<tr><td>NRMA</td><td>Commis Chef</td><td>Strahan</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Demi Chef - Toongabbie Terrace Care Communityy</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Cook - Caboolture Parklands Care Community</td><td>Caboolture Parklands</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Demi Chef - Mill Park Manor Care Community</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Sous Chef - Mill Park Manor Care Community</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Front Office All Rounder</td><td>Sydney +1</td><td>2026-08-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food & Beverage Team Leader</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Cook / Victoria Heights / Part Time</td><td>Victoria Heights</td><td>2026-08-25</td></tr>
+<tr><td>Anglicare</td><td>Cook</td><td>Campbelltown +1</td><td>2026-08-25</td></tr>
+<tr><td>Wyndham</td><td>Guest Experience Host</td><td>Geelong +1</td><td>2026-08-25</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Food & Beverage Attendant - Hop & Huddle Mercure Perth On Hay</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Night Manager - Mercure Newcastle</td><td>Newcastle</td><td>2026-08-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Supervisor</td><td>Maroochydore</td><td>2026-08-25</td></tr>
+<tr><td>BlueCare</td><td>Cook</td><td>Carina</td><td>2026-08-25</td></tr>
+<tr><td>Busy Bees at Springfield Lakes</td><td>Chef</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>W Brisbane</td><td>F&b Supervisor (citrique Restaurant) Seasonal</td><td>Gold Coast</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Midland</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Blacktown</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Hurstville, Roselands</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Bankstown</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Butler</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>Mybunknbiscuit</td><td>Customer Service Team Member - Seasonal Casual (noarlunga, Reynella, Seaford)</td><td>Noarlunga</td><td>2026-08-25</td></tr>
+<tr><td>Mybunknbiscuit</td><td>Customer Service Team Member - Seasonal Casual (rosebud)</td><td>Geelong</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - World Square</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Hamilton (nsw)</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Melbourne</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Salvation Army</td><td>Casual Sales Assistant</td><td>Angle Park</td><td>2026-08-25</td></tr>
+<tr><td>Salvation Army</td><td>Casual Sales Assistants - Gold Coast Area</td><td>Gold Coast</td><td>2026-08-25</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +14</td><td>2026-08-25</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Retail Travel Sales Consultant</td><td>Geelong</td><td>2026-08-25</td></tr>
+<tr><td>L&C Food</td><td>Nando's Team Member - Epping Pacific</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Swarovski</td><td>Sales Consultant - Rouse Hill</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Pawllywood</td><td>Sales Consultant</td><td>Adelaide +4</td><td>2026-08-25</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member</td><td>Gold Coast +11</td><td>2026-08-25</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Full Time/part Time</td><td>Mt Isa Store</td><td>2026-08-25</td></tr>
+<tr><td>Bunnings Group</td><td>Retail Supervisor - Admin</td><td>Brunswick Store</td><td>2026-08-25</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Timber Yard - Part Time</td><td>Mudgee Store</td><td>2026-08-25</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Part Time - Peter Alexander - Crown</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Part Time - Peter Alexander - Jindalee Dfo</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Part Time - Peter Alexander -brisbane Dfo</td><td>Brisbane</td><td>2026-08-25</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Part Time - Peter Alexander - Harbourtown</td><td>Harbourtown</td><td>2026-08-25</td></tr>
+<tr><td>Pfh</td><td>Retail Pos Support Analyst</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Pvhcc</td><td>Retail Pos Support Analyst</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Medilaw Group</td><td>Customer Service Officer</td><td>Adelaide</td><td>2026-08-25</td></tr>
+<tr><td>Dmhvh</td><td>Retail Pos Support Analyst</td><td>Sydney</td><td>2026-08-25</td></tr>
 </table>
