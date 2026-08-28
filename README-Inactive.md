@@ -1569,4 +1569,35 @@
 <tr><td>BWS</td><td>Liquor Team Member - Bws Ashwood</td><td>Melbourne</td><td>2026-08-28</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Oxenford</td><td>Gold Coast</td><td>2026-08-28</td></tr>
 <tr><td>Grill’d</td><td>Team Member - Chadstone Village</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Mandurah Area</td><td>Mandurah</td><td>2026-08-28</td></tr>
+<tr><td>Avisbudgetgroup</td><td>Cleaner / Car Groomer (casual)</td><td>Williamtown</td><td>2026-08-28</td></tr>
+<tr><td>Jimmy Brings</td><td>Guest Services Attendant (housekeeping) - High Flyer Hotel</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>InterContinental Hotels Group…</td><td>Room Attendant - Intercontinental Hayman Great Barrier Reef</td><td>Hayman Island</td><td>2026-08-28</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Shift Leader</td><td>Melbourne +3</td><td>2026-08-28</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - New Restaurant Opening!</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Kitchen Steward</td><td>Cairns +1</td><td>2026-08-28</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Food & Beverage Attendant</td><td>Melbourne +3</td><td>2026-08-28</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Commis Chef Or Kitchen Attendant/cook</td><td>Gold Coast</td><td>2026-08-28</td></tr>
+<tr><td>Opal HealthCare</td><td>Weekend Sous Chef - Lakes Entrance Care Community</td><td>Lakes Entrance</td><td>2026-08-28</td></tr>
+<tr><td>Opal HealthCare</td><td>Cook - Springwood Greens Care Community</td><td>Brisbane</td><td>2026-08-28</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Wilsonton</td><td>Toowoomba</td><td>2026-08-28</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Cairns</td><td>Cairns</td><td>2026-08-28</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Burleigh Waters</td><td>Gold Coast</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Yarrawonga Central</td><td>Yarrawonga</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Deagon</td><td>Deagon</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Maroochydore</td><td>Maroochydore</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Yass</td><td>Belconnen</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Mooroopna</td><td>Mooroopna</td><td>2026-08-28</td></tr>
+<tr><td>Ampol</td><td>Team Member - Hervey Bay</td><td>Hervey Bay</td><td>2026-08-28</td></tr>
+<tr><td>Ampol</td><td>Team Member - Redbank Plains</td><td>Brisbane</td><td>2026-08-28</td></tr>
+<tr><td>Ampol</td><td>Team Member - Oxenford</td><td>Gold Coast</td><td>2026-08-28</td></tr>
+<tr><td>The Salvation Army</td><td>Casual Sales Assistant</td><td>Mt.Barker +2</td><td>2026-08-28</td></tr>
+<tr><td>The Salvation Army</td><td>Casual Sales Assistant - Batemans Bay</td><td>Batemans Bay</td><td>2026-08-28</td></tr>
+<tr><td>Saveonsahara</td><td>Casual Sales Assistant - Batemans Bay</td><td>Batemans Bay</td><td>2026-08-28</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Sales Assistant - Amx Virginia - Casual</td><td>Virginia</td><td>2026-08-28</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Busselton - Casual</td><td>Busselton</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Mt Hawthorn East</td><td>Perth</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Petrie Terrace The Barracks</td><td>Brisbane</td><td>2026-08-28</td></tr>
+<tr><td>Grill’d</td><td>Team Member - Monash Uni Clayton</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Grill’d</td><td>Team Member - Chadstone Centre</td><td>Melbourne</td><td>2026-08-28</td></tr>
 </table>
