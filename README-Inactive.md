@@ -1555,4 +1555,18 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Casual Sales Advisor - Chadstone</td><td>Melbourne</td><td>2026-08-28</td></tr>
 <tr><td>H&M</td><td>Casual Sales Advisor - Chadstone</td><td>Melbourne</td><td>2026-08-28</td></tr>
 <tr><td>Aloyoga Inc</td><td>Talent Specialist - Retail (temp - Fixed Term Contract)</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>Dementia Support Australia</td><td>Specialised Carer - Home Care</td><td>Cowra +1</td><td>2026-08-28</td></tr>
+<tr><td>The Good Guys</td><td>Warehouse Team Member</td><td>Brisbane +6</td><td>2026-08-28</td></tr>
+<tr><td>InterContinental Hotels Group…</td><td>Room Attendant (part-time And Casual) / Crowne Plaza Geelong</td><td>Geelong</td><td>2026-08-28</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Domestic Assistant (brisbane North)</td><td>Brisbane North</td><td>2026-08-28</td></tr>
+<tr><td>Pullman Cairns International</td><td>Housekeeping All Rounder</td><td>Cairns</td><td>2026-08-28</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food And Beverage Team Leader - Banquets</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>Opal HealthCare</td><td>Cook - Berrinba Greens Care Community</td><td>Browns Plains</td><td>2026-08-28</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Newcastle West</td><td>Newcastle West</td><td>2026-08-28</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Wynnum West</td><td>Brisbane</td><td>2026-08-28</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Brighton</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Repco Australia</td><td>Customer Sales & Service - Repco Busselton - Casual</td><td>Busselton</td><td>2026-08-28</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Ashwood</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Oxenford</td><td>Gold Coast</td><td>2026-08-28</td></tr>
+<tr><td>Grill’d</td><td>Team Member - Chadstone Village</td><td>Melbourne</td><td>2026-08-28</td></tr>
 </table>
