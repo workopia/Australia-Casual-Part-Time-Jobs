@@ -1989,4 +1989,70 @@
 <tr><td>Priceline Pty Ltd</td><td>Glow Advisor - Part Time</td><td>Perth</td><td>2026-08-30</td></tr>
 <tr><td>atomica</td><td>Glow Advisor - Part Time</td><td>Adelaide</td><td>2026-08-30</td></tr>
 <tr><td>Smiggle</td><td>Assistant Retail Store Manager / Smiggle / Chatswood Chase</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>LSKD</td><td>Bondi Seasonal Casual - Retail Educator</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>LSKD</td><td>Werribee Seasonal Casual - Retail Educator</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>LSKD</td><td>Melbourne Central Seasonal Casual - Retail Educator</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>LSKD</td><td>Armadale Seasonal Casual - Retail Educator</td><td>Perth</td><td>2026-08-31</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Personal Care Assistant</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>St Vincent’s Health Australia</td><td>Personal Care Assistant</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - Casual - Gladswood Lodge</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - Casual - Gisborne And The Macedon Ranges Area</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Armadale Place Care Community</td><td>Perth</td><td>2026-08-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Alfred Cove Care Community</td><td>Alfred Cove</td><td>2026-08-31</td></tr>
+<tr><td>UnitingCare Qld</td><td>Personal Carer</td><td>Melbourne +12</td><td>2026-08-31</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Ain Orthopaedics Ward</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Konekt</td><td>Aged Care Comprehensive Assessor</td><td>Bunbury +1</td><td>2026-08-31</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Casual Educator I Busy Bees At Pimpama</td><td>Gold Coast</td><td>2026-08-31</td></tr>
+<tr><td>University of Melbourne</td><td>Early Childhood Educator’s & Teacher’s, Casual Positions</td><td>Australia</td><td>2026-08-31</td></tr>
+<tr><td>Macquarie</td><td>Course/ Education Support Officer</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Downer Group</td><td>Casual Security Officer - Scuh</td><td>Birtinya</td><td>2026-08-31</td></tr>
+<tr><td>DDR Indigenous Contractors</td><td>Sentry</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>RSL LifeCare</td><td>Care Service Employee - Catering Assistant</td><td>Picton</td><td>2026-08-31</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Hr Driver - Rear Lift</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>QBD Books</td><td>Qbd Books - Online Store</td><td>Richlands QLD</td><td>2026-08-31</td></tr>
+<tr><td>Last Slice Group PTY LTD</td><td>Casual Chauffeur / Executive Driver</td><td>Bunbury</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Warehouse Operator</td><td>Silverwater</td><td>2026-08-31</td></tr>
+<tr><td>AusPost</td><td>Part Time Truck Driver</td><td>Darra</td><td>2026-08-31</td></tr>
+<tr><td>Westfarmer Health</td><td>Storeperson - Part Time</td><td>Berrinba</td><td>2026-08-31</td></tr>
+<tr><td>Chemist Warehouse</td><td>Part Time Store person - CWH Caringbah NSW</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Ferrero LADM</td><td>Logistics Executive (12 Month Contract)</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>HammondCare</td><td>Laundry Attendant</td><td>Hammondville</td><td>2026-08-31</td></tr>
+<tr><td>UnitingCare</td><td>Household Dining Assistant</td><td>Armidale</td><td>2026-08-31</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Guest Services Attendant (housekeeping) - Esplanade Hotel</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>InterContinental Sorrento Morni…</td><td>Room Attendant</td><td>Perth</td><td>2026-08-31</td></tr>
+<tr><td>Chelsea Heights Hotel</td><td>Gaming Attendant - Chelsea Heights Hotel</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Travel + Leisure Co. International</td><td>Guest Experience Host</td><td>Mission Beach +5</td><td>2026-08-31</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Centre Cook</td><td>Melbourne +27</td><td>2026-08-31</td></tr>
+<tr><td>Wyndham Destinations</td><td>Guest Experience Host</td><td>Geelong +5</td><td>2026-08-31</td></tr>
+<tr><td>Travel + Leisure Co.</td><td>Guest Experience Host</td><td>Sydney +1</td><td>2026-08-31</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Melbourne +12</td><td>2026-08-31</td></tr>
+<tr><td>Hanes Australasia</td><td>Casual Sales Assistant / Bonds Outlet / Moorabbin</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Hanes Australasia</td><td>Casual Sales Assistant / Bras N Things / Plenty Valley</td><td>Plenty Valley</td><td>2026-08-31</td></tr>
+<tr><td>Decjuba</td><td>Casual Retail Assistant-rundle Mall</td><td>Adelaide</td><td>2026-08-31</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy's Caloundra</td><td>Maroochydore</td><td>2026-08-31</td></tr>
+<tr><td>Ampol</td><td>Team Member - Yeppoon</td><td>Yeppoon</td><td>2026-08-31</td></tr>
+<tr><td>Caltex Australia</td><td>Kitchen Team Member - Horsham</td><td>Horsham</td><td>2026-08-31</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Shop Assistant</td><td>Sydney +2</td><td>2026-08-31</td></tr>
+<tr><td>The Salvation Army</td><td>Casual Sales Assistant - Bendigo</td><td>Bendigo</td><td>2026-08-31</td></tr>
+<tr><td>The Salvation Army</td><td>Retail Assistant (casual)</td><td>South Bunbury</td><td>2026-08-31</td></tr>
+<tr><td>Aidapply</td><td>Retail Assistant (casual)</td><td>South Bunbury</td><td>2026-08-31</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Retail Assistant (casual)</td><td>South Bunbury</td><td>2026-08-31</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +18</td><td>2026-08-31</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual (mornington, Hastings)</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Mybunknbiscuit</td><td>Customer Service Team Member - Seasonal Casual</td><td>Melbourne +22</td><td>2026-08-31</td></tr>
+<tr><td>Country Road Group</td><td>Politix - Part Time Sales Consultant - David Jones Parramatta</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Part Time Sales Consultant - Myer Indooroopilly</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>Witchery</td><td>Witchery - Part Time Sales Consultant - Myer Cairns</td><td>Cairns</td><td>2026-08-31</td></tr>
+<tr><td>Witchery</td><td>Witchery - Part Time Stockroom Assistant - Myer Sydney</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>L&C Food</td><td>Nandos Capalaba - Team Member</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>L&C Food</td><td>Forest Lake Team Member</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Unanderra</td><td>Wollongong</td><td>2026-08-31</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Wharf</td><td>Maroochydore</td><td>2026-08-31</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Customer Banking Specialist - Maryborough Branch</td><td>Ballarat</td><td>2026-08-31</td></tr>
+<tr><td>CommBank</td><td>Customer Banking Specialist - Maryborough Branch</td><td>Ballarat</td><td>2026-08-31</td></tr>
+<tr><td>Swarovski</td><td>Sales Consultant - Brisbane Airport</td><td>Brisbane</td><td>2026-08-31</td></tr>
+<tr><td>Swarovski</td><td>Part Time Sales Consultant - Collins Street</td><td>Collins St</td><td>2026-08-31</td></tr>
+<tr><td>Nandos</td><td>Nandos Tuart Hill - Team Member</td><td>Perth</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Associate Dispenser I Opsm I Part Time I Rockingham, Wa</td><td>Rockingham</td><td>2026-08-31</td></tr>
+<tr><td>Hanes Australasia</td><td>Assistant Store Manager (stock) / Bonds Outlet / Truganina</td><td>Melbourne</td><td>2026-08-31</td></tr>
 </table>
