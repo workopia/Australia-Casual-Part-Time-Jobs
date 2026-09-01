@@ -2055,4 +2055,64 @@
 <tr><td>Nandos</td><td>Nandos Tuart Hill - Team Member</td><td>Perth</td><td>2026-08-31</td></tr>
 <tr><td>Luxottica Retail Australia Pty Ltd</td><td>Associate Dispenser I Opsm I Part Time I Rockingham, Wa</td><td>Rockingham</td><td>2026-08-31</td></tr>
 <tr><td>Hanes Australasia</td><td>Assistant Store Manager (stock) / Bonds Outlet / Truganina</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Authentics Australia</td><td>Praktikant Consumer Marketing Für Mobile Prepaid (m/w/d) In Düsseldorf</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Personal Care Assistant</td><td>Brisbane +1</td><td>2026-09-01</td></tr>
+<tr><td>SVHA</td><td>Personal Care Assistant</td><td>Melbourne +2</td><td>2026-09-01</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Personal Carer</td><td>Ballarat +8</td><td>2026-09-01</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Personal Care Assistant</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer</td><td>Melbourne +18</td><td>2026-09-01</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Casual Educator / Warringah Mall</td><td>Brookvale New South Wales +1</td><td>2026-09-01</td></tr>
+<tr><td>lululemon</td><td>Casual Educator / Murray Street Mall</td><td>Murray Street Mall</td><td>2026-09-01</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Casual Educator I Yerrabi Ponds By Busy Bees</td><td>Yerrabi Ponds</td><td>2026-09-01</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Permanent Part Time Educator I Busy Bees At Everton Hills</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>MSS Security</td><td>Security Officer - Magistrates Court</td><td>Tasmania</td><td>2026-09-01</td></tr>
+<tr><td>RSL LifeCare</td><td>Catering Assistant</td><td>Sydney +2</td><td>2026-09-01</td></tr>
+<tr><td>AusPost</td><td>Courier Truck Driver (MR), Part time - 3 or 4 days per week</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>AusPost</td><td>Part Time - Van Driver</td><td>Hume</td><td>2026-09-01</td></tr>
+<tr><td>AusPost</td><td>Part Time - Freight Handler</td><td>Tuggerah +1</td><td>2026-09-01</td></tr>
+<tr><td>Perma Composites</td><td>Warehouse Coordinator</td><td>Tullamarine</td><td>2026-09-01</td></tr>
+<tr><td>Estia Health</td><td>Housekeeper</td><td>Sydney +8</td><td>2026-09-01</td></tr>
+<tr><td>Estia Health</td><td>Housekeeping/cleaning Attendant / Noosa</td><td>Maroochydore</td><td>2026-09-01</td></tr>
+<tr><td>dcj</td><td>Maintenance Officer</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member - Casual</td><td>Brisbane +10</td><td>2026-09-01</td></tr>
+<tr><td>Hungry Jack's</td><td>Busselton Crew Member</td><td>Busselton</td><td>2026-09-01</td></tr>
+<tr><td>Hungry Jack's</td><td>Day Crew Members Virginia</td><td>Virginia</td><td>2026-09-01</td></tr>
+<tr><td>St Vincent’s Private Hospital S…</td><td>Chef</td><td>Sydney +1</td><td>2026-09-01</td></tr>
+<tr><td>Vinarchy</td><td>Front Of House Host</td><td>Rowland Flat +1</td><td>2026-09-01</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Chef</td><td>Sydney +1</td><td>2026-09-01</td></tr>
+<tr><td>St Vincent’s Private Hospital M…</td><td>Casual Cook</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>RACV</td><td>Food & Beverage Attendant</td><td>RACV City Club +2</td><td>2026-09-01</td></tr>
+<tr><td>Travel + Leisure Co. International</td><td>Front Office Receptionist & Guest Experience Host</td><td>Busselton</td><td>2026-09-01</td></tr>
+<tr><td>Techandleisure</td><td>Front Office Receptionist & Guest Experience Host</td><td>Busselton</td><td>2026-09-01</td></tr>
+<tr><td>CLUB View</td><td>F&b Attendant</td><td>Flynns Beach</td><td>2026-09-01</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Graphic Designer (12 Month Contract)</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Decjuba</td><td>Casual Retail Assistant - Marion</td><td>Oaklands Park</td><td>2026-09-01</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Eaton Fair, Wa</td><td>Eaton</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Epping Plaza</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Indooroopilly</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Brighton Le Sands</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Politix</td><td>Politix - Casual Sales Consultant - David Jones Canberra</td><td>Belconnen</td><td>2026-09-01</td></tr>
+<tr><td>Officeworks</td><td>Team Member - Casual</td><td>Gold Coast +13</td><td>2026-09-01</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Retail Assistant (casual)</td><td>South Bunbury</td><td>2026-09-01</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Bull Creek</td><td>Perth</td><td>2026-09-01</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Bathurst</td><td>Bathurst</td><td>2026-09-01</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Katanning</td><td>Katanning</td><td>2026-09-01</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Coolbellup</td><td>Perth</td><td>2026-09-01</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Chardons Corner Drive</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Casual Sales Consultant - Bondi Junction - (new Store)</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Country Road Group</td><td>Politix - Casual Sales Consultant - Eastern Creek Quarter</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Part Time Sales Consultant - Myer Perth City</td><td>Perth</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Indooroopilly</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Avoca</td><td>Avoca</td><td>2026-09-01</td></tr>
+<tr><td>CBA New Digital Businesses Pty</td><td>Customer Banking Specialist - Maryborough Branch</td><td>Ballarat</td><td>2026-09-01</td></tr>
+<tr><td>POP MART Global</td><td>Part-time Sales Associate (world Square)</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Support Services Associate</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Ingle Farm</td><td>Adelaide</td><td>2026-09-01</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Coomera</td><td>Gold Coast</td><td>2026-09-01</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Cranbourne</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Mornington</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Karrinyup</td><td>Perth</td><td>2026-09-01</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Revesby</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Cloncurry Dbs</td><td>Cloncurry</td><td>2026-09-01</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Commercial Drive Nerang</td><td>Gold Coast</td><td>2026-09-01</td></tr>
 </table>
