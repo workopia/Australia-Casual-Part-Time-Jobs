@@ -1,8 +1,20 @@
 # Australia Casual, Part-Time & Christmas Casual Jobs 2026 — Updated Daily
 
-Live **casual, part-time, temp and seasonal jobs** across Australia — retail, hospitality, warehouse & delivery, care, events, cleaning and campus work. 1056 roles below, refreshed daily — part of **8.0M+ active job ads sourced straight from employer career pages, zero third-party scraping.**
+Live **casual, part-time, temp and seasonal jobs** across Australia — retail, hospitality, warehouse & delivery, care, events, cleaning and campus work. **1056 selected roles below**, refreshed daily from employer career pages. Search the broader Australian collection on Workopia using the link below.
 
-Maintained by [**Workopia**](https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs) — the world's 2nd largest job database, 94 countries, 2,517 cities.
+## More jobs on Workopia
+
+| Browse here on GitHub | Search on Workopia |
+| --- | --- |
+| **1,056 selected roles** | **24,740 tracked Australian casual, part-time and contract/temp postings** |
+
+**[Search the full Australian casual jobs collection →](https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)**
+
+This repository is a compact selection: matching employer/role/location postings are grouped, and category and employer limits keep the list varied. The website offers the broader pool and location, role and employment-type filters. Related hourly roles can also appear with their actual employment labels. These are different scopes, not a count of the entire Australian job market.
+
+Website pool snapshot: **2026-09-07T00:52:43.100Z**. Repo snapshot: **2026-09-07**. Counts refresh with the daily data pipeline.
+
+Maintained by [**Workopia**](https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs) — the world's 2nd largest job database, 94 countries, 2,517 cities.
 
 ## How to find a casual job in Australia — 7 Sept 2026
 
@@ -99,15 +111,15 @@ Counts are employer career-site postings represented in this repository, not the
 
 <div align="center">
   <h3>🔎 Want the full, always-fresh list?</h3>
-  <a href="https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs"><img src="./static/btn-browse.svg" alt="Browse all Australian casual jobs on Workopia" width="460"></a>
-  <p><sub><i>This page is a hand-picked slice. Search & filter all 8.0M+ live jobs by role, city, pay & date on Workopia.</i></sub></p>
+  <a href="https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs"><img src="./static/btn-browse.svg" alt="Browse all Australian casual jobs on Workopia" width="460"></a>
+  <p><sub><i>Search the broader 24,740-posting Australian casual, part-time and contract/temp pool on Workopia.</i></sub></p>
 </div>
 
 ---
 
 <div align="center">
   <h3>🔔 Tired of checking every day?</h3>
-  <a href="https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs"><img src="./static/btn-subscribe.svg" alt="Subscribe for new-job alerts" width="360"></a>
+  <a href="https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs"><img src="./static/btn-subscribe.svg" alt="Subscribe for new-job alerts" width="360"></a>
   <p><sub><i>Get alerted when new Australian casual & part-time roles go live.</i></sub></p>
   <p><sub>Or <b>Watch → Custom → Releases</b> on this repo for a weekly email digest of new roles.</sub></p>
 </div>
@@ -123,7 +135,7 @@ Counts are employer career-site postings represented in this repository, not the
 - 🔥 Notable / high-growth employer
 
 > **Looking for something else?**
-> 🔎 The full live list → [all Australian jobs on Workopia](https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)
+> 🔎 The full live list → [all Australian jobs on Workopia](https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)
 
 ## FAQs
 
@@ -483,7 +495,7 @@ Every role comes from the **employer's own career page or ATS feed** — never s
 </tbody>
 </table>
 
-🔎 **[Browse & filter all live Australian Campus, Tutoring & Childcare jobs on Workopia →](https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)**
+🔎 **[Browse & filter all live Australian Campus, Tutoring & Childcare jobs on Workopia →](https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)**
 
 <sub>[⬆️ Back to top](#australia-casual-part-time-christmas-casual-jobs-2026)</sub>
 
@@ -662,7 +674,7 @@ Every role comes from the **employer's own career page or ATS feed** — never s
 </tbody>
 </table>
 
-🔎 **[Browse & filter all live Australian Events, Promo & Casual Staffing jobs on Workopia →](https://workopia.io/browsejobs/au/casual?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)**
+🔎 **[Browse & filter all live Australian Events, Promo & Casual Staffing jobs on Workopia →](https://workopia.io/casual-jobs/au?utm_source=github&utm_medium=repo&utm_campaign=australia-casual-part-time-jobs)**
 
 <sub>[⬆️ Back to top](#australia-casual-part-time-christmas-casual-jobs-2026)</sub>
 

@@ -15,7 +15,9 @@
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
   "seasonal_live_roles": 910,
-  "hydrated_rows": 20312
+  "hydrated_rows": 20312,
+  "casual_website_total": 24740,
+  "casual_website_as_of": "2026-09-07T00:52:43.100Z"
  },
  "seasonal": [
   {

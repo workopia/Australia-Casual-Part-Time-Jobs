@@ -35,7 +35,7 @@ const SERIES = [
 const L10N = {
   en: {
     updatedDaily: 'Updated Daily',
-    intro: 'Live **casual, part-time, temp and seasonal jobs** across {COUNTRY} — retail, hospitality, warehouse & delivery, care, events, cleaning and campus work. {N} roles below, refreshed daily — part of **{TOTAL} active job ads sourced straight from employer career pages, zero third-party scraping.**',
+    intro: 'Live **casual, part-time, temp and seasonal jobs** across {COUNTRY} — retail, hospitality, warehouse & delivery, care, events, cleaning and campus work. **{N} selected roles below**, refreshed daily from employer career pages. Search the broader Australian collection on Workopia using the link below.',
     maintainedBy: "Maintained by [**Workopia**]({URL}) — the world's 2nd largest job database, 94 countries, 2,517 cities.",
     reportIssue: '🙏 **Spotted a wrong or closed role? [Open an issue](../../issues/new/choose) — see the [contribution guide](./CONTRIBUTING.md).** 🙏',
     browseByCategory: 'Browse {N} roles by category',
@@ -113,9 +113,11 @@ export function renderReadme(data, now) {
   const age = (d) => { if (!d) return ''; const days = Math.floor((renderTime - new Date(d).getTime()) / 864e5); if (Number.isNaN(days)) return ''; if (days <= 0) return t.ageToday; if (days < 14) return days + t.ageDay; if (days < 60) return Math.round(days / 7) + t.ageWeek; return Math.round(days / 30) + t.ageMonth; };
 
   const U = 'utm_source=github&utm_medium=repo&utm_campaign=' + meta.repo.toLowerCase();
-  const BJ = `${W}/browsejobs/${meta.segment}/casual?${U}`;
+  const BJ = `${W}/casual-jobs/${meta.segment}?${U}`;
   const active = listings.filter((r) => r.active !== false);
   const repoTotal = active.length;
+  const websiteCount = Number.isInteger(meta.casual_website_total) && meta.casual_website_total > 0 ? meta.casual_website_total.toLocaleString('en-AU') : null;
+  const discovery = `## More jobs on Workopia\n\n| Browse here on GitHub | Search on Workopia |\n| --- | --- |\n| **${repoTotal.toLocaleString('en-AU')} selected roles** | **${websiteCount ? websiteCount + ' tracked Australian casual, part-time and contract/temp postings' : 'The broader Australian casual, part-time and contract/temp pool'}** |\n\n**[Search the full Australian casual jobs collection →](${BJ})**\n\nThis repository is a compact selection: matching employer/role/location postings are grouped, and category and employer limits keep the list varied. The website offers the broader pool and location, role and employment-type filters. Related hourly roles can also appear with their actual employment labels. These are different scopes, not a count of the entire Australian job market.${websiteCount ? '\n\nWebsite pool snapshot: **' + meta.casual_website_as_of + '**. Repo snapshot: **' + meta.as_of + '**. Counts refresh with the daily data pipeline.' : ''}`;
   const employerCount = new Set(active.map((r) => r.company_name)).size;
   const noExperienceCount = active.filter((r) => r.no_experience).length;
   const seasonalCount = meta.seasonal_live_roles || data.seasonal?.length || 0;
@@ -228,6 +230,8 @@ Counts are employer career-site postings represented in this repository, not the
 
 ${fill(t.intro, { COUNTRY: meta.country_name, N: repoTotal, TOTAL: meta.total_site_jobs_str })}
 
+${discovery}
+
 ${fill(t.maintainedBy, { URL: BJ })}
 
 ${directAnswer}
@@ -247,7 +251,7 @@ ${xmasBlock}
 <div align="center">
   <h3>${t.wantFullList}</h3>
   <a href="${BJ}"><img src="./static/btn-browse.svg" alt="${fill(t.browseAlt, { ADJ: meta.adjective })}" width="460"></a>
-  <p><sub><i>${fill(t.handPickedSlice, { TOTAL: meta.total_site_jobs_str })}</i></sub></p>
+  <p><sub><i>${websiteCount ? 'Search the broader ' + websiteCount + '-posting Australian casual, part-time and contract/temp pool on Workopia.' : 'Search the broader Australian casual, part-time and contract/temp pool on Workopia.'}</i></sub></p>
 </div>
 
 ---
