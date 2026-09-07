@@ -3030,4 +3030,47 @@
 <tr><td>dcj</td><td>Customer Service Officer</td><td>Sydney</td><td>2026-09-06</td></tr>
 <tr><td>Commonwealth Bank Of Australia</td><td>Customer Service Representative - Haymarket (12 Months Fixed Contract)</td><td>Sydney Cbd Area</td><td>2026-09-06</td></tr>
 <tr><td>CBA New Digital Businesses Pty Ltd</td><td>Customer Service Representative - Haymarket (12 Months Fixed Contract)</td><td>Sydney</td><td>2026-09-06</td></tr>
+<tr><td>LSKD</td><td>Bondi Seasonal Casual - Retail Educator</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Mount Eliza Botanica Care Community</td><td>Melbourne</td><td>2026-09-07</td></tr>
+<tr><td>Latrobe Regional Health</td><td>Personal Care Worker</td><td>Gippsland Region</td><td>2026-09-07</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Norah Head Care Community</td><td>Toukley</td><td>2026-09-07</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Mandurah Coast Care Community</td><td>Mandurah</td><td>2026-09-07</td></tr>
+<tr><td>Wsre</td><td>Personal Carer</td><td>Kingaroy +6</td><td>2026-09-07</td></tr>
+<tr><td>Ma Mission Australia</td><td>Family Support Worker</td><td>Keswick +1</td><td>2026-09-07</td></tr>
+<tr><td>Accord Care QLD Pty Ltd</td><td>Disability Support Worker – Complex In-home Support</td><td>Brisbane</td><td>2026-09-07</td></tr>
+<tr><td>Yooralla</td><td>High Intensity Outside School Hours Care Coordinator - Ascot Vale</td><td>Melbourne</td><td>2026-09-07</td></tr>
+<tr><td>Seton Hall University</td><td>Peer Educator Student Coordinator- 2026/2027 - Student Services</td><td>South Orange</td><td>2026-09-07</td></tr>
+<tr><td>MYER</td><td>Retail Security Officer</td><td>Townsville +2</td><td>2026-09-07</td></tr>
+<tr><td>UnitingCare</td><td>Service Delivery - Care Worker</td><td>Brisbane +2</td><td>2026-09-07</td></tr>
+<tr><td>UnitingCare</td><td>Service Delivery - Homemaker</td><td>Newcastle</td><td>2026-09-07</td></tr>
+<tr><td>Tip Top</td><td>Production Operator</td><td>Brisbane</td><td>2026-09-07</td></tr>
+<tr><td>Pfh</td><td>Merchandise & Logistics Consultant</td><td>Myer Carousel</td><td>2026-09-07</td></tr>
+<tr><td>transport</td><td>Store Person Tfle (temporary Opportunity Up To 23 Months)</td><td>Melbourne</td><td>2026-09-07</td></tr>
+<tr><td>Downer Group</td><td>Cleaners - Casual - Sydney Trains</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>Downer</td><td>Cleaners - Casual - Sydney Trains</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>Techandleisure</td><td>Room Attendant</td><td>Kirra Beach +4</td><td>2026-09-07</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Service Agent</td><td>Sydney +5</td><td>2026-09-07</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food And Beverage Team Leader / In Room Dining & Minibar</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>CLUB View</td><td>Food And Beverage Attendant</td><td>Mission Beach</td><td>2026-09-07</td></tr>
+<tr><td>Wyndham</td><td>Night All Rounder</td><td>Coffs Harbour</td><td>2026-09-07</td></tr>
+<tr><td>Wyndham</td><td>Food And Beverage Attendant</td><td>Mission Beach</td><td>2026-09-07</td></tr>
+<tr><td>Travel + Leisure Co.</td><td>Night All Rounder</td><td>Coffs Harbour</td><td>2026-09-07</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Reservations Sales Agent - 12 Month Contract</td><td>Sydney Olympic Park</td><td>2026-09-07</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Reservations Sales Agent - 12 Month Contract</td><td>Sydney Olympic Park</td><td>2026-09-07</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut / Booragoon, Wa</td><td>Perth</td><td>2026-09-07</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Oakley / Perth Airport Dfo, Wa</td><td>Perth</td><td>2026-09-07</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut / Carousel, Wa</td><td>Perth</td><td>2026-09-07</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Cremorne Adicentre, Vic</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Esperance</td><td>Esperance</td><td>2026-09-07</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Shop Assistant</td><td>Sydney +3</td><td>2026-09-07</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Tingalpa</td><td>Brisbane</td><td>2026-09-07</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Peregian Springs</td><td>Maroochydore</td><td>2026-09-07</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Gilles Plains</td><td>Gilles Plains</td><td>2026-09-07</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Dalrymple</td><td>Garbutt</td><td>2026-09-07</td></tr>
+<tr><td>EyeQ</td><td>Retail Associate / Eyeq St Ives, Nsw</td><td>St Ives</td><td>2026-09-07</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12hr -tuggerah</td><td>Tuggerah</td><td>2026-09-07</td></tr>
+<tr><td>Westpac Group</td><td>Customer Service Officer - Tumby Bay, Sa</td><td>Tumby Bay</td><td>2026-09-07</td></tr>
+<tr><td>Westpac</td><td>Customer Service Officer - Tumby Bay, Sa</td><td>Tumby Bay</td><td>2026-09-07</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Goodna</td><td>Brisbane</td><td>2026-09-07</td></tr>
+<tr><td>RACV</td><td>Travel Sales Consultant</td><td>Ballarat +1</td><td>2026-09-07</td></tr>
 </table>
