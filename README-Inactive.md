@@ -3073,4 +3073,59 @@
 <tr><td>Westpac</td><td>Customer Service Officer - Tumby Bay, Sa</td><td>Tumby Bay</td><td>2026-09-07</td></tr>
 <tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Goodna</td><td>Brisbane</td><td>2026-09-07</td></tr>
 <tr><td>RACV</td><td>Travel Sales Consultant</td><td>Ballarat +1</td><td>2026-09-07</td></tr>
+<tr><td>The Hammond Care Group</td><td>Specialised Carer - Home Care</td><td>Melbourne +9</td><td>2026-09-08</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Chelsea Manor Care Community</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Personal Care Assistant - Night Shift</td><td>Maroochydore</td><td>2026-09-08</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Personal Care Assistant - Night Shift</td><td>Maroochydore</td><td>2026-09-08</td></tr>
+<tr><td>St Vincent’s Care Maroochydore</td><td>Personal Care Assistant - Night Shift</td><td>Maroochydore</td><td>2026-09-08</td></tr>
+<tr><td>Accord Care QLD Pty Ltd</td><td>Disability Support Workers – Zillmere</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Casual Educator</td><td>Melbourne +10</td><td>2026-09-08</td></tr>
+<tr><td>Macquarie Group</td><td>Casual Lifeguard</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Assistant Coordinator / Mowbray - Lane Cove</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Diploma Qualified Educator / Strathfield</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Educator / Picnic Creek</td><td>Gold Coast</td><td>2026-09-08</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Educator / Rozelle</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator (qualified) / Churchlands Area</td><td>Churchlands</td><td>2026-09-08</td></tr>
+<tr><td>Barwon Health</td><td>Workforce Training And Development Educator</td><td>Geelong</td><td>2026-09-08</td></tr>
+<tr><td>RACV</td><td>Security Officer</td><td>Gold Coast +1</td><td>2026-09-08</td></tr>
+<tr><td>Mss Security Pty</td><td>Concierge Security Officer</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>Mss Security Pty</td><td>Fifo Relieving Security Officer</td><td>Adelaide</td><td>2026-09-08</td></tr>
+<tr><td>Mss Security Pty</td><td>Security Officer - Part Time</td><td>Darwin</td><td>2026-09-08</td></tr>
+<tr><td>Mss Security Pty</td><td>Healthcare Security Officer - Mount Gambier</td><td>Mount Gambier</td><td>2026-09-08</td></tr>
+<tr><td>Retirementcorporation</td><td>Catering Assistant</td><td>Galston</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Housekeeping All Rounder</td><td>Cairns</td><td>2026-09-08</td></tr>
+<tr><td>Downer EDI</td><td>Cleaners - Casual - Sydney Trains</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>IHG</td><td>Housekeeping Room Attendant (part Time) - Intercontinental Perth</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Minor Hotels</td><td>Housekeeper / Cleaner</td><td>Gold Coast</td><td>2026-09-08</td></tr>
+<tr><td>Estia Health</td><td>Housekeeper / Part Time Fixed Term Role / Werribee</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>Porters Liquor</td><td>Cook - Benowa Tavern</td><td>Gold Coast</td><td>2026-09-08</td></tr>
+<tr><td>Porters Liquor</td><td>Kitchen Attendant - Shoppingtown Hotel</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>Vinarchy</td><td>Front Of House Host</td><td>Rowland Flat +1</td><td>2026-09-08</td></tr>
+<tr><td>Crown Resorts</td><td>Cook</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Techandleisure</td><td>Food And Beverage Attendant</td><td>Mission Beach</td><td>2026-09-08</td></tr>
+<tr><td>Travel + Leisure Co. International</td><td>Food And Beverage Attendant</td><td>Mission Beach</td><td>2026-09-08</td></tr>
+<tr><td>Mondelēz International</td><td>Cadbury Casual Retail Display Support - Springwood / Loganholme</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Rosebud</td><td>Geelong</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Kippa Ring</td><td>Kippa</td><td>2026-09-08</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Murray St</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Geraldton Area (wa)</td><td>Geraldton Area</td><td>2026-09-08</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Morayfield - Casual</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Morayfield - Casual</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Morayfield - Casual</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>Officeworks</td><td>Team Member - Casual</td><td>Gold Coast +17</td><td>2026-09-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Burnside, Sa</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hurstville, Nsw</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Joondalup, Wa</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Innaloo, Wa</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Karrinyup, Wa</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Kingsway</td><td>Perth</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Clontarf</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Hawthorn</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Bankstown Central</td><td>Sydney</td><td>2026-09-08</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Vermont South</td><td>Melbourne</td><td>2026-09-08</td></tr>
+<tr><td>MYER</td><td>Assistant Retail Store Manager - Just Jeans - Maroochydore</td><td>Maroochydore</td><td>2026-09-08</td></tr>
+<tr><td>MYER</td><td>Ab - Sales Assistant - Part Time - Dotti - Carindale</td><td>Brisbane</td><td>2026-09-08</td></tr>
+<tr><td>MYER</td><td>Ab - Sales Assistant - Part Time - Just Jeans - Coomera</td><td>Gold Coast</td><td>2026-09-08</td></tr>
+<tr><td>MYER</td><td>Visual Merchandise Team Leader / Geelong</td><td>Geelong</td><td>2026-09-08</td></tr>
+<tr><td>Ampol</td><td>Customer Service Attendant</td><td>Hemmant</td><td>2026-09-08</td></tr>
 </table>
