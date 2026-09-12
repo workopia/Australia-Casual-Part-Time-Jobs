@@ -3639,4 +3639,61 @@
 <tr><td>Tip Top</td><td>Merchandiser / Orange</td><td>Orange</td><td>2026-09-11</td></tr>
 <tr><td>H&M</td><td>Product Merchandising Lead - 4 Month Contract</td><td>Sydney</td><td>2026-09-11</td></tr>
 <tr><td>Pawllywood</td><td>Merchandise Planner</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>LSKD</td><td>Macarthur Square Seasonal Casual - Retail Educator</td><td>Macarthur Square</td><td>2026-09-12</td></tr>
+<tr><td>Authentics Australia</td><td>Part Time Sales Assistant</td><td>Melbourne +3</td><td>2026-09-12</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Home Care Worker - Casual</td><td>Riverview +3</td><td>2026-09-12</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Personal Care Assistant - Southport</td><td>Gold Coast</td><td>2026-09-12</td></tr>
+<tr><td>RSL LifeCare</td><td>Carer - Residential Aged Care</td><td>Belconnen +5</td><td>2026-09-12</td></tr>
+<tr><td>Rsl Lifecare Limited</td><td>Carer</td><td>Newcastle +3</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>First Nations Caseworker – Permanency Support Program (out Of Home Care)</td><td>Dubbo</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>Advanced Educator (diploma)</td><td>Newcastle</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>Advanced Educator Qualified</td><td>Gold Coast</td><td>2026-09-12</td></tr>
+<tr><td>Aidapply</td><td>Education Support Officer</td><td>Brisbane</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>Educator (diploma)</td><td>Newcastle</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>Catering Assistant</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>RSL LifeCare</td><td>Catering Assistant</td><td>Sydney +7</td><td>2026-09-12</td></tr>
+<tr><td>Crown Resorts</td><td>Waitperson - Events & Conferences</td><td>Perth</td><td>2026-09-12</td></tr>
+<tr><td>UnitingCare</td><td>Catering Assistant - Bowden Brae</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>Seniorlivingchaplains</td><td>Catering Assistant</td><td>Rl Toukley</td><td>2026-09-12</td></tr>
+<tr><td>Kit</td><td>Event Manager - 12 Month Fixed Term</td><td>Sydney Cbd Area</td><td>2026-09-12</td></tr>
+<tr><td>Mybunknbiscuit</td><td>Forklift Operator - Fairfield Waters, Qld</td><td>Fairfield Waters</td><td>2026-09-12</td></tr>
+<tr><td>Spotless</td><td>Cleaner - Pt - Nsw Schools</td><td>Elderslie</td><td>2026-09-12</td></tr>
+<tr><td>Macquarie Group</td><td>Casual Hotel Front Office Receptionist</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>Tandara Hotel</td><td>Food And Beverage Attendant - Tandara Hotel</td><td>Sarina</td><td>2026-09-12</td></tr>
+<tr><td>Minor Hotels</td><td>Food & Beverage Attendant / Bartender</td><td>Maroochydore</td><td>2026-09-12</td></tr>
+<tr><td>InterContinental Perth</td><td>Commis Chef (casual / Qualified) - Intercontinental Perth</td><td>Perth</td><td>2026-09-12</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Commis Chef (casual / Qualified) - Intercontinental Perth</td><td>Perth</td><td>2026-09-12</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Food & Beverage Attendant</td><td>Australia</td><td>2026-09-12</td></tr>
+<tr><td>InterContinental Hotels Group…</td><td>Food & Beverage Attendant</td><td>Australia</td><td>2026-09-12</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Canning Vale</td><td>Perth</td><td>2026-09-12</td></tr>
+<tr><td>IHG</td><td>Food & Beverage Attendant</td><td>Australia</td><td>2026-09-12</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Cook</td><td>Unknown</td><td>2026-09-12</td></tr>
+<tr><td>Opal HealthCare</td><td>Demi Chef - Toongabbie Terrace Care Communityy</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>Estia Health</td><td>Cook</td><td>Brisbane +1</td><td>2026-09-12</td></tr>
+<tr><td>PVH</td><td>Sales Consultant</td><td>Adelaide +4</td><td>2026-09-12</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Ballina Fair</td><td>Ballina</td><td>2026-09-12</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Bega</td><td>Bega</td><td>2026-09-12</td></tr>
+<tr><td>Caltex Australia</td><td>Team Member - Pheasants Nest Northbound</td><td>Pheasants Nest</td><td>2026-09-12</td></tr>
+<tr><td>Caltex Australia</td><td>Team Member - Yass Comur Street</td><td>Belconnen</td><td>2026-09-12</td></tr>
+<tr><td>Caltex Australia</td><td>Boost Team Member - Pheasants Nest Southbound</td><td>Pheasants Nest</td><td>2026-09-12</td></tr>
+<tr><td>By Charlotte</td><td>Casual Boutique Assistant Kotara – Expression Of Interest</td><td>Kotara</td><td>2026-09-12</td></tr>
+<tr><td>By Charlotte</td><td>Casual Boutique Assistant Canberra – Expression Of Interest</td><td>Belconnen</td><td>2026-09-12</td></tr>
+<tr><td>Ampol Australia</td><td>Team Member - Rydalmere</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>Harris Farm Markets</td><td>Casual Shop Assistant - Albury</td><td>Albury</td><td>2026-09-12</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Werribee</td><td>Melbourne</td><td>2026-09-12</td></tr>
+<tr><td>Van Heusen</td><td>Sales Consultant</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Consultant</td><td>Perth +1</td><td>2026-09-12</td></tr>
+<tr><td>Decjuba</td><td>Casual Retail Assistant - Morley Galleria</td><td>Perth</td><td>2026-09-12</td></tr>
+<tr><td>Sheridan</td><td>Casual Sales Assistant / Sheridan / Myer Melbourne</td><td>Melbourne</td><td>2026-09-12</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Rowville</td><td>Melbourne</td><td>2026-09-12</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Engadine</td><td>Campbelltown</td><td>2026-09-12</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Paddington (oxford St)</td><td>Sydney</td><td>2026-09-12</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Surfers Paradise Q1 Building</td><td>Gold Coast</td><td>2026-09-12</td></tr>
+<tr><td>Wsre</td><td>Shop Assistant</td><td>Brisbane +1</td><td>2026-09-12</td></tr>
+<tr><td>Wyndham Destinations</td><td>Sales Consultant</td><td>Melbourne +8</td><td>2026-09-12</td></tr>
+<tr><td>Wyndham Destinations</td><td>On-site Virtual Sales Consultant</td><td>Bundall</td><td>2026-09-12</td></tr>
+<tr><td>Youi</td><td>Sales Advisor - Part Time - 4 Day</td><td>Maroochydore</td><td>2026-09-12</td></tr>
+<tr><td>CommBank</td><td>Customer Banking Specialist - Maryborough Branch</td><td>Ballarat</td><td>2026-09-12</td></tr>
+<tr><td>CommBank</td><td>Customer Service Representative - Endeavour Hills</td><td>Melbourne</td><td>2026-09-12</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant (part-time) - Port Adelaide</td><td>Port Adelaide</td><td>2026-09-12</td></tr>
 </table>
