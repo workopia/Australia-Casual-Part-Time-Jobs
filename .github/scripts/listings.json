@@ -11,13 +11,13 @@
   "as_of": "2026-09-21",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-21T07:01:20.200Z",
+  "generated_at": "2026-09-21T10:32:18.097Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
   "seasonal_live_roles": 1202,
-  "hydrated_rows": 24058,
-  "casual_website_total": 30130,
-  "casual_website_as_of": "2026-09-21T01:11:53.098Z"
+  "hydrated_rows": 23994,
+  "casual_website_total": 30029,
+  "casual_website_as_of": "2026-09-21T07:01:43.603Z"
  },
  "seasonal": [
   {
@@ -988,7 +988,7 @@
    "icon": "🍽️",
    "l4slug": "crew-member",
    "l4bucket": "Crew Member",
-   "l4bucket_jobs": 2918
+   "l4bucket_jobs": 2915
   },
   {
    "key": "retail",
@@ -996,7 +996,7 @@
    "icon": "🛍️",
    "l4slug": "retail-associate",
    "l4bucket": "Retail Associate",
-   "l4bucket_jobs": 2176
+   "l4bucket_jobs": 2172
   }
  ],
  "listings": [
@@ -1903,7 +1903,7 @@
    "company_name": "Full Well Bodywork",
    "company_hi_slug": "full-well-bodywork",
    "title": "Support Worker",
-   "location": "Cheapside Street +2",
+   "location": "Cheapside Street +1",
    "pay_display": "$46.7/hr",
    "shift": null,
    "ticket": "WWCC + Police check",
@@ -1918,7 +1918,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Part Time",
-   "locations_count": 3
+   "locations_count": 2
   },
   {
    "id": "66c4dec2f54a0860106dee934242b4fe",
@@ -20567,52 +20567,6 @@
    "date_posted": "2026-09-02T09:23:34.549Z",
    "active": true,
    "url": "https://workopia.io/jobs/8f1c8f25575fabbb9f67199be1c2113f",
-   "category": "hospitality",
-   "tier": "Temp & Seasonal",
-   "employment_type_norm": "Contract-Temp",
-   "employment_type_raw": null,
-   "locations_count": 1
-  },
-  {
-   "id": "08af172a87eccb81443fe035ad0083cd",
-   "source": "Workopia",
-   "company_name": "Park Hyatt Melbourne",
-   "company_hi_slug": "park-hyatt-melbourne",
-   "title": "Contrat Saisonnier : Chef De Rang",
-   "location": "Melbourne",
-   "pay_display": null,
-   "shift": null,
-   "ticket": null,
-   "no_experience": false,
-   "xmas": false,
-   "seasonal": null,
-   "hot": false,
-   "date_posted": "2026-08-07T08:46:57.178Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/08af172a87eccb81443fe035ad0083cd",
-   "category": "hospitality",
-   "tier": "Temp & Seasonal",
-   "employment_type_norm": "Contract-Temp",
-   "employment_type_raw": null,
-   "locations_count": 1
-  },
-  {
-   "id": "ad68b021a9b96093abd68dfb23bd4967",
-   "source": "Workopia",
-   "company_name": "Park Hyatt Melbourne",
-   "company_hi_slug": "park-hyatt-melbourne",
-   "title": "Contrat Saisonnier : Commis(e) De Restauration",
-   "location": "Melbourne",
-   "pay_display": null,
-   "shift": null,
-   "ticket": null,
-   "no_experience": false,
-   "xmas": false,
-   "seasonal": null,
-   "hot": false,
-   "date_posted": "2026-08-07T08:46:57.177Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/ad68b021a9b96093abd68dfb23bd4967",
    "category": "hospitality",
    "tier": "Temp & Seasonal",
    "employment_type_norm": "Contract-Temp",

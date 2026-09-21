@@ -5098,4 +5098,6 @@
 <tr><td>Mira Vista Care Center</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
 <tr><td>St Vincent’s Private Hospital B…</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
 <tr><td>Neurosurgeon role (org unclear)</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Chef De Rang</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Commis(e) De Restauration</td><td>Melbourne</td><td>2026-09-21</td></tr>
 </table>
