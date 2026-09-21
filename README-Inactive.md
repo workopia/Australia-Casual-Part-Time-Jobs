@@ -5100,4 +5100,37 @@
 <tr><td>Neurosurgeon role (org unclear)</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
 <tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Chef De Rang</td><td>Melbourne</td><td>2026-09-21</td></tr>
 <tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Commis(e) De Restauration</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>Delaware North</td><td>Culinary Opportunities, Melbourne Cup Carnival</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>Mountain Warehouse</td><td>Aus Casual Retail Sales Assistant</td><td>Melbourne +3</td><td>2026-09-21</td></tr>
+<tr><td>Wsre</td><td>Allied Health Assistant</td><td>Cairns</td><td>2026-09-21</td></tr>
+<tr><td>Deloitte Australia</td><td>Events & Marketing Coordinator (parental Leave Cover)</td><td>Sydney</td><td>2026-09-21</td></tr>
+<tr><td>Heidelberg Materials Australia</td><td>Tipper Driver</td><td>Pink Lily</td><td>2026-09-21</td></tr>
+<tr><td>Heidelberg Materials US, Inc</td><td>Agitator Driver</td><td>Townsville +1</td><td>2026-09-21</td></tr>
+<tr><td>Murdoch University</td><td>Clinical Courier</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>RACV</td><td>Housekeeping Supervisor</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member</td><td>Adelaide +88</td><td>2026-09-21</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Night Shift (4pm-12am)</td><td>Wollongong</td><td>2026-09-21</td></tr>
+<tr><td>IHG</td><td>Food And Beverage Attendant (casual) - Intercontinental Perth</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>InterContinental Hotels Group…</td><td>Food And Beverage Attendant (casual) - Intercontinental Perth</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>St George Long Day Care Pty Ltd</td><td>Centre Cook / Engadine</td><td>Campbelltown</td><td>2026-09-21</td></tr>
+<tr><td>Sportstechjobs</td><td>Catering Operations Coordinator</td><td>Melbourne Vic</td><td>2026-09-21</td></tr>
+<tr><td>tA anonyme Incorporated</td><td>Catering Operations Coordinator</td><td>Melbourne Vic</td><td>2026-09-21</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Casual Team Member - (southport)</td><td>Gold Coast</td><td>2026-09-21</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Engadine</td><td>Campbelltown</td><td>2026-09-21</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Rosebud</td><td>Geelong</td><td>2026-09-21</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Lara</td><td>Geelong</td><td>2026-09-21</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - East Maitland</td><td>Newcastle</td><td>2026-09-21</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Stanhope Gardens</td><td>Sydney</td><td>2026-09-21</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Austral South (new Store)</td><td>Austral South</td><td>2026-09-21</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Mount Gambier</td><td>Mount Gambier</td><td>2026-09-21</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Midland</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Floreat</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Kelmscott</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Leichhardt</td><td>Sydney</td><td>2026-09-21</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Joondalup</td><td>Perth</td><td>2026-09-21</td></tr>
+<tr><td>Jay Jays</td><td>Sales Assistant - Casual - Jay Jays - Dandenong</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Just Jeans - Rowville</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Mt Sheridan</td><td>Cairns</td><td>2026-09-21</td></tr>
+<tr><td>AusPost</td><td>Retail Customer Service Officer</td><td>Katanning Western Australia +34</td><td>2026-09-21</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Service Representative</td><td>Guildford PDC</td><td>2026-09-21</td></tr>
 </table>
