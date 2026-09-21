@@ -5092,4 +5092,10 @@
 <tr><td>LOVISA</td><td>Ballarat / Festive Stylist / 2026</td><td>Ballarat</td><td>2026-09-21</td></tr>
 <tr><td>LOVISA</td><td>Albury / Festive Stylist / 2026</td><td>Albury</td><td>2026-09-21</td></tr>
 <tr><td>Repco Australia - A Division of…</td><td>Customer Service Officer</td><td>Thebarton</td><td>2026-09-21</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Emergency Department Consumer Peer Support Worker</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Emergency Department Consumer Peer Support Worker</td><td>Melbourne</td><td>2026-09-21</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
+<tr><td>St Vincent’s Private Hospital B…</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Security Officer</td><td>Brisbane</td><td>2026-09-21</td></tr>
 </table>
