@@ -5402,4 +5402,49 @@
 <tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Earlville</td><td>Earlville</td><td>2026-09-23</td></tr>
 <tr><td>Pottery Barn</td><td>Sales Associate: Pottery Barn</td><td>Melbourne</td><td>2026-09-23</td></tr>
 <tr><td>Williams-Sonoma</td><td>Sales Associate: Pottery Barn</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Delaware North</td><td>Food & Beverage Attendant, Alliance Lounge Perth Airport</td><td>Perth</td><td>2026-09-23</td></tr>
+<tr><td>Victoria Racing Club</td><td>Sommelier, Victoria Racing Club</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Estia Health</td><td>Nursing Assistant</td><td>Norah Head +9</td><td>2026-09-23</td></tr>
+<tr><td>The Salvation Army</td><td>Operations Support Worker</td><td>Mount Isa</td><td>2026-09-23</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Health Nursing Assistant</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Haberfield</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Bounty Boulevard</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Jordan Springs</td><td>Campbelltown</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Bella Vista</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Assistant Coordinator / Butler Area</td><td>Perth</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Service Manager / Baldivis Area</td><td>Rockingham</td><td>2026-09-23</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member / Forklift Operator (seasonal Casual)</td><td>Bendigo</td><td>2026-09-23</td></tr>
+<tr><td>Woolworths Group</td><td>Stocktake Assistant- VIC North/West Area</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Mondelez International</td><td>Production Operator</td><td>Suttontown</td><td>2026-09-23</td></tr>
+<tr><td>Estia Health</td><td>Laundry Assistant</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>Porters Liquor</td><td>Bar & Gaming Attendant - Captain Cook Tavern</td><td>Kippa</td><td>2026-09-23</td></tr>
+<tr><td>Porters Liquor</td><td>Food And Beverage Attendant - Hinterland Hotel / Motel</td><td>Gold Coast</td><td>2026-09-23</td></tr>
+<tr><td>Porters Liquor</td><td>Bar & Gaming Attendant - Henley Beach Hotel</td><td>Adelaide</td><td>2026-09-23</td></tr>
+<tr><td>IHG</td><td>Commis Chef / Part Time / Holiday Inn Potts Point</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Commis Chef / Part Time / Holiday Inn Potts Point</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Grill'd</td><td>Team Member – Byron Bay</td><td>Gold Coast</td><td>2026-09-23</td></tr>
+<tr><td>Nando’s</td><td>Team Member -victoria Park East</td><td>Perth</td><td>2026-09-23</td></tr>
+<tr><td>Holiday Inn Potts Point</td><td>Commis Chef / Part Time / Holiday Inn Potts Point</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>IHG (InterContinental Hotels Gr…</td><td>Guest Service Agent - Voco Kirkton Park Hunter Valley</td><td>Hunter Valley</td><td>2026-09-23</td></tr>
+<tr><td>voco Kirkton Park Hunter Valley</td><td>Guest Service Agent - Voco Kirkton Park Hunter Valley</td><td>Hunter Valley</td><td>2026-09-23</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Bonner</td><td>Belconnen</td><td>2026-09-23</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +17</td><td>2026-09-23</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Sunbury</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Shepparton</td><td>Shepparton</td><td>2026-09-23</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Cleveland</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>AusPost</td><td>Retail Postage Sorter</td><td>Broome +14</td><td>2026-09-23</td></tr>
+<tr><td>Cotton On</td><td>Holiday Casual Team Member - Cotton On Brisbane Dfo Mega</td><td>Brisbane Airport</td><td>2026-09-23</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Casual I North Adelaide, Sa</td><td>Adelaide</td><td>2026-09-23</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Moorooka Tarragindi Rd</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Busselton (kent St)</td><td>Busselton</td><td>2026-09-23</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Dalrymple</td><td>Garbutt</td><td>2026-09-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Moss Vale</td><td>Wollongong</td><td>2026-09-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Gladstone</td><td>West Gladstone</td><td>2026-09-23</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - The Glen</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Newcastle</td><td>Cooks Hill</td><td>2026-09-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Northland</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Eastland</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Southland</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Doncaster</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Fountain Gate</td><td>Melbourne</td><td>2026-09-23</td></tr>
 </table>
