@@ -5447,4 +5447,9 @@
 <tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Southland</td><td>Melbourne</td><td>2026-09-23</td></tr>
 <tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Doncaster</td><td>Melbourne</td><td>2026-09-23</td></tr>
 <tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Fountain Gate</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Linfox</td><td>Heavy Rigid Truck Driver</td><td>Perth +3</td><td>2026-09-23</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Broadbeach Old Burleigh Rd</td><td>Gold Coast</td><td>2026-09-23</td></tr>
+<tr><td>Nike</td><td>Part Time Athlete, Nike Gold Coast</td><td>Gold Coast</td><td>2026-09-23</td></tr>
+<tr><td>Nike</td><td>Part Time Athlete/retail Associate, Nike Brisbane Airport Dfo</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Wallsend</td><td>Newcastle</td><td>2026-09-23</td></tr>
 </table>

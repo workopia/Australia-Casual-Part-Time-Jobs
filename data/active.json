@@ -2594,6 +2594,24 @@
    "role": "Warehouse Operator - Spring-summer 2026/2027",
    "location": "Kemps Creek"
   },
+  "ef0f3415d51a2908218d7bab59719e29": {
+   "id": "ef0f3415d51a2908218d7bab59719e29",
+   "company": "Linfox",
+   "role": "Heavy Rigid Truck Driver",
+   "location": "Perth +4"
+  },
+  "0f01606ced3e706864c2629073b469fa": {
+   "id": "0f01606ced3e706864c2629073b469fa",
+   "company": "Linfox",
+   "role": "Heavy Combination Truck Driver",
+   "location": "Melbourne +1"
+  },
+  "ef201fd169086e3ea428a36a78315ea6": {
+   "id": "ef201fd169086e3ea428a36a78315ea6",
+   "company": "Linfox",
+   "role": "Multi Combination Truck Driver",
+   "location": "Melbourne"
+  },
   "3085a388f38e51fe6ddf3e8f58673f74": {
    "id": "3085a388f38e51fe6ddf3e8f58673f74",
    "company": "St Vincent de Paul Society Aust…",
@@ -2623,24 +2641,6 @@
    "company": "Heidelbergmaterials",
    "role": "Agitator Driver",
    "location": "Townsville +1"
-  },
-  "e4981e2662bfc64ec619f7747e8f39d4": {
-   "id": "e4981e2662bfc64ec619f7747e8f39d4",
-   "company": "Linfox",
-   "role": "Heavy Rigid Truck Driver",
-   "location": "Perth +3"
-  },
-  "0f01606ced3e706864c2629073b469fa": {
-   "id": "0f01606ced3e706864c2629073b469fa",
-   "company": "Linfox",
-   "role": "Heavy Combination Truck Driver",
-   "location": "Melbourne +1"
-  },
-  "ef201fd169086e3ea428a36a78315ea6": {
-   "id": "ef201fd169086e3ea428a36a78315ea6",
-   "company": "Linfox",
-   "role": "Multi Combination Truck Driver",
-   "location": "Melbourne"
   },
   "7d03974dd78f6d95b022d175fe8d9199": {
    "id": "7d03974dd78f6d95b022d175fe8d9199",
@@ -4370,16 +4370,16 @@
    "role": "Secret Sipper – Hospitality Mystery Shopper",
    "location": "Sydney"
   },
-  "8fe614ffee017a8e5190ec6a7f81b20d": {
-   "id": "8fe614ffee017a8e5190ec6a7f81b20d",
-   "company": "Australian Venue Co.",
-   "role": "Chefs / Garden State Hotel",
-   "location": "Melbourne"
-  },
   "9464c879cc9223410a7f1eeb465cb06c": {
    "id": "9464c879cc9223410a7f1eeb465cb06c",
    "company": "Australian Venue Co.",
    "role": "Food & Beverage Attendants / Melbourne Venues",
+   "location": "Melbourne"
+  },
+  "8fe614ffee017a8e5190ec6a7f81b20d": {
+   "id": "8fe614ffee017a8e5190ec6a7f81b20d",
+   "company": "Australian Venue Co.",
+   "role": "Chefs / Garden State Hotel",
    "location": "Melbourne"
   },
   "74722c44181770d8cd103343af78c34f": {
@@ -4387,6 +4387,18 @@
    "company": "Australian Venue Co.",
    "role": "Chefs / Salt Bar",
    "location": "Gold Coast"
+  },
+  "94da7cb8dbaa89063d8aec2637628e1d": {
+   "id": "94da7cb8dbaa89063d8aec2637628e1d",
+   "company": "Anglers Tavern",
+   "role": "Food & Beverage Attendant / Anglers Tavern / Vic",
+   "location": "Melbourne"
+  },
+  "7f17054d23c57b08b1ded3b41706db8a": {
+   "id": "7f17054d23c57b08b1ded3b41706db8a",
+   "company": "Anglers Tavern",
+   "role": "Chefs / Anglers Tavern",
+   "location": "Melbourne"
   },
   "d4a75bb1ea48b119af23224debb4cc43": {
    "id": "d4a75bb1ea48b119af23224debb4cc43",
@@ -4398,18 +4410,6 @@
    "id": "b3be493f8d32be6daffb70e4ef5747a8",
    "company": "Station Hotel",
    "role": "Chefs / Station Hotel",
-   "location": "Melbourne"
-  },
-  "7f17054d23c57b08b1ded3b41706db8a": {
-   "id": "7f17054d23c57b08b1ded3b41706db8a",
-   "company": "Anglers Tavern",
-   "role": "Chefs / Anglers Tavern",
-   "location": "Melbourne"
-  },
-  "94da7cb8dbaa89063d8aec2637628e1d": {
-   "id": "94da7cb8dbaa89063d8aec2637628e1d",
-   "company": "Anglers Tavern",
-   "role": "Food & Beverage Attendant / Anglers Tavern / Vic",
    "location": "Melbourne"
   },
   "fb8d9ceb58eca299aed558db3c0eb7e9": {
@@ -5510,6 +5510,12 @@
    "role": "Liquor Team Member - Bws Sunshine Plaza",
    "location": "Maroochydore"
   },
+  "188ecb5ee744e9649ee87329a1d4d9f5": {
+   "id": "188ecb5ee744e9649ee87329a1d4d9f5",
+   "company": "BWS",
+   "role": "Liquor Team Member - Bws Chancellor Park",
+   "location": "Maroochydore"
+  },
   "adc120f6c1eafb68ecaabcc00de129e8": {
    "id": "adc120f6c1eafb68ecaabcc00de129e8",
    "company": "BWS",
@@ -5521,12 +5527,6 @@
    "company": "BWS",
    "role": "Liquor Team Member - Dan Murphy's Hervey Bay",
    "location": "Urraween"
-  },
-  "a9d4abe3f78533c40adebe8548fe985c": {
-   "id": "a9d4abe3f78533c40adebe8548fe985c",
-   "company": "BWS",
-   "role": "Liquor Team Member - Bws Broadbeach Old Burleigh Rd",
-   "location": "Gold Coast"
   },
   "52d4d7b9b0594fe4cd55cb78d3223f01": {
    "id": "52d4d7b9b0594fe4cd55cb78d3223f01",
@@ -5786,6 +5786,12 @@
    "role": "Merchandiser / Chester Hill, Chullora",
    "location": "Sydney"
   },
+  "country-road-part-time-visual-merchandiser-macquarie-sydney-west-nsw-australia": {
+   "id": "country-road-part-time-visual-merchandiser-macquarie-sydney-west-nsw-australia",
+   "company": "Country Road Group",
+   "role": "Country Road - Part Time Visual Merchandiser - Macquarie",
+   "location": "Sydney"
+  },
   "ca0461538a92c4861b7aac744f70e3af": {
    "id": "ca0461538a92c4861b7aac744f70e3af",
    "company": "K&B Mitre 10 Norwood",
@@ -5827,6 +5833,18 @@
    "company": "Swarovski Australia",
    "role": "Sales Consultant - Homebush Dfo",
    "location": "Sydney"
+  },
+  "3e85b978544ee11f30c64e2ea1173e4c": {
+   "id": "3e85b978544ee11f30c64e2ea1173e4c",
+   "company": "Aldi Australia",
+   "role": "Retail Assistant - Colac",
+   "location": "Geelong"
+  },
+  "e59af20ed52d4f2fd8e0097deda4e334": {
+   "id": "e59af20ed52d4f2fd8e0097deda4e334",
+   "company": "Aldi Australia",
+   "role": "Retail Assistant - Runaway Bay",
+   "location": "Gold Coast"
   },
   "c9a4c9b292b099ad8252821387b4b5dd": {
    "id": "c9a4c9b292b099ad8252821387b4b5dd",
@@ -6013,24 +6031,6 @@
    "company": "The Reject Shop",
    "role": "Retail Part Time Team Leader - (store Name)",
    "location": "Queensland"
-  },
-  "6523580c7cd4a648baf0d904d39b758b": {
-   "id": "6523580c7cd4a648baf0d904d39b758b",
-   "company": "Nike",
-   "role": "Part Time Athlete, Nike Gold Coast",
-   "location": "Gold Coast"
-  },
-  "535711ebc4ab60b0c9057335c4ac218f": {
-   "id": "535711ebc4ab60b0c9057335c4ac218f",
-   "company": "Nike",
-   "role": "Part Time Athlete/retail Associate, Nike Brisbane Airport Dfo",
-   "location": "Brisbane"
-  },
-  "e7781c9dc03315d38ae7b6727cf84fb6": {
-   "id": "e7781c9dc03315d38ae7b6727cf84fb6",
-   "company": "Aldi Australia",
-   "role": "Retail Assistant - Wallsend",
-   "location": "Newcastle"
   },
   "07d6b574e764080bed7e52f7bba942ae": {
    "id": "07d6b574e764080bed7e52f7bba942ae",
