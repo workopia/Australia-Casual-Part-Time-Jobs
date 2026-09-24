@@ -5636,4 +5636,32 @@
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Part Time I Maddington, Wa</td><td>Perth</td><td>2026-09-24</td></tr>
 <tr><td>Asics Oceania Pty Ltd</td><td>Seasonal Casual Retail Assistant - Asics Fyshwick</td><td>Fyshwick</td><td>2026-09-24</td></tr>
 <tr><td>Balenciaga Australia Pty Ltd</td><td>Balenciaga Sales & Client Advisor (fixed Term) (queens Plaza)</td><td>Brisbane</td><td>2026-09-24</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Casual Educator / Mosman</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Educator / Chatswood</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>ManualUSA</td><td>Store Person - Napa Tamworth - Casual</td><td>Tamworth</td><td>2026-09-24</td></tr>
+<tr><td>Genpt</td><td>Store Person - Napa Tamworth - Casual</td><td>Tamworth</td><td>2026-09-24</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Environmental Services Assistant (cleaner)</td><td>Toowoomba</td><td>2026-09-24</td></tr>
+<tr><td>RSL LifeCare</td><td>Cleaning Assistant</td><td>Kandos +3</td><td>2026-09-24</td></tr>
+<tr><td>Starbucks Australia</td><td>Casual Barista - Fountain Gate</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Waurn Ponds</td><td>Geelong</td><td>2026-09-24</td></tr>
+<tr><td>Hilton Worldwide</td><td>Kitchen Assistant</td><td>Busselton</td><td>2026-09-24</td></tr>
+<tr><td>W Brisbane</td><td>Food And Beverage Attendant - Pool Bar (ongoing)</td><td>Gold Coast</td><td>2026-09-24</td></tr>
+<tr><td>Hilton Garden Inn Busselton</td><td>Pr Guest Services Agent</td><td>Busselton</td><td>2026-09-24</td></tr>
+<tr><td>Decjuba</td><td>Seasonal Casual Retail Assistant - Watergardens</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Decjuba</td><td>Seasonal Casual Retail Assistant - Uni Hill</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Shorewell Park</td><td>Burnie</td><td>2026-09-24</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Sa</td><td>Adelaide</td><td>2026-09-24</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate I Sunglass Hut I Casual I Myer Adelaide, Sa</td><td>Adelaide</td><td>2026-09-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Colac</td><td>Geelong</td><td>2026-09-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Goonellabah</td><td>Goonellabah</td><td>2026-09-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Dubbo Orana Mall *new Store*</td><td>Dubbo</td><td>2026-09-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Runaway Bay</td><td>Gold Coast</td><td>2026-09-24</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Part Time I Perth Hay Street, Wa</td><td>Perth</td><td>2026-09-24</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Part Time I Firle, Sa</td><td>Firle</td><td>2026-09-24</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / Pt / Vic / Myer Werribee</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Northland</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Eastland</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Southland</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Doncaster</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales & Operations Associates - Bondi Junction (flagship)</td><td>Sydney</td><td>2026-09-24</td></tr>
 </table>
