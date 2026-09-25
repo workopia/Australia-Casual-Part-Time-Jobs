@@ -5870,4 +5870,23 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Modbury</td><td>Adelaide</td><td>2026-09-25</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Toowoomba</td><td>Toowoomba City</td><td>2026-09-25</td></tr>
 <tr><td>jll.co.in</td><td>Senior Transaction Manager - Retail (12-month Fixed-term)</td><td>Strawberry Hills</td><td>2026-09-25</td></tr>
+<tr><td>Ampol</td><td>Kitchen Hand - Soul Origin M4 East</td><td>Eastern Creek</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Eastland</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Shift Supervisor - Caboolture Big Fish</td><td>Brisbane</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Morley Galleria, Wa</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Morley, Wa</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Qvb, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Charlestown, Nsw</td><td>Newcastle</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Penrith, Nsw</td><td>Campbelltown</td><td>2026-09-25</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Colac</td><td>Geelong</td><td>2026-09-25</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (Cannington)</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (trinity Gardens)</td><td>Trinity Gardens</td><td>2026-09-25</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (keswick)</td><td>Keswick</td><td>2026-09-25</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (fairy Meadow)</td><td>Wollongong</td><td>2026-09-25</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (mildura)</td><td>Mildura</td><td>2026-09-25</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Highpoint / Vic</td><td>Highpoint</td><td>2026-09-25</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Outer Eastern Suburbs / Vic</td><td>Fountain Gate</td><td>2026-09-25</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Melbourne Central / Vic</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Morwell Mid Valley</td><td>Morwell</td><td>2026-09-25</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Mt Druitt</td><td>Campbelltown</td><td>2026-09-25</td></tr>
 </table>
