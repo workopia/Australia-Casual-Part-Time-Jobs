@@ -5830,4 +5830,44 @@
 <tr><td>adidas AG</td><td>Part-time Stockroom Specialist - Werribee Performance Concept Store, Vic</td><td>Melbourne</td><td>2026-09-25</td></tr>
 <tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Factory Outlet In Galleria, Wa</td><td>Galleria</td><td>2026-09-25</td></tr>
 <tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Factory Outlet In Salisbury, Adelaide</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Berkeley Vale Care Community</td><td>Newcastle</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Kirra Beach Care Community</td><td>Kirra Beach</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Mount Waverley Glades Care Community</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker Cert Iv 007 - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>IRT</td><td>Home Care Employee - Narooma</td><td>Narooma</td><td>2026-09-25</td></tr>
+<tr><td>IRT</td><td>Category Coordinator - Home Care</td><td>Wollongong</td><td>2026-09-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food And Beverage Attendant - Conference And Events Operations</td><td>Brisbane</td><td>2026-09-25</td></tr>
+<tr><td>Sportstechjobs</td><td>Event Coordinator</td><td>Melbourne Vic</td><td>2026-09-25</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Domestic Assistant (tasmania South)</td><td>Tasmania 7112</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Casual Barista - Ripley</td><td>Ripley</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Casual Barista - Murdoch</td><td>Murdoch</td><td>2026-09-25</td></tr>
+<tr><td>Crown Resorts</td><td>Casual Chefs - Restaurants & Hotels</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Old Sydney Hotel</td><td>Bar & Gaming Attendant - Old Sydney Hotel</td><td>Ballarat</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Shift Supervisor - Fountain Gate</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Fountain Gate</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Coolaroo</td><td>Coolaroo</td><td>2026-09-25</td></tr>
+<tr><td>IHG</td><td>Bar Attendant – Hotel Indigo Melbourne Little Collins And Holiday Inn Melbourne Bourke Street Mall</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Cafe</td><td>Gold Coast</td><td>2026-09-25</td></tr>
+<tr><td>Hilton Worldwide</td><td>Fo All-rounder</td><td>Gold Coast</td><td>2026-09-25</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Rosebud Drive</td><td>Geelong</td><td>2026-09-25</td></tr>
+<tr><td>Ampol</td><td>Boost Team Member - M4 East</td><td>Eastern Creek</td><td>2026-09-25</td></tr>
+<tr><td>Ampol</td><td>Team Member - North Yunderup</td><td>Yunderup</td><td>2026-09-25</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Tuggerah / Nsw</td><td>Tuggerah</td><td>2026-09-25</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Christmas Casual Sales Assistants / Kotara / Nsw</td><td>Kotara</td><td>2026-09-25</td></tr>
+<tr><td>AMX</td><td>Sales Assistant - Amx Dubbo - Casual</td><td>Dubbo</td><td>2026-09-25</td></tr>
+<tr><td>Nespresso</td><td>Casual Boutique Coffee Specialist - Perth</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Nespresso</td><td>Marion Boutique Coffee Specialist - Christmas Casual</td><td>Oaklands Park</td><td>2026-09-25</td></tr>
+<tr><td>Nespresso</td><td>2x Festive Casual Boutique Coffee Specialists - Karrinyup</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Western Suburbs - Metro, Sa</td><td>Western Suburbs</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>X2 Casual Boutique Coffee Specialists - Emporium</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Rhodes, Top Ryde, Macquarie Ryde, Bankstown (nsw)</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Fantastic Furniture</td><td>Part Time Retail Team Member Sales: Dandenong</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Fantastic Furniture</td><td>Part Time Retail Team Member - Ipswich</td><td>West Ipswich</td><td>2026-09-25</td></tr>
+<tr><td>PVH</td><td>Sales Consultant</td><td>Adelaide +5</td><td>2026-09-25</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Tweed Heads South</td><td>Gold Coast</td><td>2026-09-25</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Kilburn</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Ballina</td><td>Ballina</td><td>2026-09-25</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Modbury</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Toowoomba</td><td>Toowoomba City</td><td>2026-09-25</td></tr>
+<tr><td>jll.co.in</td><td>Senior Transaction Manager - Retail (12-month Fixed-term)</td><td>Strawberry Hills</td><td>2026-09-25</td></tr>
 </table>
