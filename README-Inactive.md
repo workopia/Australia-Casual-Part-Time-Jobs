@@ -6000,4 +6000,9 @@
 <tr><td>Officeworks</td><td>Peak Trade Team Members - Casuall & Fixed Term (morayfield Qld)</td><td>Brisbane</td><td>2026-09-25</td></tr>
 <tr><td>Balenciaga Australia Pty Ltd</td><td>Balenciaga Sales & Client Advisor (fixed Term) (queens Plaza)</td><td>Brisbane</td><td>2026-09-25</td></tr>
 <tr><td>Worldline</td><td>Sales Consultant (1-year Ftc)</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Epping Grand Care Community</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Geraldton Shore Care Community</td><td>Geraldton</td><td>2026-09-26</td></tr>
+<tr><td>Australian Christian College</td><td>Casual Relief Teaching</td><td>Hilbert</td><td>2026-09-26</td></tr>
+<tr><td>Integricare</td><td>Early Childhood Educator, Certificate Iii</td><td>North Strathfield</td><td>2026-09-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Part Time</td><td>Perth</td><td>2026-09-26</td></tr>
 </table>

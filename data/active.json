@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-25",
- "count": 1078,
+ "asOf": "2026-09-26",
+ "count": 1076,
  "jobs": {
   "167": {
    "id": "167",
@@ -428,6 +428,36 @@
    "role": "Wellbeing Support Worker",
    "location": "Cairns"
   },
+  "2c9da25e5cfbe38d04f791edeb827c28": {
+   "id": "2c9da25e5cfbe38d04f791edeb827c28",
+   "company": "Opal HealthCare",
+   "role": "Assistant In Nursing - Manly Hillside Care Community",
+   "location": "North Manly"
+  },
+  "ad4bd46de9b8e65fe11a8ddad7f2cfe1": {
+   "id": "ad4bd46de9b8e65fe11a8ddad7f2cfe1",
+   "company": "Opal HealthCare",
+   "role": "Assistant In Nursing - Carlingford Greens Care Community",
+   "location": "Sydney"
+  },
+  "bdc75572dc287e78468fa5fe233ff5b3": {
+   "id": "bdc75572dc287e78468fa5fe233ff5b3",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker Cert Iv 007 - Reynella Hillside Care Community",
+   "location": "Old Reynella"
+  },
+  "14ab75e0ca37ac595be00f245eb4361b": {
+   "id": "14ab75e0ca37ac595be00f245eb4361b",
+   "company": "Opal HealthCare",
+   "role": "Assistant In Nursing - Varsity Views Care Community",
+   "location": "Gold Coast"
+  },
+  "8a16dc983bb87b6a8fb4a2ef77e95aba": {
+   "id": "8a16dc983bb87b6a8fb4a2ef77e95aba",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Joslin Manor Care Community",
+   "location": "Joslin"
+  },
   "b99a19b7b9479a56737c1aefb4b13f43": {
    "id": "b99a19b7b9479a56737c1aefb4b13f43",
    "company": "IRT",
@@ -571,36 +601,6 @@
    "company": "The Salvation Army Australia",
    "role": "Aod Support Worker",
    "location": "Sydney"
-  },
-  "bdc75572dc287e78468fa5fe233ff5b3": {
-   "id": "bdc75572dc287e78468fa5fe233ff5b3",
-   "company": "Opal HealthCare",
-   "role": "Personal Care Worker Cert Iv 007 - Reynella Hillside Care Community",
-   "location": "Old Reynella"
-  },
-  "14ab75e0ca37ac595be00f245eb4361b": {
-   "id": "14ab75e0ca37ac595be00f245eb4361b",
-   "company": "Opal HealthCare",
-   "role": "Assistant In Nursing - Varsity Views Care Community",
-   "location": "Gold Coast"
-  },
-  "8a16dc983bb87b6a8fb4a2ef77e95aba": {
-   "id": "8a16dc983bb87b6a8fb4a2ef77e95aba",
-   "company": "Opal HealthCare",
-   "role": "Personal Care Worker - Joslin Manor Care Community",
-   "location": "Joslin"
-  },
-  "fa693b5936e586767ec19ad8de9863d2": {
-   "id": "fa693b5936e586767ec19ad8de9863d2",
-   "company": "Opal HealthCare",
-   "role": "Assistant In Nursing - Epping Grand Care Community",
-   "location": "Melbourne"
-  },
-  "fe0ce46fa96c0e8eca9efc44513aaa29": {
-   "id": "fe0ce46fa96c0e8eca9efc44513aaa29",
-   "company": "Opal HealthCare",
-   "role": "Assistant In Nursing - Geraldton Shore Care Community",
-   "location": "Geraldton"
   },
   "a1cdc8dc8fc111f9fda5282c0d3bb204": {
    "id": "a1cdc8dc8fc111f9fda5282c0d3bb204",
@@ -1711,18 +1711,6 @@
    "company": "University of Sydney",
    "role": "Manager, Education Support",
    "location": "Sydney"
-  },
-  "a0462c7a05ddb3a04594963b9aa583a0": {
-   "id": "a0462c7a05ddb3a04594963b9aa583a0",
-   "company": "Australian Christian College",
-   "role": "Casual Relief Teaching",
-   "location": "Hilbert"
-  },
-  "f27c1e44b14de2092f9507ac8ed8fed4": {
-   "id": "f27c1e44b14de2092f9507ac8ed8fed4",
-   "company": "Integricare",
-   "role": "Early Childhood Educator, Certificate Iii",
-   "location": "North Strathfield"
   },
   "6e6f7aff601104b86d832d6b39a0b5ce": {
    "id": "6e6f7aff601104b86d832d6b39a0b5ce",
@@ -3108,7 +3096,7 @@
    "id": "c47cae686270088ae91123539b5ee329",
    "company": "Jetstar Airways",
    "role": "Ground Crew - Freight",
-   "location": "Brisbane +2"
+   "location": "Brisbane +1"
   },
   "1cf72a004b5688025d0e2701e3140c1f": {
    "id": "1cf72a004b5688025d0e2701e3140c1f",
@@ -3942,7 +3930,7 @@
    "id": "75bc6038afc67e72cd25cf3df9502d03",
    "company": "RACV",
    "role": "Room Attendant",
-   "location": "Cobram +2"
+   "location": "Ballarat +1"
   },
   "6c9b97c4a8dc5b7313c479a2fca3dc82": {
    "id": "6c9b97c4a8dc5b7313c479a2fca3dc82",
@@ -4009,6 +3997,12 @@
    "company": "AccorHotels",
    "role": "Housekeeping Attendant",
    "location": "Gold Coast"
+  },
+  "214f536bf75c966557d5adc6d6ee859b": {
+   "id": "214f536bf75c966557d5adc6d6ee859b",
+   "company": "Opal HealthCare",
+   "role": "Housekeeping Attendant - Kanwal Gardens Care Community",
+   "location": "Kanwal"
   },
   "ce383d217ab014b6175ebdf2ea52cc0b": {
    "id": "ce383d217ab014b6175ebdf2ea52cc0b",
@@ -4255,12 +4249,6 @@
    "company": "CLUB View",
    "role": "Room Attendant",
    "location": "Melbourne +8"
-  },
-  "214f536bf75c966557d5adc6d6ee859b": {
-   "id": "214f536bf75c966557d5adc6d6ee859b",
-   "company": "Opal HealthCare",
-   "role": "Housekeeping Attendant - Kanwal Gardens Care Community",
-   "location": "Kanwal"
   },
   "ed30b601bafa597b9cb48a73c20a5358": {
    "id": "ed30b601bafa597b9cb48a73c20a5358",
@@ -4778,6 +4766,18 @@
    "role": "Chefs / Quarter Acre",
    "location": "Perth"
   },
+  "969adb2c63e54519537e434142d81bef": {
+   "id": "969adb2c63e54519537e434142d81bef",
+   "company": "Opal HealthCare",
+   "role": "Demi Chef - Toongabbie Terrace Care Communityy",
+   "location": "Sydney"
+  },
+  "3194ac58917014466e6cbf4b183a8033": {
+   "id": "3194ac58917014466e6cbf4b183a8033",
+   "company": "Opal HealthCare",
+   "role": "Catering Services Officer - Lansdowne Gardens On Mann Care Community.",
+   "location": "Sydney"
+  },
   "fc776ca5b107956debb32fc98373f7ea": {
    "id": "fc776ca5b107956debb32fc98373f7ea",
    "company": "Sofitel Sydney Wentworth",
@@ -4970,12 +4970,6 @@
    "role": "Shift Supervisor - Warners Bay",
    "location": "Newcastle"
   },
-  "21071a934cd2a66986aca00df0886f97": {
-   "id": "21071a934cd2a66986aca00df0886f97",
-   "company": "Hungry Jack's",
-   "role": "Crew Member Part Time",
-   "location": "Perth"
-  },
   "362c0d9f1e0c3dc12e86a792521cde35": {
    "id": "362c0d9f1e0c3dc12e86a792521cde35",
    "company": "SVHA",
@@ -5053,12 +5047,6 @@
    "company": "InterContinental Hotels Group…",
    "role": "Food And Beverage Attendant - Part Time",
    "location": "Melbourne"
-  },
-  "3194ac58917014466e6cbf4b183a8033": {
-   "id": "3194ac58917014466e6cbf4b183a8033",
-   "company": "Opal HealthCare",
-   "role": "Catering Services Officer - Lansdowne Gardens On Mann Care Community.",
-   "location": "Sydney"
   },
   "6acdbad9734028ca2e2a0acef736fcbc": {
    "id": "6acdbad9734028ca2e2a0acef736fcbc",
@@ -5610,7 +5598,7 @@
    "id": "e034ed9654190224bbf1719e1b5dee73",
    "company": "Bunnings Group",
    "role": "Customer Service Team Member – Seasonal Casual",
-   "location": "Geelong +19"
+   "location": "Geelong +16"
   },
   "c3a0c3de5094cc52b8b3085df69dce4c": {
    "id": "c3a0c3de5094cc52b8b3085df69dce4c",
@@ -6060,7 +6048,7 @@
    "id": "5daec64fee647a01efdade4d2bb19739",
    "company": "Bunnings Group",
    "role": "Customer Service Team Member",
-   "location": "Gold Coast +14"
+   "location": "Cockburn Central +12"
   },
   "1695157e32fda37d5fb033456a3ac131": {
    "id": "1695157e32fda37d5fb033456a3ac131",
