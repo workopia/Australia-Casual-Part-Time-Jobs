@@ -6054,4 +6054,58 @@
 <tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +16</td><td>2026-09-26</td></tr>
 <tr><td>Bunnings Group</td><td>Customer Service Team Member</td><td>Cockburn Central +12</td><td>2026-09-26</td></tr>
 <tr><td>Travelex central Services Ltd</td><td>Retail Sales Consultant</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>Authentics Australia</td><td>Part Time Sales Assistant</td><td>Converse +5</td><td>2026-09-26</td></tr>
+<tr><td>Wsre</td><td>Personal Carer</td><td>Kingaroy +7</td><td>2026-09-26</td></tr>
+<tr><td>Missioneb</td><td>Wellbeing Support Worker</td><td>Cairns</td><td>2026-09-26</td></tr>
+<tr><td>Ma Mission Australia</td><td>Wellbeing Support Worker</td><td>Cairns</td><td>2026-09-26</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer</td><td>Melbourne +13</td><td>2026-09-26</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer Domestic</td><td>Cunnamulla +3</td><td>2026-09-26</td></tr>
+<tr><td>Estia Health</td><td>Nursing Assistant</td><td>Norah Head +10</td><td>2026-09-26</td></tr>
+<tr><td>Rsl Lifecare Limited</td><td>Community Support Worker</td><td>Illawarra +1</td><td>2026-09-26</td></tr>
+<tr><td>SensesWA</td><td>Disability Support Worker</td><td>Western Australia</td><td>2026-09-26</td></tr>
+<tr><td>RMIT</td><td>Casual Academic</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Central Queensland University</td><td>Casual Tafe Teacher Justice/leadership/ Management</td><td>Bundaberg</td><td>2026-09-26</td></tr>
+<tr><td>Careersat MQ</td><td>Student Ambassador</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Macquarie</td><td>Student Ambassador</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>miele.es</td><td>Warehouse Storeperson (14-month Fixed Term Contract)</td><td>Eastern Creek</td><td>2026-09-26</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Housekeeper / Cleaner</td><td>Port Douglas +5</td><td>2026-09-26</td></tr>
+<tr><td>Spotless</td><td>Casual Cleaner</td><td>Northam</td><td>2026-09-26</td></tr>
+<tr><td>Downer EDI</td><td>Casual Cleaner</td><td>Northam</td><td>2026-09-26</td></tr>
+<tr><td>AccorHotels</td><td>Housekeeping Attendant</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Maintenance Officer</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Casual Crew Member - Late Nights.</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Day And Night Team Member</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Overnight Cook / Crew (10pm To 6am Shifts)</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>The Royal On The Waterfront</td><td>Food & Beverage Attendant / The Royal On The Waterfront / Wa</td><td>Perth</td><td>2026-09-26</td></tr>
+<tr><td>Naracoorte Hotel</td><td>Food & Beverage Attendants / Naracoorte Hotel / Sa</td><td>Naracoorte</td><td>2026-09-26</td></tr>
+<tr><td>Garden State Hotel</td><td>Food And Beverage Attendants - Garden State Hotel / Melbourne, Vic</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Golden Gate Hotel</td><td>Food & Beverage Attendant / Golden Gate Hotel</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook Part Time - Gyg Castle Towers</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Macarthur Square</td><td>Campbelltown</td><td>2026-09-26</td></tr>
+<tr><td>The Ritz-Carlton</td><td>F&b Attendant/bartender (chapter & Verse)</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>CLUB View</td><td>Guest Service Generalist-1</td><td>Dinner Plain</td><td>2026-09-26</td></tr>
+<tr><td>Sofitel Brisbane Central</td><td>Maintenance Officer</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Sofitel Brisbane Central</td><td>Cook</td><td>Canberra Airport</td><td>2026-09-26</td></tr>
+<tr><td>Sofitel Sydney Darling Harbour</td><td>Food And Beverage Attendant - Atelier</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Centre Cook</td><td>Seymour +24</td><td>2026-09-26</td></tr>
+<tr><td>Four Seasons Hotel Sydney</td><td>Banquets Attendant</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Fairfield Gardens</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Gold Coast +13</td><td>2026-09-26</td></tr>
+<tr><td>SVHA</td><td>Support Services Associate - Operating Suite (casual)</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Griffith</td><td>Griffith</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Wagga Wagga</td><td>Wagga Wagga</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Sepastopol (ballarat)</td><td>Ballarat</td><td>2026-09-26</td></tr>
+<tr><td>Thepetspotco</td><td>Casual Retail Sales Assistant / Rosebud</td><td>Geelong</td><td>2026-09-26</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual</td><td>Brisbane +1</td><td>2026-09-26</td></tr>
+<tr><td>Budget Stay</td><td>Vehicle Return Agent / Outdoor Customer Service Representative (fulltime)</td><td>Perth Airport +1</td><td>2026-09-26</td></tr>
+<tr><td>ASICS</td><td>Seasonal Casual Retail Assistant - Chermside</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Springvale</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Inala</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Tip Top</td><td>Merchandiser / Mount Gambier</td><td>Mount Gambier</td><td>2026-09-26</td></tr>
+<tr><td>Country Road Group</td><td>Witchery - Part Time Sales Consultant - David Jones Bondi</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Part Time I Rockingham, Wa</td><td>Rockingham</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>*customer Support Assistant - Lidcombe Place Care Community</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>RACV</td><td>Retail Consultant</td><td>Bendigo +1</td><td>2026-09-26</td></tr>
+<tr><td>RACV</td><td>Customer Service & Sales Consultant / Ballarat</td><td>Ballarat</td><td>2026-09-26</td></tr>
 </table>
