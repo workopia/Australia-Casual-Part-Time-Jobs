@@ -6044,4 +6044,14 @@
 <tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Hamilton</td><td>Brisbane</td><td>2026-09-26</td></tr>
 <tr><td>Wyndham</td><td>Sales Consultant</td><td>Melbourne +1</td><td>2026-09-26</td></tr>
 <tr><td>Asics Oceania Pty Ltd</td><td>Seasonal Casual Retail Assistant - Asics Fyshwick</td><td>Fyshwick</td><td>2026-09-26</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer</td><td>Melbourne +12</td><td>2026-09-26</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker / Yarra Valley</td><td>Yarra Valley</td><td>2026-09-26</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker / Leopold / Casual</td><td>Geelong</td><td>2026-09-26</td></tr>
+<tr><td>UnitingCare</td><td>Support Worker - Port Macquarie</td><td>Port Macquarie</td><td>2026-09-26</td></tr>
+<tr><td>Downer</td><td>Casual Cleaner</td><td>Northam</td><td>2026-09-26</td></tr>
+<tr><td>Wyndham</td><td>Room Attendant</td><td>Melbourne +8</td><td>2026-09-26</td></tr>
+<tr><td>RACV City Club</td><td>Cook Grade 2</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +16</td><td>2026-09-26</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member</td><td>Cockburn Central +12</td><td>2026-09-26</td></tr>
+<tr><td>Travelex central Services Ltd</td><td>Retail Sales Consultant</td><td>Gold Coast</td><td>2026-09-26</td></tr>
 </table>
