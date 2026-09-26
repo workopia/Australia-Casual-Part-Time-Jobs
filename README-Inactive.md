@@ -6005,4 +6005,43 @@
 <tr><td>Australian Christian College</td><td>Casual Relief Teaching</td><td>Hilbert</td><td>2026-09-26</td></tr>
 <tr><td>Integricare</td><td>Early Childhood Educator, Certificate Iii</td><td>North Strathfield</td><td>2026-09-26</td></tr>
 <tr><td>Hungry Jack's</td><td>Crew Member Part Time</td><td>Perth</td><td>2026-09-26</td></tr>
+<tr><td>Ma Mission Australia</td><td>Wellbeing Support Worker</td><td>Cairns</td><td>2026-09-26</td></tr>
+<tr><td>Compass Australia</td><td>ASC North - Catering Assistant</td><td>Osborne</td><td>2026-09-26</td></tr>
+<tr><td>EssilorLuxottica</td><td>Warehouse Operator - Spring-summer 2026/2027</td><td>Kemps Creek</td><td>2026-09-26</td></tr>
+<tr><td>Fantastic Furniture</td><td>Pt Warehouse Team Member - Gepps Cross</td><td>Gepps Cross</td><td>2026-09-26</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Casual Housekeeper</td><td>Melbourne +2</td><td>2026-09-26</td></tr>
+<tr><td>Estia Health</td><td>Housekeeper</td><td>Sydney +10</td><td>2026-09-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Casual Shift Supervisor - Hungry Jacks Helensvale</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Casual</td><td>Falcon +3</td><td>2026-09-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook</td><td>Brisbane +6</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Food And Beverage Attendant - Springwood Hotel</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Quarter Acre Hotel</td><td>Chefs / Quarter Acre</td><td>Perth</td><td>2026-09-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Shift Leader Part Time - Gyg Castle Towers</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>RACV Royal Pines Resort</td><td>Night Supervisor</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>RACV</td><td>Chef De Partie - Pastry</td><td>Cape Schanck</td><td>2026-09-26</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Food & Beverage Team Leader</td><td>Creswick</td><td>2026-09-26</td></tr>
+<tr><td>Crown Resorts</td><td>Chinese Wok Chefs</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Toolooa</td><td>Toolooa</td><td>2026-09-26</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Westleigh</td><td>Westleigh</td><td>2026-09-26</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual</td><td>Geelong +16</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws West Richmond</td><td>West Richmond</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Keiraville Drive</td><td>Keiraville</td><td>2026-09-26</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Casual I Salisbury, Sa</td><td>Adelaide</td><td>2026-09-26</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Sydney Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>EssilorLuxottica</td><td>Christmas Casual</td><td>Gold Coast +2</td><td>2026-09-26</td></tr>
+<tr><td>EssilorLuxottica</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-26</td></tr>
+<tr><td>Sunglass Hut Broadway</td><td>Christmas Casual / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Genuine Parts Company</td><td>Customer Sales & Service - Repco Lawnton - Casual</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Ampol</td><td>Team Member - North Maclean</td><td>North Maclean</td><td>2026-09-26</td></tr>
+<tr><td>Cotton On</td><td>Holiday Casual Team Member - Supre Shepparton Market Place</td><td>Shepparton</td><td>2026-09-26</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Whitfords</td><td>Perth</td><td>2026-09-26</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Robina</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws The Pines</td><td>Gold Coast</td><td>2026-09-26</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Redland Bay Village</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Hamilton</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>Wyndham</td><td>Sales Consultant</td><td>Melbourne +1</td><td>2026-09-26</td></tr>
+<tr><td>Asics Oceania Pty Ltd</td><td>Seasonal Casual Retail Assistant - Asics Fyshwick</td><td>Fyshwick</td><td>2026-09-26</td></tr>
 </table>
