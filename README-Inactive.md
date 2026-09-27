@@ -6144,4 +6144,8 @@
 <tr><td>MYER</td><td>Sales Assistant - Part Time - Portmans - Chermside</td><td>Brisbane</td><td>2026-09-27</td></tr>
 <tr><td>CommBank</td><td>Customer Banking Specialist - Kwinana (31.25hrs/week)</td><td>Rockingham</td><td>2026-09-27</td></tr>
 <tr><td>AusPost</td><td>Talent Attraction Consultant - Retail & Contact Centre</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Junior Adventures Group</td><td>Flexible Educator (dip Qual) - Gembrook / The Patch / The Hills - Casual</td><td>Gembrook</td><td>2026-09-27</td></tr>
+<tr><td>Wearetheuniversity</td><td>Education Support Officer (targeted)</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>The University of Sydney</td><td>Education Support Officer (targeted)</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>MYER</td><td>Retail Security Officer / Chermside</td><td>Brisbane</td><td>2026-09-27</td></tr>
 </table>
