@@ -11,13 +11,13 @@
   "as_of": "2026-09-27",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-27T06:58:18.611Z",
+  "generated_at": "2026-09-27T10:28:28.384Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
   "seasonal_live_roles": 1219,
-  "hydrated_rows": 24104,
-  "casual_website_total": 31136,
-  "casual_website_as_of": "2026-09-27T01:15:17.350Z"
+  "hydrated_rows": 23995,
+  "casual_website_total": 31114,
+  "casual_website_as_of": "2026-09-27T07:05:38.117Z"
  },
  "seasonal": [
   {
@@ -988,7 +988,7 @@
    "icon": "🍽️",
    "l4slug": "crew-member",
    "l4bucket": "Crew Member",
-   "l4bucket_jobs": 2931
+   "l4bucket_jobs": 2930
   },
   {
    "key": "retail",
@@ -1995,7 +1995,7 @@
    "company_name": "HammondCare",
    "company_hi_slug": "hammondcare",
    "title": "Specialised Carer - Home Care",
-   "location": "Melbourne +16",
+   "location": "Melbourne +15",
    "pay_display": "$32.91–36.5/hr",
    "shift": null,
    "ticket": "Driver licence",
@@ -2010,7 +2010,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Casual",
-   "locations_count": 17
+   "locations_count": 16
   },
   {
    "id": "5c18a9c571c0b1f42a7d09aabc01c812",
@@ -7924,29 +7924,6 @@
    "locations_count": 1
   },
   {
-   "id": "0af408da7fa0e4701fd20f87bdccf4de",
-   "source": "Workopia",
-   "company_name": "Hotel Chadstone Melbourne MGallery",
-   "company_hi_slug": "hotel-chadstone-melbourne-mgallery",
-   "title": "Food And Beverage Attendant - Conference & Events",
-   "location": "Melbourne",
-   "pay_display": null,
-   "shift": "Weekend",
-   "ticket": "RSA",
-   "no_experience": false,
-   "xmas": false,
-   "seasonal": null,
-   "hot": false,
-   "date_posted": "2026-08-13T07:35:48.073Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0af408da7fa0e4701fd20f87bdccf4de",
-   "category": "events",
-   "tier": "Casual",
-   "employment_type_norm": "Casual",
-   "employment_type_raw": "Casual",
-   "locations_count": 1
-  },
-  {
    "id": "e69aad076b02841d37cace6e80943238",
    "source": "Workopia",
    "company_name": "IHG",
@@ -8377,29 +8354,6 @@
    "date_posted": "2026-08-21T04:45:13.249Z",
    "active": true,
    "url": "https://workopia.io/jobs/8b05c098d3d50699bbfce5442b25dc99",
-   "category": "events",
-   "tier": "Casual",
-   "employment_type_norm": "Casual",
-   "employment_type_raw": "Casual",
-   "locations_count": 1
-  },
-  {
-   "id": "ea94a864ba41f33a14bcdeda07154aa6",
-   "source": "Workopia",
-   "company_name": "Sofitel Melbourne On Collins",
-   "company_hi_slug": "sofitel-melbourne-on-collins",
-   "title": "Food And Beverage Attendant - Conference & Events",
-   "location": "Melbourne",
-   "pay_display": null,
-   "shift": "Weekend",
-   "ticket": "RSA",
-   "no_experience": false,
-   "xmas": false,
-   "seasonal": null,
-   "hot": false,
-   "date_posted": "2026-08-13T07:35:48.073Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/ea94a864ba41f33a14bcdeda07154aa6",
    "category": "events",
    "tier": "Casual",
    "employment_type_norm": "Casual",
@@ -17060,7 +17014,7 @@
    "company_name": "CLUB View",
    "company_hi_slug": "club-view",
    "title": "Room Attendant",
-   "location": "Melbourne +8",
+   "location": "Melbourne +7",
    "pay_display": null,
    "shift": "Flexible",
    "ticket": null,
@@ -17075,7 +17029,7 @@
    "tier": "Part-time",
    "employment_type_norm": "Part-time",
    "employment_type_raw": "Part Time",
-   "locations_count": 9
+   "locations_count": 8
   },
   {
    "id": "ed30b601bafa597b9cb48a73c20a5358",

@@ -6148,4 +6148,6 @@
 <tr><td>Wearetheuniversity</td><td>Education Support Officer (targeted)</td><td>Sydney</td><td>2026-09-27</td></tr>
 <tr><td>The University of Sydney</td><td>Education Support Officer (targeted)</td><td>Sydney</td><td>2026-09-27</td></tr>
 <tr><td>MYER</td><td>Retail Security Officer / Chermside</td><td>Brisbane</td><td>2026-09-27</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food And Beverage Attendant - Conference & Events</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food And Beverage Attendant - Conference & Events</td><td>Melbourne</td><td>2026-09-27</td></tr>
 </table>
