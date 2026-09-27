@@ -6108,4 +6108,40 @@
 <tr><td>Opal HealthCare</td><td>*customer Support Assistant - Lidcombe Place Care Community</td><td>Sydney</td><td>2026-09-26</td></tr>
 <tr><td>RACV</td><td>Retail Consultant</td><td>Bendigo +1</td><td>2026-09-26</td></tr>
 <tr><td>RACV</td><td>Customer Service & Sales Consultant / Ballarat</td><td>Ballarat</td><td>2026-09-26</td></tr>
+<tr><td>High Quality Concrete</td><td>Casual Agitator Driver / Coffs Harbour</td><td>Coffs Harbour</td><td>2026-09-27</td></tr>
+<tr><td>Metcash</td><td>Truck Driver/trade Team Member</td><td>Victoria</td><td>2026-09-27</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member / Team Leader - Casual</td><td>Perth</td><td>2026-09-27</td></tr>
+<tr><td>Hungry Jack's</td><td>Casuarina Shift Supervisor</td><td>Casuarina</td><td>2026-09-27</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Hungry Jacks</td><td>Maroochydore +1</td><td>2026-09-27</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook / Kitchen Crew</td><td>Baringa +1</td><td>2026-09-27</td></tr>
+<tr><td>CLUB View</td><td>Food & Beverage Attendant</td><td>Gold Coast +1</td><td>2026-09-27</td></tr>
+<tr><td>W Brisbane</td><td>Chef De Partie - Banquets (maternity Cover)</td><td>Perth</td><td>2026-09-27</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member Seasonal Casual Parafield</td><td>Parafield</td><td>2026-09-27</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Burdell</td><td>Burdell</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Macquarie Centre, Nsw</td><td>Sydney +1</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut George Street Sydney, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hornsby, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Hurstville, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bankstown, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Miranda 2, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bondi Junction, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Melbourne Central Halo Store, Vic</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Nike Inc</td><td>Casual Athlete/ Retail Associate Nike, Company Store</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Arnott's Biscuits Ltd</td><td>Merchandiser Perth Cbd</td><td>Perth</td><td>2026-09-27</td></tr>
+<tr><td>Kmart Group</td><td>Kmart Morayfield - Holiday Casual (6am - 12pm)</td><td>Brisbane</td><td>2026-09-27</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Bankstown</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Kilmore, Seymour</td><td>Seymour</td><td>2026-09-27</td></tr>
+<tr><td>Tip Top</td><td>Casual / Merchandiser / Traralgon, Moe, Morwell</td><td>Traralgon</td><td>2026-09-27</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Replenishment</td><td>Gold Coast</td><td>2026-09-27</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Lithgow Drive</td><td>Lithgow</td><td>2026-09-27</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Werribee Central</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Darlinghurst</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jay Jays - Darwin</td><td>Darwin</td><td>2026-09-27</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jay Jays - Castletown</td><td>Castletown</td><td>2026-09-27</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Portmans - Chermside</td><td>Brisbane</td><td>2026-09-27</td></tr>
+<tr><td>CommBank</td><td>Customer Banking Specialist - Kwinana (31.25hrs/week)</td><td>Rockingham</td><td>2026-09-27</td></tr>
+<tr><td>AusPost</td><td>Talent Attraction Consultant - Retail & Contact Centre</td><td>Melbourne</td><td>2026-09-27</td></tr>
 </table>

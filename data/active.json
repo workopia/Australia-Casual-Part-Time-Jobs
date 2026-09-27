@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-26",
- "count": 1078,
+ "asOf": "2026-09-27",
+ "count": 1077,
  "jobs": {
   "167": {
    "id": "167",
@@ -174,13 +174,13 @@
    "id": "6fce5ac8edc13072d1c9f7090d96b436",
    "company": "Mercy Health",
    "role": "Personal Care Assistant",
-   "location": "Geelong +4"
+   "location": "Geelong +3"
   },
   "1f0e45114026b45265250403a8bb506c": {
    "id": "1f0e45114026b45265250403a8bb506c",
    "company": "Mercy Health",
    "role": "Home Care Worker",
-   "location": "Wellington +2"
+   "location": "Albury +1"
   },
   "230815f9beee15111c0ab8621a04db30": {
    "id": "230815f9beee15111c0ab8621a04db30",
@@ -2570,6 +2570,12 @@
    "role": "Senior Transport Operations Planner - Major Events (temporary Opportunity Up To 30 Months)",
    "location": "Eveleigh"
   },
+  "b16fdbdbf5c9a3811ad975f48badc5a7": {
+   "id": "b16fdbdbf5c9a3811ad975f48badc5a7",
+   "company": "Assurant",
+   "role": "Dcc Warehouse Team Member - Casual",
+   "location": "Sydney"
+  },
   "df08e7e0cac56fde83c4a7f950242e00": {
    "id": "df08e7e0cac56fde83c4a7f950242e00",
    "company": "Cosmax Prestige Brands",
@@ -2586,7 +2592,7 @@
    "id": "c40dc0f82a7dc8272ae48af54325a5d1",
    "company": "The Good Guys",
    "role": "Warehouse Team Member",
-   "location": "Newcastle +10"
+   "location": "Newcastle +9"
   },
   "57199866c841016ee9dfb33fd1548f4e": {
    "id": "57199866c841016ee9dfb33fd1548f4e",
@@ -2604,7 +2610,7 @@
    "id": "37a1affee2fc752b439bfbf4d7528154",
    "company": "Cleanaway Waste Management Ltd",
    "role": "Driver - Rear Lift",
-   "location": "Ballarat +7"
+   "location": "Ballarat +6"
   },
   "6a0550f33a47cd18ae70aaad70b91d39": {
    "id": "6a0550f33a47cd18ae70aaad70b91d39",
@@ -2918,11 +2924,11 @@
    "role": "Heavy Rigid Truck Driver",
    "location": "Eagle Farm"
   },
-  "5b6ef5674cc966ead0ed5593abfc2418": {
-   "id": "5b6ef5674cc966ead0ed5593abfc2418",
-   "company": "High Quality Concrete",
-   "role": "Casual Agitator Driver / Coffs Harbour",
-   "location": "Coffs Harbour"
+  "90a1be4d57c442ace384b41745ba01c4": {
+   "id": "90a1be4d57c442ace384b41745ba01c4",
+   "company": "Brooks Automation Inc",
+   "role": "Warehouse Assistant (casual)",
+   "location": "Brisbane"
   },
   "FHL-1949314": {
    "id": "FHL-1949314",
@@ -3277,12 +3283,6 @@
    "company": "Sofitel Melbourne On Collins",
    "role": "Storeperson - Part Time",
    "location": "Melbourne"
-  },
-  "626962d70d1caea5035cd7a08f8f9a47": {
-   "id": "626962d70d1caea5035cd7a08f8f9a47",
-   "company": "Metcash",
-   "role": "Truck Driver/trade Team Member",
-   "location": "Victoria"
   },
   "a57329d463599e510245a0b6195dfa8b": {
    "id": "a57329d463599e510245a0b6195dfa8b",
@@ -4436,6 +4436,24 @@
    "role": "Housekeeping Team Lead",
    "location": "Brisbane Airport"
   },
+  "3c49150ddadd9149aa2c53bfc17afd4f": {
+   "id": "3c49150ddadd9149aa2c53bfc17afd4f",
+   "company": "Hungry Jack's",
+   "role": "Overnight/closing Crew Member",
+   "location": "Perth"
+  },
+  "b8f01c4d38b6bfc9c13beb03b8da4020": {
+   "id": "b8f01c4d38b6bfc9c13beb03b8da4020",
+   "company": "Hungry Jack's",
+   "role": "Weekend Opening Crew",
+   "location": "Perth"
+  },
+  "476d22d638088df787de73bbce5c95a8": {
+   "id": "476d22d638088df787de73bbce5c95a8",
+   "company": "Hungry Jack's",
+   "role": "Casual Crew Falcon",
+   "location": "Falcon"
+  },
   "b5411b9c4340fe502decb01dbb2835c6": {
    "id": "b5411b9c4340fe502decb01dbb2835c6",
    "company": "Hungry Jack's",
@@ -4448,23 +4466,35 @@
    "role": "Casual Crew",
    "location": "Perth +3"
   },
-  "f4a55fa4bdb5b1638114191ff98ea478": {
-   "id": "f4a55fa4bdb5b1638114191ff98ea478",
-   "company": "Hungry Jack's",
-   "role": "Crew Member / Team Leader - Casual",
-   "location": "Perth"
+  "ed5f0eedef39f5598fb87b932a584a42": {
+   "id": "ed5f0eedef39f5598fb87b932a584a42",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Cook - Franchise (6:30 Am Start Or 5pm Start To Close)",
+   "location": "Lavington"
   },
-  "b37f1e451cfca745a5677ff5cc376a7c": {
-   "id": "b37f1e451cfca745a5677ff5cc376a7c",
-   "company": "Hungry Jack's",
-   "role": "Casuarina Shift Supervisor",
-   "location": "Casuarina"
+  "88472adb5d8724de7fe800f1ef0c9c8d": {
+   "id": "88472adb5d8724de7fe800f1ef0c9c8d",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Crew - Casual",
+   "location": "Gold Coast +6"
   },
-  "e4c73c56aba4251afc5308d8d2d642b0": {
-   "id": "e4c73c56aba4251afc5308d8d2d642b0",
-   "company": "Hungry Jack's",
-   "role": "Crew Member Hungry Jacks",
-   "location": "Maroochydore +1"
+  "a1ad9dffbcd99ae10a2c04a57aaec8e5": {
+   "id": "a1ad9dffbcd99ae10a2c04a57aaec8e5",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Crew",
+   "location": "Brisbane +5"
+  },
+  "cc650efbbcfad841c85a2eecb9bb6d10": {
+   "id": "cc650efbbcfad841c85a2eecb9bb6d10",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual - Cook Position",
+   "location": "Melbourne"
+  },
+  "18cbcaaecdccbe800a4fee0014906439": {
+   "id": "18cbcaaecdccbe800a4fee0014906439",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Casual Overnight Shift Leader",
+   "location": "Brisbane +1"
   },
   "77050f47c813019611373ca2c74662de": {
    "id": "77050f47c813019611373ca2c74662de",
@@ -4537,36 +4567,6 @@
    "company": "Ampol",
    "role": "Barista Team Member - Coffs Harbour South",
    "location": "Coffs Harbour"
-  },
-  "88472adb5d8724de7fe800f1ef0c9c8d": {
-   "id": "88472adb5d8724de7fe800f1ef0c9c8d",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Crew - Casual",
-   "location": "Gold Coast +6"
-  },
-  "a1ad9dffbcd99ae10a2c04a57aaec8e5": {
-   "id": "a1ad9dffbcd99ae10a2c04a57aaec8e5",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Crew",
-   "location": "Brisbane +5"
-  },
-  "cc650efbbcfad841c85a2eecb9bb6d10": {
-   "id": "cc650efbbcfad841c85a2eecb9bb6d10",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual - Cook Position",
-   "location": "Melbourne"
-  },
-  "18cbcaaecdccbe800a4fee0014906439": {
-   "id": "18cbcaaecdccbe800a4fee0014906439",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual Overnight Shift Leader",
-   "location": "Brisbane +1"
-  },
-  "4b526aefa5157fc0779a8f31d5c69d97": {
-   "id": "4b526aefa5157fc0779a8f31d5c69d97",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Cook / Kitchen Crew",
-   "location": "Baringa +1"
   },
   "1cb086f3ebdb4c6d06192f0ab510e9ec": {
    "id": "1cb086f3ebdb4c6d06192f0ab510e9ec",
@@ -4771,6 +4771,12 @@
    "company": "Station Hotel",
    "role": "Chefs / Station Hotel",
    "location": "Melbourne"
+  },
+  "198563e5a0ce9967265fa7b6a26284cb": {
+   "id": "198563e5a0ce9967265fa7b6a26284cb",
+   "company": "Anglicare Sydney",
+   "role": "Cook",
+   "location": "Woolooware Shores"
   },
   "969adb2c63e54519537e434142d81bef": {
    "id": "969adb2c63e54519537e434142d81bef",
@@ -5120,12 +5126,6 @@
    "role": "Food And Beverage Attendant - Part Time",
    "location": "Melbourne"
   },
-  "6acdbad9734028ca2e2a0acef736fcbc": {
-   "id": "6acdbad9734028ca2e2a0acef736fcbc",
-   "company": "CLUB View",
-   "role": "Food & Beverage Attendant",
-   "location": "Gold Coast +1"
-  },
   "90d7392ad315ecd8811603fcac3ad39d": {
    "id": "90d7392ad315ecd8811603fcac3ad39d",
    "company": "ALH",
@@ -5336,12 +5336,6 @@
    "role": "Food And Beverage Attendant-pool Bar (fixed Term)",
    "location": "Gold Coast"
   },
-  "d6682f60cdfc887ad96ec281f3137e65": {
-   "id": "d6682f60cdfc887ad96ec281f3137e65",
-   "company": "W Brisbane",
-   "role": "Chef De Partie - Banquets (maternity Cover)",
-   "location": "Perth"
-  },
   "609fe3fefb16ff8908fd3f869d0c172d": {
    "id": "609fe3fefb16ff8908fd3f869d0c172d",
    "company": "Josef Chromy Wines",
@@ -5390,6 +5384,126 @@
    "role": "Data Steward Partner",
    "location": "Melbourne"
   },
+  "cdbf48dcf7a0cc0518a0e95370293d32": {
+   "id": "cdbf48dcf7a0cc0518a0e95370293d32",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "7e4b212bd4707b4545e9ea2b3890b16e": {
+   "id": "7e4b212bd4707b4545e9ea2b3890b16e",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw",
+   "location": "Sydney"
+  },
+  "ad3a6fbf51a649c7d842ac137a3bad0d": {
+   "id": "ad3a6fbf51a649c7d842ac137a3bad0d",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw",
+   "location": "Sydney"
+  },
+  "58a1fc2bd9ee065c9d65575566ab5be2": {
+   "id": "58a1fc2bd9ee065c9d65575566ab5be2",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Chatswood, Nsw",
+   "location": "Sydney"
+  },
+  "3f9b97c617d20bd23003dca7ed94d305": {
+   "id": "3f9b97c617d20bd23003dca7ed94d305",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw",
+   "location": "Sydney"
+  },
+  "2ffc1079bbcfa1ce450dce0c21086249": {
+   "id": "2ffc1079bbcfa1ce450dce0c21086249",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "de35a11d8b988a67e3fb61af0a711a82": {
+   "id": "de35a11d8b988a67e3fb61af0a711a82",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Sydney Flagship, Nsw",
+   "location": "Sydney"
+  },
+  "1ef64e70eb8ac68d6b6d87f60cb4449e": {
+   "id": "1ef64e70eb8ac68d6b6d87f60cb4449e",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "e7b667c12f48738c68ab73f6d5b74d05": {
+   "id": "e7b667c12f48738c68ab73f6d5b74d05",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Parramatta, Nsw",
+   "location": "Sydney"
+  },
+  "ee27a8b3335e38232ab9bd1064066046": {
+   "id": "ee27a8b3335e38232ab9bd1064066046",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Rouse Hill, Nsw",
+   "location": "Sydney"
+  },
+  "f739faa61d1f9ef8d89a6124bb60d07f": {
+   "id": "f739faa61d1f9ef8d89a6124bb60d07f",
+   "company": "OAKLEY",
+   "role": "Christmas Casual / Oakley Manly, Nsw",
+   "location": "Sydney"
+  },
+  "d492c55fafe53fa1b1337c6a20342e52": {
+   "id": "d492c55fafe53fa1b1337c6a20342e52",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "454c78eca3d7b08039824606aa323a28": {
+   "id": "454c78eca3d7b08039824606aa323a28",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "0c04a5c9e7fb559815a9e110fccd0749": {
+   "id": "0c04a5c9e7fb559815a9e110fccd0749",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Sydney George Street, Nsw",
+   "location": "Sydney"
+  },
+  "083c715cef4667f5aea6877e1b404e61": {
+   "id": "083c715cef4667f5aea6877e1b404e61",
+   "company": "OAKLEY",
+   "role": "Christmas Casual",
+   "location": "Brisbane"
+  },
+  "bb0f39f5fefc6ace10c196037c02908d": {
+   "id": "bb0f39f5fefc6ace10c196037c02908d",
+   "company": "adidas AG",
+   "role": "Casual Retail Professional - Eastern Creek Quarter Factory Outlet, Nsw",
+   "location": "Eastern Creek"
+  },
+  "1f88aed539bb9bca2f04f0ef1fe87aea": {
+   "id": "1f88aed539bb9bca2f04f0ef1fe87aea",
+   "company": "adidas AG",
+   "role": "Casual Retail Professional - Burwood Originals Concept Store, Nsw",
+   "location": "Sydney"
+  },
+  "994e3cfb5883c0ee2206b4e7f5d90228": {
+   "id": "994e3cfb5883c0ee2206b4e7f5d90228",
+   "company": "adidas AG",
+   "role": "Casual Retail Professional - Market City Factory Outlet, Nsw",
+   "location": "Sydney"
+  },
+  "3af8766a9f91db24c15ed9a5cadc5a86": {
+   "id": "3af8766a9f91db24c15ed9a5cadc5a86",
+   "company": "adidas AG",
+   "role": "Casual Retail Professional - Harbour Town Factory Outlet, Gold Coast",
+   "location": "Gold Coast"
+  },
+  "c1ff76a9e2e6b292b4947af5e7157e0a": {
+   "id": "c1ff76a9e2e6b292b4947af5e7157e0a",
+   "company": "adidas AG",
+   "role": "Casual Retail Professional - New Brisbane Domestic Airport Concept Store, Qld",
+   "location": "Brisbane"
+  },
   "1ab0afcde79dfc553d4124c536c26466": {
    "id": "1ab0afcde79dfc553d4124c536c26466",
    "company": "Bonds",
@@ -5419,12 +5533,6 @@
    "company": "EssilorLuxottica",
    "role": "Christmas Casual",
    "location": "Gold Coast +2"
-  },
-  "083c715cef4667f5aea6877e1b404e61": {
-   "id": "083c715cef4667f5aea6877e1b404e61",
-   "company": "OAKLEY",
-   "role": "Christmas Casual",
-   "location": "Brisbane"
   },
   "5cab2c07992c753fc527b46530a1e1d0": {
    "id": "5cab2c07992c753fc527b46530a1e1d0",
@@ -5510,23 +5618,11 @@
    "role": "Seasonal Casual (canberra Airport)",
    "location": "Belconnen"
   },
-  "c3a0c3de5094cc52b8b3085df69dce4c": {
-   "id": "c3a0c3de5094cc52b8b3085df69dce4c",
-   "company": "Bunnings Group",
-   "role": "Customer Service Team Member Seasonal Casual Parafield",
-   "location": "Parafield"
-  },
   "8ee89d659d3b65112d8a85999ec9a6aa": {
    "id": "8ee89d659d3b65112d8a85999ec9a6aa",
    "company": "Aldi Australia",
    "role": "Junior Store Assistant - Box Hill",
    "location": "Melbourne"
-  },
-  "8d910f12555f1fae2433b5bb3d767bef": {
-   "id": "8d910f12555f1fae2433b5bb3d767bef",
-   "company": "Aldi Australia",
-   "role": "Junior Store Assistant - Burdell",
-   "location": "Burdell"
   },
   "712dff78fa8c43a662a6b17c158a3557": {
    "id": "712dff78fa8c43a662a6b17c158a3557",
@@ -5642,113 +5738,59 @@
    "role": "Christmas Casual / Sheridan Concession / Myer Highpoint",
    "location": "Highpoint"
   },
-  "2669eb4b7e1de43010c9b62052aa51cf": {
-   "id": "2669eb4b7e1de43010c9b62052aa51cf",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Macquarie Centre, Nsw",
-   "location": "Sydney +1"
-  },
-  "0874770bb6b3357bea5613c396678441": {
-   "id": "0874770bb6b3357bea5613c396678441",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut George Street Sydney, Nsw",
-   "location": "Sydney"
-  },
-  "a776cd32060da191989cb88c9450fa6f": {
-   "id": "a776cd32060da191989cb88c9450fa6f",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Homebush Dfo, Nsw",
-   "location": "Sydney"
-  },
-  "bff0caea9f95da1ee02ccabf1f08f5f3": {
-   "id": "bff0caea9f95da1ee02ccabf1f08f5f3",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Hornsby, Nsw",
-   "location": "Sydney"
-  },
-  "ec034b722b2b42db98cb3653630b21a9": {
-   "id": "ec034b722b2b42db98cb3653630b21a9",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Chatswood, Nsw",
-   "location": "Sydney"
-  },
-  "77528247527fde52d6d60755362eec49": {
-   "id": "77528247527fde52d6d60755362eec49",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Hurstville, Nsw",
-   "location": "Sydney"
-  },
-  "6544e67301de33e4453cc02f173b63c3": {
-   "id": "6544e67301de33e4453cc02f173b63c3",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw",
-   "location": "Sydney"
-  },
-  "4d8bbc69e7c5f3c79ab67e3733ad2313": {
-   "id": "4d8bbc69e7c5f3c79ab67e3733ad2313",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "415379d9c317bc8efc991dd6efe7700e": {
-   "id": "415379d9c317bc8efc991dd6efe7700e",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Miranda 2, Nsw",
-   "location": "Sydney"
-  },
-  "803ff698850f12de98bb28f74c9210f0": {
-   "id": "803ff698850f12de98bb28f74c9210f0",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Bondi Junction, Nsw",
-   "location": "Sydney"
-  },
   "c448ebf6418de304567feb3625b26515": {
    "id": "c448ebf6418de304567feb3625b26515",
    "company": "EssilorLuxottica SA",
    "role": "Christmas Casual",
    "location": "Gold Coast +1"
   },
-  "7ca4f41007936e304adf32e6f5937aab": {
-   "id": "7ca4f41007936e304adf32e6f5937aab",
-   "company": "adidas AG",
-   "role": "Casual Retail Professional - Melbourne Central Halo Store, Vic",
-   "location": "Melbourne"
+  "e6eff279d360b9ff17e069d2203a465b": {
+   "id": "e6eff279d360b9ff17e069d2203a465b",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Associate Dispenser I Opsm I Part Time I Rockingham, Wa",
+   "location": "Rockingham"
   },
-  "2df0d027ead779ad774c96c1ff944174": {
-   "id": "2df0d027ead779ad774c96c1ff944174",
+  "68ea538a6e858d668ad4ab7569dd1d14": {
+   "id": "68ea538a6e858d668ad4ab7569dd1d14",
    "company": "Nike Inc",
-   "role": "Casual Athlete/ Retail Associate Nike, Company Store",
+   "role": "Part Time Athlete/retail Associate , Nike Melbourne",
    "location": "Melbourne"
   },
-  "7c935e36775a3b43af5c28bc5c1c9b31": {
-   "id": "7c935e36775a3b43af5c28bc5c1c9b31",
-   "company": "Arnott's Biscuits Ltd",
-   "role": "Merchandiser Perth Cbd",
-   "location": "Perth"
+  "cb8b7c3b978b7af63554696bf2005dfd": {
+   "id": "cb8b7c3b978b7af63554696bf2005dfd",
+   "company": "Nike Inc.",
+   "role": "Part Time Athlete, Nike Gold Coast",
+   "location": "Gold Coast"
   },
-  "4d0e2d2d95b0bbdf5ef82ab6335e6f9f": {
-   "id": "4d0e2d2d95b0bbdf5ef82ab6335e6f9f",
-   "company": "Kmart Group",
-   "role": "Kmart Morayfield - Holiday Casual (6am - 12pm)",
-   "location": "Brisbane"
+  "7b7803adaa1095b333b0f67af1e5e048": {
+   "id": "7b7803adaa1095b333b0f67af1e5e048",
+   "company": "Commonwealth Bank",
+   "role": "Customer Banking Specialist - Melbourne South East - Part Time & Full Time",
+   "location": "Melbourne"
   },
-  "d94e6afb7589dbff17d4a62c15dc0d26": {
-   "id": "d94e6afb7589dbff17d4a62c15dc0d26",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Bankstown",
+  "0157b4c83327257a98ecaf8b385e8f9e": {
+   "id": "0157b4c83327257a98ecaf8b385e8f9e",
+   "company": "adidas AG",
+   "role": "Part-time Retail Professional - Logan Performance Concept Store, Qld",
+   "location": "Logan Hyperdome"
+  },
+  "e659a6c1040402802af0c2bbdcb9d077": {
+   "id": "e659a6c1040402802af0c2bbdcb9d077",
+   "company": "adidas AG",
+   "role": "Part-time Advanced Retail Professional (3ic) - Blacktown Performance Concept Store, Nsw",
    "location": "Sydney"
   },
-  "60ed580885b18abbea57a9b0d38ed921": {
-   "id": "60ed580885b18abbea57a9b0d38ed921",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Kilmore, Seymour",
-   "location": "Seymour"
+  "5c6776545d980bb1e1b312cb76a35ff6": {
+   "id": "5c6776545d980bb1e1b312cb76a35ff6",
+   "company": "adidas AG",
+   "role": "Part-time Stockroom Specialist - Homebush Dfo, Nsw",
+   "location": "Sydney"
   },
-  "b90af4e623f55ea202f42d07d7061aac": {
-   "id": "b90af4e623f55ea202f42d07d7061aac",
-   "company": "Tip Top",
-   "role": "Casual / Merchandiser / Traralgon, Moe, Morwell",
-   "location": "Traralgon"
+  "d267260c1f5350dcb8f2849b9344b4f8": {
+   "id": "d267260c1f5350dcb8f2849b9344b4f8",
+   "company": "adidas AG",
+   "role": "Part-time Retail Professional - Perth Dfo, Wa",
+   "location": "Perth"
   },
   "7291fecaa98f19448710baee3b94cc62": {
    "id": "7291fecaa98f19448710baee3b94cc62",
@@ -5803,12 +5845,6 @@
    "company": "Bunnings Group",
    "role": "Customer Service Team Member (greenlife)",
    "location": "Brisbane"
-  },
-  "bc3e47909b7b78cea5d6be4abdc8a26e": {
-   "id": "bc3e47909b7b78cea5d6be4abdc8a26e",
-   "company": "Bunnings Group",
-   "role": "Customer Service Team Member - Replenishment",
-   "location": "Gold Coast"
   },
   "de141ba9ab9032794a20550810dbe4e2": {
    "id": "de141ba9ab9032794a20550810dbe4e2",
@@ -5876,12 +5912,6 @@
    "role": "Liquor Team Member - Bws Belmont (nsw)",
    "location": "Geelong"
   },
-  "b94f7ba3c3336c7b642892fcc007d12d": {
-   "id": "b94f7ba3c3336c7b642892fcc007d12d",
-   "company": "Porters Liquor",
-   "role": "Liquor Team Member - Bws Lithgow Drive",
-   "location": "Lithgow"
-  },
   "922e1393afc93dba0f3e4dcf5a536544": {
    "id": "922e1393afc93dba0f3e4dcf5a536544",
    "company": "BWS",
@@ -5898,18 +5928,6 @@
    "id": "2f72c3155a8dec3d8f18b101882d7ec7",
    "company": "BWS",
    "role": "Liquor Team Member - Bws Botany",
-   "location": "Sydney"
-  },
-  "5cd92d6b2223af50a12ad3dca097a99c": {
-   "id": "5cd92d6b2223af50a12ad3dca097a99c",
-   "company": "BWS",
-   "role": "Liquor Team Member - Bws Werribee Central",
-   "location": "Melbourne"
-  },
-  "978199bbee2ccb597ba33d15e702701f": {
-   "id": "978199bbee2ccb597ba33d15e702701f",
-   "company": "BWS",
-   "role": "Liquor Team Member - Bws Darlinghurst",
    "location": "Sydney"
   },
   "0cef005c4fac6492d4a44fe77978eeb8": {
@@ -5953,24 +5971,6 @@
    "company": "MYER",
    "role": "Sales Assistant - Part Time - Just Jeans - Midland Gate",
    "location": "Midland Gate"
-  },
-  "a2adc46ce6ef66fde1bc9a68cfe00252": {
-   "id": "a2adc46ce6ef66fde1bc9a68cfe00252",
-   "company": "MYER",
-   "role": "Sales Assistant - Part Time - Jay Jays - Darwin",
-   "location": "Darwin"
-  },
-  "2b4de0e8687054a05480a0b0b62d4d0c": {
-   "id": "2b4de0e8687054a05480a0b0b62d4d0c",
-   "company": "MYER",
-   "role": "Sales Assistant - Part Time - Jay Jays - Castletown",
-   "location": "Castletown"
-  },
-  "4751114f5d940e71e15335077fd809d3": {
-   "id": "4751114f5d940e71e15335077fd809d3",
-   "company": "MYER",
-   "role": "Sales Assistant - Part Time - Portmans - Chermside",
-   "location": "Brisbane"
   },
   "8320bf9a150b19eedfd82901db7a32bb": {
    "id": "8320bf9a150b19eedfd82901db7a32bb",
@@ -6104,11 +6104,11 @@
    "role": "Customer Service Officer",
    "location": "Darwin"
   },
-  "1695157e32fda37d5fb033456a3ac131": {
-   "id": "1695157e32fda37d5fb033456a3ac131",
-   "company": "CommBank",
-   "role": "Customer Banking Specialist - Kwinana (31.25hrs/week)",
-   "location": "Rockingham"
+  "96fd271b3f1eccbef46e3e519bfedf8c": {
+   "id": "96fd271b3f1eccbef46e3e519bfedf8c",
+   "company": "ANZ Worldline Payment Solutions",
+   "role": "Sales Consultant (12-month Contract)",
+   "location": "Melbourne"
   },
   "e5d9a4b9d6fdc7cfb575dc9652b8eb9e": {
    "id": "e5d9a4b9d6fdc7cfb575dc9652b8eb9e",
@@ -6463,12 +6463,6 @@
    "company": "Qantas",
    "role": "Qantas Agency Connect (qac) Sales Consultant",
    "location": "Sydney"
-  },
-  "e6e837804852ef7f2b7af9986a204014": {
-   "id": "e6e837804852ef7f2b7af9986a204014",
-   "company": "AusPost",
-   "role": "Talent Attraction Consultant - Retail & Contact Centre",
-   "location": "Melbourne"
   }
  }
 }
