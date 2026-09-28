@@ -11,13 +11,13 @@
   "as_of": "2026-09-28",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-28T01:12:29.170Z",
+  "generated_at": "2026-09-28T06:59:50.754Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
-  "seasonal_live_roles": 1202,
-  "hydrated_rows": 23864,
-  "casual_website_total": 31167,
-  "casual_website_as_of": "2026-09-27T10:35:47.767Z"
+  "seasonal_live_roles": 1166,
+  "hydrated_rows": 23689,
+  "casual_website_total": 31108,
+  "casual_website_as_of": "2026-09-28T01:19:57.423Z"
  },
  "seasonal": [
   {
@@ -18601,7 +18601,7 @@
    "company_name": "Hotel Chadstone Melbourne MGallery",
    "company_hi_slug": "hotel-chadstone-melbourne-mgallery",
    "title": "Food & Beverage Attendant",
-   "location": "Cairns +2",
+   "location": "Cairns +1",
    "pay_display": null,
    "shift": "Flexible",
    "ticket": "RSA",
@@ -18616,7 +18616,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Part Time",
-   "locations_count": 3
+   "locations_count": 2
   },
   {
    "id": "475a422c6a65d698df91d6439f550c40",
@@ -19705,7 +19705,7 @@
    "company_name": "Minor Hotels Australasia",
    "company_hi_slug": "minor-hotels-australasia",
    "title": "Cook",
-   "location": "Melbourne +2",
+   "location": "Melbourne +1",
    "pay_display": "$27.97–41.96/hr",
    "shift": "Weekend",
    "ticket": null,
@@ -19720,7 +19720,7 @@
    "tier": "Part-time",
    "employment_type_norm": "Part-time",
    "employment_type_raw": "Part Time",
-   "locations_count": 3
+   "locations_count": 2
   },
   {
    "id": "d518e7ab7fe6156a05dfcf9ff06cbebd",
