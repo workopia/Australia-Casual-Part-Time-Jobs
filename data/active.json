@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-28",
- "count": 1068,
+ "count": 1067,
  "jobs": {
   "167": {
    "id": "167",
@@ -440,6 +440,12 @@
    "role": "Personal Care Worker Cert Iv 007 - Gawler Hillside Care Community",
    "location": "Adelaide"
   },
+  "b609eb70479bf8ef0a8ee640f6755cd5": {
+   "id": "b609eb70479bf8ef0a8ee640f6755cd5",
+   "company": "Opal HealthCare",
+   "role": "Assistant In Nursing - Wallarah Point Care Community",
+   "location": "Toukley"
+  },
   "d67b4bc56cdded1f196d92653b94d138": {
    "id": "d67b4bc56cdded1f196d92653b94d138",
    "company": "Opal HealthCare",
@@ -451,12 +457,6 @@
    "company": "Opal HealthCare",
    "role": "Assistant In Nursing - Murwillumbah Greens Care Community",
    "location": "Gold Coast"
-  },
-  "44026f56ec00814e436552ed7ac6a5e6": {
-   "id": "44026f56ec00814e436552ed7ac6a5e6",
-   "company": "Opal HealthCare",
-   "role": "Assistant In Nursing - Canterbury Place Care Community",
-   "location": "Melbourne"
   },
   "00036a77c197201839e6f94b4285f10d": {
    "id": "00036a77c197201839e6f94b4285f10d",
@@ -798,12 +798,6 @@
    "id": "e4e5aae60e15aac0aee5740a4bf79a04",
    "company": "IRT",
    "role": "Category Coordinator - Home Care",
-   "location": "Wollongong"
-  },
-  "0dafbb21e2325d8fe9ec74414b588ab9": {
-   "id": "0dafbb21e2325d8fe9ec74414b588ab9",
-   "company": "IRT",
-   "role": "Administration Officer - Home Care Finance",
    "location": "Wollongong"
   },
   "d767cc973837f06340a739b1813b5dc9": {
@@ -4838,6 +4832,18 @@
    "role": "F&b Attendants And Baristas / Full Or Part Time / Petit Crenn Melbourne",
    "location": "Melbourne"
   },
+  "e5d4dc9dc1c4de92eed0ce31bec497bd": {
+   "id": "e5d4dc9dc1c4de92eed0ce31bec497bd",
+   "company": "IHG",
+   "role": "F&b Attendants And Baristas / Full Or Part Time / Petit Crenn Melbourne",
+   "location": "Melbourne"
+  },
+  "8781d632a075bb99d46e6df26be1b4e7": {
+   "id": "8781d632a075bb99d46e6df26be1b4e7",
+   "company": "IHG",
+   "role": "Food And Beverage Attendant - Part Time",
+   "location": "Melbourne"
+  },
   "54411b1d177bc1fd02cc31c00bd17f44": {
    "id": "54411b1d177bc1fd02cc31c00bd17f44",
    "company": "Hotel Chadstone Melbourne MGallery",
@@ -4976,12 +4982,6 @@
    "role": "New Grill'd Albert St Restaurant - Experienced Team Members Wanted!",
    "location": "Brisbane"
   },
-  "Y4FH6": {
-   "id": "Y4FH6",
-   "company": "Grill'd",
-   "role": "Team Member - Scarborough",
-   "location": "Perth"
-  },
   "63ec41b6652f2e1ba495ee3728ee5873": {
    "id": "63ec41b6652f2e1ba495ee3728ee5873",
    "company": "UnitingCare Health",
@@ -5045,12 +5045,6 @@
   "3d61e1f5ec21dc0b23f3ac761868a3d4": {
    "id": "3d61e1f5ec21dc0b23f3ac761868a3d4",
    "company": "IHG Hotels & Resorts",
-   "role": "Food And Beverage Attendant - Part Time",
-   "location": "Melbourne"
-  },
-  "8781d632a075bb99d46e6df26be1b4e7": {
-   "id": "8781d632a075bb99d46e6df26be1b4e7",
-   "company": "IHG",
    "role": "Food And Beverage Attendant - Part Time",
    "location": "Melbourne"
   },
@@ -5360,6 +5354,12 @@
    "role": "Christmas Casual / Bonds Outlet / Camberwell",
    "location": "Melbourne"
   },
+  "95a360c4816b65ebfd0242e38be2bdba": {
+   "id": "95a360c4816b65ebfd0242e38be2bdba",
+   "company": "Bonds Outlet",
+   "role": "Christmas Casual / Bonds Outlet / Deepdene",
+   "location": "Deepdene"
+  },
   "0373e4695fbabb929634dd75f881d6e0": {
    "id": "0373e4695fbabb929634dd75f881d6e0",
    "company": "Sheridan Btq",
@@ -5371,6 +5371,78 @@
    "company": "Sheridan Factory Outlet",
    "role": "Christmas Casual / Sheridan Factory Outlet / Vic Gardens",
    "location": "Vic Gardens"
+  },
+  "eaa45a148b4658e8b814ff597cedacf8": {
+   "id": "eaa45a148b4658e8b814ff597cedacf8",
+   "company": "Sheridan Outlet",
+   "role": "Casual Sales Assistant / Sheridan Outlet / Launceston",
+   "location": "Launceston"
+  },
+  "dd8a8312f47fbbe98eb76d5dbd0feb3e": {
+   "id": "dd8a8312f47fbbe98eb76d5dbd0feb3e",
+   "company": "The Good Guys",
+   "role": "Customer Service Team Member",
+   "location": "Gold Coast +12"
+  },
+  "3fd0b227eb38f0b4fd558ffc52f8e2a0": {
+   "id": "3fd0b227eb38f0b4fd558ffc52f8e2a0",
+   "company": "OPSM",
+   "role": "Christmas Casual",
+   "location": "Brisbane +2"
+  },
+  "4f9d8cc3291c149d2a7712a8ba4a2bf8": {
+   "id": "4f9d8cc3291c149d2a7712a8ba4a2bf8",
+   "company": "OPSM",
+   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "59fac8dafcc74c16baa0a6548802ccf0": {
+   "id": "59fac8dafcc74c16baa0a6548802ccf0",
+   "company": "OPSM",
+   "role": "Christmas Casual / Sunglass Hut Parramatta, Nsw",
+   "location": "Sydney"
+  },
+  "dbf464fd098c19fa0be4009a6462a09f": {
+   "id": "dbf464fd098c19fa0be4009a6462a09f",
+   "company": "OPSM",
+   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "9538df2145bb57a3cea33814b76250f3": {
+   "id": "9538df2145bb57a3cea33814b76250f3",
+   "company": "OPSM",
+   "role": "Christmas Casual / Oakley Manly, Nsw",
+   "location": "Sydney"
+  },
+  "f6c4b5dd11fefb41e5998e0e9d020e1d": {
+   "id": "f6c4b5dd11fefb41e5998e0e9d020e1d",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Christmas Casual",
+   "location": "Brisbane +1"
+  },
+  "c814aa9394cf1b8ff13f802ee5a95783": {
+   "id": "c814aa9394cf1b8ff13f802ee5a95783",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Christmas Casual / Sunglass Hut Sydney Flagship, Nsw",
+   "location": "Sydney"
+  },
+  "2cea49f7e1831bb5fe7cc0a15a13ba04": {
+   "id": "2cea49f7e1831bb5fe7cc0a15a13ba04",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Christmas Casual / Sunglass Hut Miranda 2, Nsw",
+   "location": "Sydney"
+  },
+  "990edca6e27d653a1c3ee7797c78f1c3": {
+   "id": "990edca6e27d653a1c3ee7797c78f1c3",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Christmas Casual / Sunglass Hut Myer Bankstown, Nsw",
+   "location": "Sydney"
+  },
+  "94939286564a5485305d30b1cb8b37bf": {
+   "id": "94939286564a5485305d30b1cb8b37bf",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Christmas Casual / Sunglass Hut Broadway, Nsw",
+   "location": "Sydney"
   },
   "30e2fb225abe4b01cec793092387c469": {
    "id": "30e2fb225abe4b01cec793092387c469",
@@ -5400,66 +5472,6 @@
    "id": "c078f05baefc0dccba5c17fed5f76f55",
    "company": "Sunglass Hut",
    "role": "Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw",
-   "location": "Sydney"
-  },
-  "4f9d8cc3291c149d2a7712a8ba4a2bf8": {
-   "id": "4f9d8cc3291c149d2a7712a8ba4a2bf8",
-   "company": "OPSM",
-   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
-   "location": "Sydney"
-  },
-  "59fac8dafcc74c16baa0a6548802ccf0": {
-   "id": "59fac8dafcc74c16baa0a6548802ccf0",
-   "company": "OPSM",
-   "role": "Christmas Casual / Sunglass Hut Parramatta, Nsw",
-   "location": "Sydney"
-  },
-  "dbf464fd098c19fa0be4009a6462a09f": {
-   "id": "dbf464fd098c19fa0be4009a6462a09f",
-   "company": "OPSM",
-   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
-   "location": "Sydney"
-  },
-  "9538df2145bb57a3cea33814b76250f3": {
-   "id": "9538df2145bb57a3cea33814b76250f3",
-   "company": "OPSM",
-   "role": "Christmas Casual / Oakley Manly, Nsw",
-   "location": "Sydney"
-  },
-  "16c8a8fb0ed8e060d4ecfadbf5aef548": {
-   "id": "16c8a8fb0ed8e060d4ecfadbf5aef548",
-   "company": "OPSM",
-   "role": "Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw",
-   "location": "Sydney"
-  },
-  "c814aa9394cf1b8ff13f802ee5a95783": {
-   "id": "c814aa9394cf1b8ff13f802ee5a95783",
-   "company": "OPSM (EssilorLuxottica Group)",
-   "role": "Christmas Casual / Sunglass Hut Sydney Flagship, Nsw",
-   "location": "Sydney"
-  },
-  "2cea49f7e1831bb5fe7cc0a15a13ba04": {
-   "id": "2cea49f7e1831bb5fe7cc0a15a13ba04",
-   "company": "OPSM (EssilorLuxottica Group)",
-   "role": "Christmas Casual / Sunglass Hut Miranda 2, Nsw",
-   "location": "Sydney"
-  },
-  "990edca6e27d653a1c3ee7797c78f1c3": {
-   "id": "990edca6e27d653a1c3ee7797c78f1c3",
-   "company": "OPSM (EssilorLuxottica Group)",
-   "role": "Christmas Casual / Sunglass Hut Myer Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "94939286564a5485305d30b1cb8b37bf": {
-   "id": "94939286564a5485305d30b1cb8b37bf",
-   "company": "OPSM (EssilorLuxottica Group)",
-   "role": "Christmas Casual / Sunglass Hut Broadway, Nsw",
-   "location": "Sydney"
-  },
-  "9b703cdd9afb15dc51ab3d503b155af5": {
-   "id": "9b703cdd9afb15dc51ab3d503b155af5",
-   "company": "OPSM (EssilorLuxottica Group)",
-   "role": "Christmas Casual / Oakley Sydney George Street, Nsw",
    "location": "Sydney"
   },
   "bb4616cc19b842d25e0d80b2db523c3b": {
@@ -5672,29 +5684,23 @@
    "role": "2x Casual Boutique Coffee Specialist - Doncaster",
    "location": "Melbourne"
   },
-  "0671c2bcceb087894052410a552eca01": {
-   "id": "0671c2bcceb087894052410a552eca01",
-   "company": "Nespresso",
-   "role": "Festive Casual Boutique Coffee Specialist - Adelaide",
-   "location": "Adelaide"
-  },
-  "b4adacf9207a84cee704a1133c36282d": {
-   "id": "b4adacf9207a84cee704a1133c36282d",
-   "company": "Nespresso",
-   "role": "Festive Casual Boutique Coffee Specialist - Miranda",
-   "location": "Sydney"
-  },
-  "104f357beb892ef4014db6e7c3abf420": {
-   "id": "104f357beb892ef4014db6e7c3abf420",
-   "company": "Nespresso",
-   "role": "Casual Boutique Coffee Specialist - Pitt Street Flagship",
-   "location": "Sydney"
-  },
   "cdbbf301b84a3165c8d4dbf925406b3f": {
    "id": "cdbbf301b84a3165c8d4dbf925406b3f",
    "company": "Oakley",
    "role": "Retail Associate / Oakley / Pt / Vic / Chadstone",
    "location": "Melbourne"
+  },
+  "73a210667cb54e48901a5c8bd457f8f6": {
+   "id": "73a210667cb54e48901a5c8bd457f8f6",
+   "company": "Southsidecb",
+   "role": "Customer Banking Specialist - Campbelltown (15hr/wk)",
+   "location": "Campbelltown"
+  },
+  "68ceec7f18d90ac8f071f6b7ad7de017": {
+   "id": "68ceec7f18d90ac8f071f6b7ad7de017",
+   "company": "Bonds Outlet",
+   "role": "Part Time Sales Assistant / Bonds Outlet / Warrnambool",
+   "location": "Warrnambool"
   },
   "e6eff279d360b9ff17e069d2203a465b": {
    "id": "e6eff279d360b9ff17e069d2203a465b",
@@ -6037,18 +6043,6 @@
    "company": "EssilorLuxottica",
    "role": "Associate Dispenser I Opsm I Part Time I Rockingham, Wa",
    "location": "Rockingham"
-  },
-  "4c156947d56bbb65f7abe45f8007188b": {
-   "id": "4c156947d56bbb65f7abe45f8007188b",
-   "company": "Williams-Sonoma, Inc.",
-   "role": "Sales Merchandiser",
-   "location": "Brisbane"
-  },
-  "db1957f6a05ecec5a8d4dd3247ad7cca": {
-   "id": "db1957f6a05ecec5a8d4dd3247ad7cca",
-   "company": "Pottery Barn",
-   "role": "Sales Merchandiser",
-   "location": "Brisbane"
   },
   "6a406b3e68ac66661cb5160272906063": {
    "id": "6a406b3e68ac66661cb5160272906063",

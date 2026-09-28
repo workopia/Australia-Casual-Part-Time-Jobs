@@ -6241,4 +6241,14 @@
 <tr><td>PVH</td><td>Christmas Sales Consultant</td><td>Brisbane +5</td><td>2026-09-28</td></tr>
 <tr><td>Tommy Hilfiger</td><td>Sales Consultant</td><td>Melbourne +1</td><td>2026-09-28</td></tr>
 <tr><td>Williams-Sonoma</td><td>Sales Merchandiser</td><td>Brisbane</td><td>2026-09-28</td></tr>
+<tr><td>Opal HealthCare</td><td>Assistant In Nursing - Canterbury Place Care Community</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>IRT</td><td>Administration Officer - Home Care Finance</td><td>Wollongong</td><td>2026-09-28</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Scarborough</td><td>Perth</td><td>2026-09-28</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Adelaide</td><td>Adelaide</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Miranda</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>Casual Boutique Coffee Specialist - Pitt Street Flagship</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Williams-Sonoma, Inc.</td><td>Sales Merchandiser</td><td>Brisbane</td><td>2026-09-28</td></tr>
+<tr><td>Pottery Barn</td><td>Sales Merchandiser</td><td>Brisbane</td><td>2026-09-28</td></tr>
 </table>
