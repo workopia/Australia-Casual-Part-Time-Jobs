@@ -11,13 +11,13 @@
   "as_of": "2026-09-29",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-29T01:06:51.835Z",
+  "generated_at": "2026-09-29T06:59:25.600Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
-  "seasonal_live_roles": 1167,
-  "hydrated_rows": 23576,
-  "casual_website_total": 31111,
-  "casual_website_as_of": "2026-09-28T10:35:40.854Z"
+  "seasonal_live_roles": 1158,
+  "hydrated_rows": 23500,
+  "casual_website_total": 31013,
+  "casual_website_as_of": "2026-09-29T01:14:12.893Z"
  },
  "seasonal": [
   {
@@ -996,7 +996,7 @@
    "icon": "🛍️",
    "l4slug": "retail-associate",
    "l4bucket": "Retail Associate",
-   "l4bucket_jobs": 2365
+   "l4bucket_jobs": 2364
   }
  ],
  "listings": [
@@ -19015,7 +19015,7 @@
    "company_name": "Guzman y Gomez Mexican Kitchen",
    "company_hi_slug": "guzman-y-gomez-mexican-kitchen",
    "title": "Cook - Guzman Y Gomez",
-   "location": "Werrington +2",
+   "location": "Werrington +1",
    "pay_display": null,
    "shift": null,
    "ticket": null,
@@ -19030,7 +19030,7 @@
    "tier": "Part-time",
    "employment_type_norm": "Part-time",
    "employment_type_raw": "Part Time",
-   "locations_count": 3
+   "locations_count": 2
   },
   {
    "id": "5c537e41b6c589857ecaa5e955a8291e",
