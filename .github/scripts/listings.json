@@ -11,13 +11,13 @@
   "as_of": "2026-09-29",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-29T06:59:25.600Z",
+  "generated_at": "2026-09-29T10:27:07.501Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
   "seasonal_live_roles": 1158,
-  "hydrated_rows": 23500,
-  "casual_website_total": 31013,
-  "casual_website_as_of": "2026-09-29T01:14:12.893Z"
+  "hydrated_rows": 23475,
+  "casual_website_total": 31004,
+  "casual_website_as_of": "2026-09-29T07:06:46.121Z"
  },
  "seasonal": [
   {
@@ -948,7 +948,7 @@
    "icon": "🧑‍⚕️",
    "l4slug": "caregiver",
    "l4bucket": "Caregiver",
-   "l4bucket_jobs": 120
+   "l4bucket_jobs": 119
   },
   {
    "key": "campus",
@@ -996,7 +996,7 @@
    "icon": "🛍️",
    "l4slug": "retail-associate",
    "l4bucket": "Retail Associate",
-   "l4bucket_jobs": 2364
+   "l4bucket_jobs": 2363
   }
  ],
  "listings": [
@@ -9470,7 +9470,7 @@
    "company_name": "Royal Automobile Club of Victoria",
    "company_hi_slug": "royal-automobile-club-of-victoria",
    "title": "Food & Beverage Supervisor - Conference & Events",
-   "location": "RACV City Club +1",
+   "location": "Melbourne",
    "pay_display": null,
    "shift": "Weekend",
    "ticket": null,
@@ -9485,7 +9485,7 @@
    "tier": "Part-time",
    "employment_type_norm": "Part-time",
    "employment_type_raw": null,
-   "locations_count": 2
+   "locations_count": 1
   },
   {
    "id": "829a03b9feb302491bd8fd71f7e4d3dc",
