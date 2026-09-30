@@ -6505,4 +6505,5 @@
 <tr><td>Cleanaway Waste Management Ltd</td><td>Customer Service Officer</td><td>Malaga</td><td>2026-09-30</td></tr>
 <tr><td>Arnott's Biscuits Ltd</td><td>Merchandiser/ Sales Support Representative Bayside</td><td>Melbourne</td><td>2026-09-30</td></tr>
 <tr><td>Tennis Australia</td><td>Retail Operations Coordinator</td><td>Melbourne Vic +1</td><td>2026-09-30</td></tr>
+<tr><td>McDonald's Australia</td><td>Sr Manager, Communications (14-month Contract)</td><td>Sydney</td><td>2026-09-30</td></tr>
 </table>

@@ -11,13 +11,13 @@
   "as_of": "2026-09-30",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-30T01:07:26.544Z",
+  "generated_at": "2026-09-30T06:59:14.462Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
-  "seasonal_live_roles": 1173,
-  "hydrated_rows": 23786,
-  "casual_website_total": 31036,
-  "casual_website_as_of": "2026-09-29T10:34:28.358Z"
+  "seasonal_live_roles": 1172,
+  "hydrated_rows": 23658,
+  "casual_website_total": 31303,
+  "casual_website_as_of": "2026-09-30T01:07:47.290Z"
  },
  "seasonal": [
   {
@@ -972,7 +972,7 @@
    "icon": "📦",
    "l4slug": "warehouse-worker",
    "l4bucket": "Warehouse Worker",
-   "l4bucket_jobs": 355
+   "l4bucket_jobs": 354
   },
   {
    "key": "cleaning",
@@ -996,7 +996,7 @@
    "icon": "🛍️",
    "l4slug": "retail-associate",
    "l4bucket": "Retail Associate",
-   "l4bucket_jobs": 2402
+   "l4bucket_jobs": 2401
   }
  ],
  "listings": [
@@ -20712,29 +20712,6 @@
    "locations_count": 1
   },
   {
-   "id": "4799",
-   "source": "Workopia",
-   "company_name": "McDonald's Australia",
-   "company_hi_slug": "mcdonald-s-australia",
-   "title": "Sr Manager, Communications (14-month Contract)",
-   "location": "Sydney",
-   "pay_display": null,
-   "shift": null,
-   "ticket": null,
-   "no_experience": false,
-   "xmas": false,
-   "seasonal": null,
-   "hot": false,
-   "date_posted": "2026-08-16T04:39:50.078Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/4799",
-   "category": "hospitality",
-   "tier": "Temp & Seasonal",
-   "employment_type_norm": "Contract-Temp",
-   "employment_type_raw": null,
-   "locations_count": 1
-  },
-  {
    "id": "fe91b04ecb617a464e2cbac07d72e5eb",
    "source": "Workopia",
    "company_name": "McDonald's Australia",
@@ -20797,6 +20774,29 @@
    "date_posted": null,
    "active": true,
    "url": "https://workopia.io/jobs/5e2f9f042663855b475ee673c4a65424",
+   "category": "hospitality",
+   "tier": "Temp & Seasonal",
+   "employment_type_norm": "Contract-Temp",
+   "employment_type_raw": null,
+   "locations_count": 1
+  },
+  {
+   "id": "8eb65208d366e3989157fe26aed8bd8a",
+   "source": "Workopia",
+   "company_name": "McDonald's Australia",
+   "company_hi_slug": "mcdonald-s-australia",
+   "title": "Procurement and Sustainability Analyst (12 month contract)",
+   "location": "Sydney",
+   "pay_display": null,
+   "shift": null,
+   "ticket": null,
+   "no_experience": false,
+   "xmas": false,
+   "seasonal": null,
+   "hot": false,
+   "date_posted": null,
+   "active": true,
+   "url": "https://workopia.io/jobs/8eb65208d366e3989157fe26aed8bd8a",
    "category": "hospitality",
    "tier": "Temp & Seasonal",
    "employment_type_norm": "Contract-Temp",
