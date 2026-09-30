@@ -11,13 +11,13 @@
   "as_of": "2026-09-30",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-09-30T06:59:14.462Z",
+  "generated_at": "2026-09-30T10:27:18.266Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
   "seasonal_live_roles": 1172,
-  "hydrated_rows": 23658,
-  "casual_website_total": 31303,
-  "casual_website_as_of": "2026-09-30T01:07:47.290Z"
+  "hydrated_rows": 23655,
+  "casual_website_total": 31277,
+  "casual_website_as_of": "2026-09-30T06:59:37.546Z"
  },
  "seasonal": [
   {
@@ -980,7 +980,7 @@
    "icon": "🧹",
    "l4slug": "cleaner",
    "l4bucket": "Cleaner",
-   "l4bucket_jobs": 102
+   "l4bucket_jobs": 101
   },
   {
    "key": "hospitality",
@@ -988,7 +988,7 @@
    "icon": "🍽️",
    "l4slug": "crew-member",
    "l4bucket": "Crew Member",
-   "l4bucket_jobs": 2935
+   "l4bucket_jobs": 2931
   },
   {
    "key": "retail",
@@ -996,7 +996,7 @@
    "icon": "🛍️",
    "l4slug": "retail-associate",
    "l4bucket": "Retail Associate",
-   "l4bucket_jobs": 2401
+   "l4bucket_jobs": 2399
   }
  ],
  "listings": [
