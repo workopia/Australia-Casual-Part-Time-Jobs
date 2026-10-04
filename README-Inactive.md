@@ -7030,4 +7030,126 @@
 <tr><td>Endeavour Group</td><td>Accounts Payable Manager - Payment Services (retail) 12mths Ftc</td><td>Sydney</td><td>2026-10-03</td></tr>
 <tr><td>PVH</td><td>Merchandise Planner</td><td>Sydney</td><td>2026-10-03</td></tr>
 <tr><td>ResMed</td><td>Customer Service Representative (fixed Term 12 Months)</td><td>Sydney</td><td>2026-10-03</td></tr>
+<tr><td>Mercy Health</td><td>Home Care Worker</td><td>Albury +3</td><td>2026-10-04</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Personal Care Worker (buderim And Surrounds) Overnight – Start Asap</td><td>Queensland 4556</td><td>2026-10-04</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Attendant (casual)</td><td>Wodonga</td><td>2026-10-04</td></tr>
+<tr><td>The Salvation Army</td><td>After-hours Youth Support Worker - Evening</td><td>Shepparton</td><td>2026-10-04</td></tr>
+<tr><td>Anglicare Sydney</td><td>Lifestyle Carer</td><td>Sydney +2</td><td>2026-10-04</td></tr>
+<tr><td>Wellways</td><td>Support Worker - North Shore/northern Beaches</td><td>North Shore</td><td>2026-10-04</td></tr>
+<tr><td>ITEC Group Australia</td><td>Disability Support Worker</td><td>Port Augusta</td><td>2026-10-04</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Personal Care Assistant (part-time)</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Personal Care Assistant - Night Shift</td><td>Maroochydore</td><td>2026-10-04</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Food & Beverage Supervisor - Conference & Events</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Women’s Driver Academy – Ballarat On Wadawurrung Country</td><td>Ballarat</td><td>2026-10-04</td></tr>
+<tr><td>AusPost</td><td>Seasonal - Freight Handler</td><td>Perth Airport +1</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Australia</td><td>Warehouse Operator - 2pm</td><td>Jandakot</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Australia</td><td>Warehouse Operator - Prestons</td><td>Campbelltown</td><td>2026-10-04</td></tr>
+<tr><td>Bunnings</td><td>Inventory Specialist</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Forklift Operator</td><td>Toowoomba West</td><td>2026-10-04</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Entry Level Processing Technicians / Copper South Australia</td><td>South Australia +1</td><td>2026-10-04</td></tr>
+<tr><td>Downer EDI</td><td>Cleaner - Casual - Armstrong Creek School</td><td>Armstrong Creek</td><td>2026-10-04</td></tr>
+<tr><td>Downer EDI</td><td>Cleaner - Casual - Harvest Home Ps</td><td>Epping North</td><td>2026-10-04</td></tr>
+<tr><td>The NSW Department of Education</td><td>Cleaner - Lake Macquarie</td><td>Gateshead +1</td><td>2026-10-04</td></tr>
+<tr><td>The NSW Department of Education</td><td>Cleaner - Central Coast</td><td>Gosford +1</td><td>2026-10-04</td></tr>
+<tr><td>The NSW Department of Education</td><td>Cleaner - Newcastle & Peninsula</td><td>Newcastle</td><td>2026-10-04</td></tr>
+<tr><td>Crown Resorts</td><td>Room Attendant / Crown Sydney</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Hemet Hills Post Acute</td><td>Gardener</td><td>Cairns</td><td>2026-10-04</td></tr>
+<tr><td>Mashoremedical</td><td>Gardener</td><td>Cairns</td><td>2026-10-04</td></tr>
+<tr><td>The Marian Center</td><td>Services Staff - Cleaner</td><td>Cairns</td><td>2026-10-04</td></tr>
+<tr><td>Mymhcommunity</td><td>Services Staff - Cleaner</td><td>Cairns</td><td>2026-10-04</td></tr>
+<tr><td>The Salvation Army</td><td>Domestic Assistant</td><td>Adelaide</td><td>2026-10-04</td></tr>
+<tr><td>Travel + Leisure Co. International</td><td>Room Attendant</td><td>Melbourne +10</td><td>2026-10-04</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Chef De Partie</td><td>Cairns +1</td><td>2026-10-04</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Guest Service Agent</td><td>Melbourne +5</td><td>2026-10-04</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Kitchen Hand</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Dan Murphy's</td><td>Bar Attendant - Kirribilli Hotel</td><td>Milsons Point</td><td>2026-10-04</td></tr>
+<tr><td>Dan Murphy's</td><td>Gaming Attendant - Blacktown Inn</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Chelsea Heights Hotel</td><td>Gaming Attendant Supervisor - Chelsea Heights Hotel</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - Craigieburn</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Part Time Cook</td><td>Brisbane +4</td><td>2026-10-04</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Supervisor Part-time</td><td>Hobart</td><td>2026-10-04</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Commis Chef - With Opportunity To Progress</td><td>Gold Coast</td><td>2026-10-04</td></tr>
+<tr><td>IHG</td><td>Food And Beverage Attendant (part Time) - Intercontinental Perth</td><td>Perth</td><td>2026-10-04</td></tr>
+<tr><td>Mercure Brisbane Spring Hill</td><td>Food & Beverage Supervisor</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Busy Bees</td><td>Chef (30 Hrs)</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Estia Health</td><td>Cook (pt)</td><td>Albury</td><td>2026-10-04</td></tr>
+<tr><td>Cotton On</td><td>Holiday Casual Team Member - Cotton On Richmond Marketplace</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Prince Of Wales Drive</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Noosa Outlook</td><td>Maroochydore</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Cannonvale (paluma Rd)</td><td>Cannonvale</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Maroochydore Plaza</td><td>Maroochydore</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Chatswood East</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Christmas Casuals - Process Workers</td><td>Wacol +1</td><td>2026-10-04</td></tr>
+<tr><td>Beefy's Pies</td><td>Customer Service Assistant (opening & Closing Responsibilities) – Aussie World</td><td>Palmview</td><td>2026-10-04</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / Fitzroy</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Bonds</td><td>Christmas Casual / Bonds / Victoria Gardens</td><td>Victoria Gardens</td><td>2026-10-04</td></tr>
+<tr><td>Genuine Parts Company</td><td>Customer Sales & Service - Repco Marleston - Casual</td><td>Marleston</td><td>2026-10-04</td></tr>
+<tr><td>Genuine Parts Company</td><td>Customer Sales & Service - Repco Broome - Casual</td><td>Broome</td><td>2026-10-04</td></tr>
+<tr><td>Genuine Parts Company</td><td>Customer Sales & Service - Repco Karratha - Casual</td><td>Karratha</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Casual Customer Service & Sales Consultant Warrnambool</td><td>Warrnambool</td><td>2026-10-04</td></tr>
+<tr><td>The Salvation Army Victoria Pro…</td><td>Sales Assistant (casual)</td><td>Wollongong</td><td>2026-10-04</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member - Seasonal Casual (rosebud)</td><td>Geelong</td><td>2026-10-04</td></tr>
+<tr><td>Dan Murphy's</td><td>Liquor Team Member - Bws Sutherland Drive</td><td>Campbelltown</td><td>2026-10-04</td></tr>
+<tr><td>Petmelacrosse</td><td>Retail Sales Assistant / Hawthorn</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Petmelacrosse</td><td>Retail Sales Assistant / South Morang</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Ocean Grove</td><td>Geelong</td><td>2026-10-04</td></tr>
+<tr><td>Thepetspotco</td><td>Casual Retail Sales Assistant / Dayton</td><td>Dayton</td><td>2026-10-04</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Midland</td><td>Perth</td><td>2026-10-04</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Kings Meadow - New Store!!</td><td>Kings Meadow</td><td>2026-10-04</td></tr>
+<tr><td>Ampol</td><td>Team Member - Caboolture Lower King St</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Ampol</td><td>Team Member - Alexandra Hills</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Ampol</td><td>Team Member - Townsville</td><td>Vincent</td><td>2026-10-04</td></tr>
+<tr><td>Ampol</td><td>Team Member - Penrith North</td><td>Campbelltown</td><td>2026-10-04</td></tr>
+<tr><td>Ampol</td><td>Team Member - Yangebup</td><td>Rockingham</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Junior Store Assistant - Altona Area</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Junior Store Assistant - Keilor East</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Calwell</td><td>Belconnen</td><td>2026-10-04</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Alice Springs</td><td>Alice Springs</td><td>2026-10-04</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Nundah Village</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Mowbray</td><td>Mowbray</td><td>2026-10-04</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Guest Experience Attendant</td><td>Hervey Bay +1</td><td>2026-10-04</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Brassall</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Jacqui E - Booragoon</td><td>Perth</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Jay Jays - Lakehaven</td><td>Lakehaven</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Just Jeans - Goulburn</td><td>Goulburn</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Dotti - Charlestown</td><td>Newcastle</td><td>2026-10-04</td></tr>
+<tr><td>Smiggle</td><td>Sales Assistant - Casual - Smiggle - Traralgon</td><td>Traralgon</td><td>2026-10-04</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (Strathpine)</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (Woolloongabba)</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (Bundoora)</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual (Castle Hill)</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Crossmark</td><td>Retail Merchandiser - Marayong - Nsw</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Crossmark</td><td>Retail Planogram Merchandiser - Cannon Hill - Qld</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Pakenham</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Rouse Hill</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Belmont (nsw)</td><td>Geelong</td><td>2026-10-04</td></tr>
+<tr><td>BWS</td><td>Liquor Team Member - Bws Petrie Terrace The Barracks</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Hospitality Services Team Member</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Morayfield</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Robina</td><td>Gold Coast</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Epping</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Echuca</td><td>Echuca</td><td>2026-10-04</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Ballarat</td><td>Ballarat</td><td>2026-10-04</td></tr>
+<tr><td>Wsre</td><td>Retail Assistant</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Victorian R&L Services Trust</td><td>Customer Service Officer/ Licence Testing Officer</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Gold Coast +10</td><td>2026-10-04</td></tr>
+<tr><td>VicRoads</td><td>Customer Service Officer/ Licence Testing Officer</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Armadale</td><td>Perth</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Adelaide Harbourtown</td><td>Adelaide</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Portmans - Cheltenham Dfo</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Canelands</td><td>Canelands</td><td>2026-10-04</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jay Jays - Beenleigh</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Smiggle</td><td>Assistant Retail Store Manager / Smiggle / Northland (part-time)</td><td>Northland</td><td>2026-10-04</td></tr>
+<tr><td>Fantastic Furniture</td><td>Pt Retail Team Member - Sales - Logan</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>adidas AG</td><td>Part-time Stockroom Specialist - Auburn Redyard Outlet, Nsw</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Rouse Hill Concept Store Opening Soon, Nsw</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (bondi Junction, Sydney) - 1 November 2026 To 31 January 2027</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (martin Place, Sydney) - 1 November 2026 To 31 January 2027</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member</td><td>Swan Hill Store +7</td><td>2026-10-04</td></tr>
+<tr><td>Reece Plumbing Showroom</td><td>Retail Consultant - Narre Warren</td><td>Melbourne</td><td>2026-10-04</td></tr>
+<tr><td>Reece</td><td>Trade Counter Assistant - (irrigation) Newcastle</td><td>Newcastle</td><td>2026-10-04</td></tr>
+<tr><td>CommBank</td><td>Customer Banking Specialist Relief - Brookside</td><td>Brisbane</td><td>2026-10-04</td></tr>
+<tr><td>Aussie Broadband</td><td>Inbound Sales Consultant</td><td>Traralgon</td><td>2026-10-04</td></tr>
+<tr><td>Dan Murphy's</td><td>Liquor Team Member - Bws Randwick</td><td>Sydney</td><td>2026-10-04</td></tr>
+<tr><td>Westpac</td><td>Customer Service Officer</td><td>Brookvale +1</td><td>2026-10-04</td></tr>
 </table>
