@@ -7290,4 +7290,37 @@
 <tr><td>Politix</td><td>Politix - Part Time Sales Consultant - Fountain Gate</td><td>Melbourne</td><td>2026-10-05</td></tr>
 <tr><td>Qmgfoundation</td><td>Hospitality Services Team Member</td><td>Brisbane</td><td>2026-10-05</td></tr>
 <tr><td>JLL</td><td>Senior Transaction Manager - Retail (12-month Fixed-term)</td><td>Strawberry Hills</td><td>2026-10-05</td></tr>
+<tr><td>St Vincent de Paul Society Aust…</td><td>Support Worker</td><td>Wollongong +2</td><td>2026-10-06</td></tr>
+<tr><td>Harris Farm Markets</td><td>Warehouse Assistant Casual - Greystanes Dc</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>The Good Guys</td><td>Warehouse Team Member</td><td>Newcastle +11</td><td>2026-10-06</td></tr>
+<tr><td>Brighton Hotel Motel</td><td>Housekeeper / Room Attendant / Brighton Hotel Motel</td><td>Sandgate</td><td>2026-10-06</td></tr>
+<tr><td>Australian Venue Co.</td><td>Housekeeper/room Attendant / Inala Hotel / Qld</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Room Attendant</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>CLUB View</td><td>Room Attendant</td><td>Melbourne +5</td><td>2026-10-06</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - Franchise - Must Be Available On Mon/ Tue/ Wed From 6:30 Or 8:30 Am To 2-3 Pm</td><td>Lavington</td><td>2026-10-06</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - Franchise</td><td>Campbelltown +1</td><td>2026-10-06</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook - Casual</td><td>Glass House Mountains +3</td><td>2026-10-06</td></tr>
+<tr><td>Porters Liquor</td><td>Food And Beverage Attendant - Sunnybank Hotel</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>Australian Venue Co.</td><td>Hospitality All Rounder / Rockhampton & Central Queensland</td><td>Rockhampton</td><td>2026-10-06</td></tr>
+<tr><td>Bolton Clarke</td><td>Cook</td><td>Brisbane +4</td><td>2026-10-06</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew Part Time - Gyg Northpoint</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Bulimba</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>Porters Liquor</td><td>Restaurant Manager - Joseph Chromy Wines - 12 Month Fixed Term Contract</td><td>Relbia</td><td>2026-10-06</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Bundaberg, Qld</td><td>Bundaberg</td><td>2026-10-06</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Toowoomba, Qld</td><td>Toowoomba</td><td>2026-10-06</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Merchandiser - Croydon, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Gold Coast +11</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - New Brisbane Domestic Airport Concept Store, Qld</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Liverpool Westfield Concept Store, Nsw</td><td>Campbelltown</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Dfo Essendon Factory Outlet, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual (albury, Wodonga)</td><td>Wodonga</td><td>2026-10-06</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member Season Casual</td><td>Adelaide</td><td>2026-10-06</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Seasonal Casual (cockburn)</td><td>Cockburn Central</td><td>2026-10-06</td></tr>
+<tr><td>VicRoads</td><td>Casual Customer Service Officer/ Licence Testing Officer</td><td>Melbourne +3</td><td>2026-10-06</td></tr>
+<tr><td>Thepetspotco</td><td>Casual Retail Sales Assistant / Noarlunga</td><td>Noarlunga Centre</td><td>2026-10-06</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Botanic Ridge</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Nick Scali Furniture</td><td>Sales Consultant - Earn More At Nick Scali Cannington</td><td>Perth</td><td>2026-10-06</td></tr>
+<tr><td>Nick Scali Furniture</td><td>Sales Consultant - Earn More At Nick Scali Marion</td><td>Marion</td><td>2026-10-06</td></tr>
+<tr><td>Plush</td><td>Sales Consultant - Earn More At Plush O'connor</td><td>Belconnen</td><td>2026-10-06</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Merchandise Assistant</td><td>Sydney</td><td>2026-10-06</td></tr>
 </table>
