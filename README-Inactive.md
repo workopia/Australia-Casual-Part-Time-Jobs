@@ -8278,4 +8278,83 @@
 <tr><td>Cotton On</td><td>Visual Merchandise Specialist - Cotton On Global Support Centre</td><td>Geelong</td><td>2026-10-12</td></tr>
 <tr><td>Hermès International</td><td>Sales Associate - Brisbane - Full Time - Fixed Term Contract</td><td>Brisbane</td><td>2026-10-12</td></tr>
 <tr><td>Westpac Group</td><td>Team Member</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>St Vincent de Paul Society Aust…</td><td>Disability Support Worker</td><td>Wollongong</td><td>2026-10-13</td></tr>
+<tr><td>St Vincent de Paul Society Aust…</td><td>Assistant In Nursing</td><td>Armidale</td><td>2026-10-13</td></tr>
+<tr><td>University of Queensland</td><td>Research Project Officer - Intellectual Disability Research</td><td>St Lucia</td><td>2026-10-13</td></tr>
+<tr><td>IRT</td><td>Category Coordinator - Home Care</td><td>Wollongong</td><td>2026-10-13</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Googong</td><td>Googong</td><td>2026-10-13</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Casual Educator (Nov-Feb) / Chadstone</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Busy Bees</td><td>Casual Educator I Busy Bees At Diggers Rest</td><td>Diggers Rest</td><td>2026-10-13</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Success Area</td><td>Rockingham</td><td>2026-10-13</td></tr>
+<tr><td>RSL LifeCare</td><td>Catering Assistant</td><td>Belconnen +4</td><td>2026-10-13</td></tr>
+<tr><td>MSS Security</td><td>Security Officer - Bundamba</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Tennis Australia</td><td>Event Operations Manager - Adelaide International</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Metcash</td><td>Storeworker / Replenisher</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>Heidelberg Materials</td><td>Relief Batcher/hr Agitator Driver</td><td>Manjimup</td><td>2026-10-13</td></tr>
+<tr><td>UnitingCare Health</td><td>Truck Driver</td><td>Mackay</td><td>2026-10-13</td></tr>
+<tr><td>Bunnings</td><td>Inventory Specialist</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Australian Christian College</td><td>Bus Driver</td><td>Launceston</td><td>2026-10-13</td></tr>
+<tr><td>Greater Western Water</td><td>Sourcing Specialist, Service Delivery</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Sydney Trains</td><td>Warehouse Manager Tfle (temporary Opportunity Up To 23 Months)</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Holiday Inn & Suites Geelong</td><td>Housekeeping Room Attendant (only Full Time & Part Time)/ Holiday Inn & Suites Geelong</td><td>Geelong</td><td>2026-10-13</td></tr>
+<tr><td>Huon Aquaculture</td><td>Hygiene Process Operator</td><td>Campbelltown</td><td>2026-10-13</td></tr>
+<tr><td>Estia Health</td><td>Housekeeper / Kadina</td><td>Kadina</td><td>2026-10-13</td></tr>
+<tr><td>Rsl Lifecare Limited</td><td>Cleaning Assistant</td><td>Campbelltown +1</td><td>2026-10-13</td></tr>
+<tr><td>IRT</td><td>Laundry Services - Irt Tarrawanna</td><td>Tarrawanna</td><td>2026-10-13</td></tr>
+<tr><td>Hemet Hills Post Acute</td><td>Gardener</td><td>Cairns</td><td>2026-10-13</td></tr>
+<tr><td>Mashoremedical</td><td>Gardener</td><td>Cairns</td><td>2026-10-13</td></tr>
+<tr><td>Compass Australia</td><td>Housekeeping Team Lead</td><td>Brisbane Airport</td><td>2026-10-13</td></tr>
+<tr><td>Delaware North</td><td>Cook, Best</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Food And Beverage Attendant - Deception Bay Tavern</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Chef - The Harlequin</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Cook - Playford Tavern</td><td>Adelaide</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Food And Beverage Attendant - Alderley Arms Hotel</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Australian Venue Co.</td><td>Chefs / Aussie Hotel</td><td>Shepparton</td><td>2026-10-13</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Cook</td><td>Brisbane +2</td><td>2026-10-13</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - Part Time</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Surfers Paradise</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food And Beverage Attendant</td><td>Perth +3</td><td>2026-10-13</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Breakfast Cook</td><td>Belconnen</td><td>2026-10-13</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food And Beverage Attendant / Club Millesime</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Crown Resorts</td><td>Cook Alone</td><td>Perth</td><td>2026-10-13</td></tr>
+<tr><td>Lutheran Services</td><td>Chef</td><td>Tallebudgera</td><td>2026-10-13</td></tr>
+<tr><td>Sofitel Sydney Darling Harbour</td><td>Food And Beverage Attendant / In Room Dining And Mini Bar</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>F&b Attendant / Part Time / Intercontinental Melbourne The Rialto</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>IHG (InterContinental Hotels Gr…</td><td>F&b Attendant / Part Time / Intercontinental Melbourne The Rialto</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>InterContinental Melbourne The…</td><td>F&b Attendant / Part Time / Intercontinental Melbourne The Rialto</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Portfolio Revenue Manager - 12 Month Contract- Parental Leave Cover</td><td>Woolloomooloo</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Safer Gaming Specialist</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Optus</td><td>Retail Consultant, Townsville</td><td>Townsville</td><td>2026-10-13</td></tr>
+<tr><td>Optus</td><td>Retail Consultant, Springwood</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Optus</td><td>Retail Consultant, Kalgoorlie</td><td>Kalgoorlie</td><td>2026-10-13</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (maroochydore Qld)</td><td>Maroochydore</td><td>2026-10-13</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Casual & Fixed Term (noosaville Qld)</td><td>Maroochydore</td><td>2026-10-13</td></tr>
+<tr><td>ManualUSA</td><td>Customer Sales & Service - Repco Booval - Casual</td><td>Booval</td><td>2026-10-13</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual (glenorchy)</td><td>Hobart</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Aldinga Beach</td><td>Adelaide</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Wickham</td><td>Wickham</td><td>2026-10-13</td></tr>
+<tr><td>Victorian R&L Services Trust</td><td>Casual Customer Service Officer/ Licence Testing Officer</td><td>Melbourne +1</td><td>2026-10-13</td></tr>
+<tr><td>VicRoads</td><td>Casual Customer Service Officer/ Licence Testing Officer</td><td>Melbourne +1</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Parkwood Clocktower</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Capalaba Drive</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Ingleburn</td><td>Campbelltown</td><td>2026-10-13</td></tr>
+<tr><td>St Vincent de Paul Society Aust…</td><td>Shop Assistant</td><td>Sydney +5</td><td>2026-10-13</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Seasonal Sales Consultant - Ballarat</td><td>Ballarat</td><td>2026-10-13</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Seasonal Sales Consultant - Warrnambool</td><td>Warrnambool</td><td>2026-10-13</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Proserpine</td><td>Proserpine</td><td>2026-10-13</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Sarina</td><td>Sarina</td><td>2026-10-13</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Murray Bridge</td><td>Adelaide</td><td>2026-10-13</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Leopold</td><td>Geelong</td><td>2026-10-13</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Guest Experience Attendant</td><td>Hervey Bay +1</td><td>2026-10-13</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Pacific Fair</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>Hecma</td><td>Vic - Holiday Retail Assistants 2026</td><td>Victoria</td><td>2026-10-13</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Craigieburn</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Doncaster</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Wendouree</td><td>Ballarat</td><td>2026-10-13</td></tr>
+<tr><td>UnitingCare Health</td><td>Retail Assistant</td><td>Melbourne +2</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Gelorup</td><td>Gelorup</td><td>2026-10-13</td></tr>
+<tr><td>Swarovski Australia</td><td>Sales Consultant - Marion</td><td>Marion +1</td><td>2026-10-13</td></tr>
+<tr><td>Swarovski Australia</td><td>Sales Consultant - Canberra Fo</td><td>Belconnen</td><td>2026-10-13</td></tr>
+<tr><td>Swarovski Australia</td><td>Sales Consultant - Canberra Center</td><td>Canberra Centre</td><td>2026-10-13</td></tr>
+<tr><td>Dan Murphy's</td><td>Liquor Team Member - Bws Palmyra (stammers S/c)</td><td>Perth</td><td>2026-10-13</td></tr>
 </table>
