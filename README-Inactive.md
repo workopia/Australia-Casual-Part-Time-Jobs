@@ -8357,4 +8357,81 @@
 <tr><td>Swarovski Australia</td><td>Sales Consultant - Canberra Fo</td><td>Belconnen</td><td>2026-10-13</td></tr>
 <tr><td>Swarovski Australia</td><td>Sales Consultant - Canberra Center</td><td>Canberra Centre</td><td>2026-10-13</td></tr>
 <tr><td>Dan Murphy's</td><td>Liquor Team Member - Bws Palmyra (stammers S/c)</td><td>Perth</td><td>2026-10-13</td></tr>
+<tr><td>Delaware North</td><td>Security Officer, Mindil Beach Casino Resort</td><td>Darwin</td><td>2026-10-13</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker/pca / Plenty</td><td>Plenty</td><td>2026-10-13</td></tr>
+<tr><td>Queensland Health</td><td>Allied Health Assistant - Mental Health Inpatient Unit</td><td>Mackay</td><td>2026-10-13</td></tr>
+<tr><td>BlueCare</td><td>Personal Carer</td><td>Redcliffe +14</td><td>2026-10-13</td></tr>
+<tr><td>The Salvation Army Victoria Pro…</td><td>Youth Support Worker</td><td>Shepparton</td><td>2026-10-13</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Casual Educator I Busy Bees At Fraser Coast</td><td>Fraser Coast</td><td>2026-10-13</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Casual Educator</td><td>Cairns</td><td>2026-10-13</td></tr>
+<tr><td>Flinders University</td><td>Casual Academic Register – College Of Science And Engineering</td><td>Bedford Park</td><td>2026-10-13</td></tr>
+<tr><td>Flinders University</td><td>Casual Academic Register – College Of Business, Creative Arts, Law And Social Sciences</td><td>Bedford Park</td><td>2026-10-13</td></tr>
+<tr><td>Flinders University</td><td>Casual Academic Register – Placement Facilitator (cnhs)</td><td>Bedford Park</td><td>2026-10-13</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Casual Educator / Donvale</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>RMIT</td><td>M&c - Sessional Academic - Melissa Fyfe</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>RSL LifeCare</td><td>Catering Assistant</td><td>Belconnen +5</td><td>2026-10-13</td></tr>
+<tr><td>Cater Care</td><td>Catering Assistant - Uniting - Pacifica - Nambucca Heads Nsw</td><td>Nambucca Heads</td><td>2026-10-13</td></tr>
+<tr><td>Tennis Australia</td><td>Premium Experience Assistant - Brisbane International</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>University of Sydney</td><td>Events And Project Officer</td><td>Darlington</td><td>2026-10-13</td></tr>
+<tr><td>Linfox</td><td>Hr Driver - Casual</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>The Good Guys</td><td>Warehouse Team Member</td><td>Newcastle +11</td><td>2026-10-13</td></tr>
+<tr><td>dnata Airport Services</td><td>Casual Passenger Services Delivery Agent</td><td>Adelaide Airport</td><td>2026-10-13</td></tr>
+<tr><td>Heidelbergmaterials</td><td>Agitator Driver / Tully</td><td>Tully</td><td>2026-10-13</td></tr>
+<tr><td>Reece Group</td><td>Delivery Driver / Trade Counter Assistant - East Wagga Wagga</td><td>East Wagga Wagga</td><td>2026-10-13</td></tr>
+<tr><td>Bega Cheese</td><td>Production Operator - Natural Cuts</td><td>Bega</td><td>2026-10-13</td></tr>
+<tr><td>Reece Plumbing</td><td>Delivery Driver / Trade Counter Assistant - East Wagga Wagga</td><td>East Wagga Wagga</td><td>2026-10-13</td></tr>
+<tr><td>Mercy Health</td><td>Domestic Assistant</td><td>Melbourne +4</td><td>2026-10-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Public Areas Cleaner</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>St Vincent'S Private Hospital S…</td><td>Housekeeper</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>SVHA</td><td>Housekeeper</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>The University of Queensland</td><td>Postdoctoral Research Fellow/research Officer - Sustainable Waste Management</td><td>St Lucia</td><td>2026-10-13</td></tr>
+<tr><td>Corrective Services NSW</td><td>Trade Overseer (qualified In Horticulture, Agriculture, Landscaping, Cleaning Operations)</td><td>Wellington</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Food And Beverage Attendant - Dublin Docks Tavern</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Chef - Buderim Tavern</td><td>Maroochydore</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Food And Beverage Attendant - Pelican Waters Hotel</td><td>Maroochydore</td><td>2026-10-13</td></tr>
+<tr><td>Starbucks Australia</td><td>Casual Barista - Tapping</td><td>Perth</td><td>2026-10-13</td></tr>
+<tr><td>Dan Murphy's</td><td>Food And Beverage Attendant - Pub Lane Tavern</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>NRMA</td><td>Guest Service Agent</td><td>Coles Bay</td><td>2026-10-13</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Part Time Cook</td><td>Brisbane +5</td><td>2026-10-13</td></tr>
+<tr><td>Delaware North</td><td>Commis Chef, Best</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Cater Care</td><td>Food & Beverage Attendant - Sydney Airport</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Crown Resorts</td><td>Food & Beverage Attendant-1</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Bunnings Group</td><td>Cafe Team Member - Part Time (mon - Fri)</td><td>Burnley</td><td>2026-10-13</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Underwood Marketplace</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>PVH Corp.</td><td>Sales Consultant</td><td>Sydney +1</td><td>2026-10-13</td></tr>
+<tr><td>Mondelēz International</td><td>Cadbury Casual Retail Display - Brisbane North</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Ampol</td><td>Team Member - Annerley</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Ampol</td><td>Team Member - Alexandra Hills</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Ampol</td><td>Team Member - Gladstone Blain Dr</td><td>Gladstone</td><td>2026-10-13</td></tr>
+<tr><td>Ampol</td><td>Team Member - Longwarry Eastbound</td><td>Longwarry</td><td>2026-10-13</td></tr>
+<tr><td>Ampol</td><td>Team Member - Bridgeman Downs</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Casual / Modbury</td><td>Adelaide</td><td>2026-10-13</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Casual / Taylors Beach</td><td>Taylors Beach</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws St Helena</td><td>St Helena</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy’s Wilsonton</td><td>Toowoomba</td><td>2026-10-13</td></tr>
+<tr><td>Latrobe Regional Health</td><td>Cafeteria Services Team Member</td><td>Gippsland</td><td>2026-10-13</td></tr>
+<tr><td>Resmed Pty</td><td>Sales Assistant - Brisbane, Qld (casual)</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Estée Lauder</td><td>Mac - Retail Manager - Myer Ballarat - Permanent Part-time</td><td>Ballarat</td><td>2026-10-13</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Pakenham</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Bunbury</td><td>Bunbury</td><td>2026-10-13</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Tamworth</td><td>Tamworth</td><td>2026-10-13</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Retail Assistant - Canterbury</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Crown Resorts</td><td>Main Cage Cashier</td><td>Perth</td><td>2026-10-13</td></tr>
+<tr><td>Crown Resorts</td><td>Count Team Cashier</td><td>Perth</td><td>2026-10-13</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Emerald</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Country Road Group</td><td>Country Road - Part Time Sales Consultant - Rouse Hill</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Country Road Group</td><td>Witchery - Part Time Sales Consultant - David Jones Canberra</td><td>Belconnen</td><td>2026-10-13</td></tr>
+<tr><td>Puma</td><td>Part Time Retail Supervisors - Liverpool</td><td>Campbelltown</td><td>2026-10-13</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jay Jays - Cairns Dfo</td><td>Cairns</td><td>2026-10-13</td></tr>
+<tr><td>MYER</td><td>Assistant Retail Store Manager - Dotti - Carindale</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Brisbane Dfo</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jacqui E - Adelaide Myer Centre</td><td>Adelaide</td><td>2026-10-13</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Portmans - Spencer St</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Trek Bicycle Corp</td><td>Sales Associate</td><td>Minyama +1</td><td>2026-10-13</td></tr>
+<tr><td>Trek Bikes</td><td>Sales Associate</td><td>Richmond Vic</td><td>2026-10-13</td></tr>
+<tr><td>Nike Inc.</td><td>Full Time Athlete, Nike Melbourne</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Nike</td><td>Full Time Athlete, Nike Melbourne</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Nike</td><td>Stockroom Coach/retail Supervisor, Nike Goldcoast</td><td>Gold Coast</td><td>2026-10-13</td></tr>
+<tr><td>H&M</td><td>Visual Merchandiser 6m Secondment - Northland</td><td>Northland Shopping</td><td>2026-10-13</td></tr>
+<tr><td>ASICS</td><td>Seasonal Casual Retail Assistant - Asics Perth Dfo</td><td>Perth Airport</td><td>2026-10-13</td></tr>
 </table>
