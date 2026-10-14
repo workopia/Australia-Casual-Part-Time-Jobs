@@ -8434,4 +8434,85 @@
 <tr><td>Nike</td><td>Stockroom Coach/retail Supervisor, Nike Goldcoast</td><td>Gold Coast</td><td>2026-10-13</td></tr>
 <tr><td>H&M</td><td>Visual Merchandiser 6m Secondment - Northland</td><td>Northland Shopping</td><td>2026-10-13</td></tr>
 <tr><td>ASICS</td><td>Seasonal Casual Retail Assistant - Asics Perth Dfo</td><td>Perth Airport</td><td>2026-10-13</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Personal Care Worker (pimpama)</td><td>Queensland 4209</td><td>2026-10-14</td></tr>
+<tr><td>UnitingCare Community</td><td>Personal Carer</td><td>Aitkenvale +2</td><td>2026-10-14</td></tr>
+<tr><td>Estia Health</td><td>Nursing Assistant</td><td>Norah Head +6</td><td>2026-10-14</td></tr>
+<tr><td>UnitingCare</td><td>Support Worker - Eastern Suburbs</td><td>Eastern Suburbs</td><td>2026-10-14</td></tr>
+<tr><td>Rsl Lifecare Limited</td><td>Carer</td><td>Campbelltown</td><td>2026-10-14</td></tr>
+<tr><td>Wsre</td><td>Personal Carer</td><td>Brisbane +1</td><td>2026-10-14</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Holiday Hq Casual Educator / Tamborine Mountain</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Casual Educator</td><td>Brisbane +66</td><td>2026-10-14</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Educator</td><td>Newcastle +37</td><td>2026-10-14</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Casual Educator</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Educator / Googong</td><td>Googong</td><td>2026-10-14</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Landsdale Area</td><td>Perth</td><td>2026-10-14</td></tr>
+<tr><td>Minor Hotels Australasia</td><td>Casual Housekeepers</td><td>Newcastle +1</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Guest Services Attendant (housekeeping) - Matthew Flinders</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>InterContinental Sanctuary Cove…</td><td>House Person (casual) / Intercontinental Sanctuary Cove Resort</td><td>Sanctuary Cove</td><td>2026-10-14</td></tr>
+<tr><td>Minor Hotels</td><td>Casual Cleaner</td><td>Melbourne +1</td><td>2026-10-14</td></tr>
+<tr><td>Wyndham Destinations</td><td>Housekeeping Team Leader</td><td>Kirra Beach</td><td>2026-10-14</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member</td><td>Adelaide +87</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Shift Manager</td><td>Newcastle</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Crew - Mornings, Evenings And Overnights</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Overnight Cook / Crew (10pm To 6am Shifts)</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Crew</td><td>Perth +6</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Shift Leader - Gyg Williamstown North</td><td>Williamstown North</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Cook - The Savvy Squire</td><td>Maroochydore</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Food And Beverage Attendant - Golden Beach Tavern</td><td>Maroochydore</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Sarina Drive Thru</td><td>Sarina</td><td>2026-10-14</td></tr>
+<tr><td>Dan Murphy's</td><td>Food And Beverage Attendant - Ramsgate Hotel</td><td>Adelaide</td><td>2026-10-14</td></tr>
+<tr><td>Dan Murphy's</td><td>Food And Beverage Attendant - Club Ftg</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Commis Chef - Belasco (casual)</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>NRMA</td><td>Food & Beverage All-rounder: Derwent Bridge Hotel</td><td>Derwent Bridge</td><td>2026-10-14</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>&nbsp;</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Doncaster</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Nobby's Beach</td><td>Miami Qld</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew Pt Overnight Shifts Gyg World Square</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew</td><td>Brisbane +2</td><td>2026-10-14</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Barista - The Rocks</td><td>The Rocks</td><td>2026-10-14</td></tr>
+<tr><td>Starbucks Australia</td><td>Part Time Shift Supervisor - Marsden Park</td><td>Marsden Park</td><td>2026-10-14</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food & Beverage Supervisor</td><td>Brisbane +1</td><td>2026-10-14</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Kitchen Steward</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Universal Parks & Resorts</td><td>Area Supervisor, Food & Beverage Operations - Universal Kids Resort</td><td>Frisco</td><td>2026-10-14</td></tr>
+<tr><td>Punthill Apartment Hotels</td><td>Local Host</td><td>Australian Capital Territory +1</td><td>2026-10-14</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Cook (part-time)</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>CLUB View</td><td>Guest Service Generalist</td><td>Shoal Bay</td><td>2026-10-14</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Outlet / Victoria Gardens</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Cranbourne West</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Cessnock Drive</td><td>Newcastle</td><td>2026-10-14</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Palm Beach Drive</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Sunnybank Drive</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Junior Store Assistant - Morwell Mid Valley</td><td>Morwell</td><td>2026-10-14</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member - Seasonal Casual</td><td>Brisbane +5</td><td>2026-10-14</td></tr>
+<tr><td>Caltex Australia</td><td>Overnight Team Member - Forrest Highway North</td><td>West Pinjarra</td><td>2026-10-14</td></tr>
+<tr><td>Officeworks</td><td>Team Member - Casual</td><td>Campbelltown +13</td><td>2026-10-14</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Rundle Mall Originals Concept Store, Sa</td><td>Adelaide</td><td>2026-10-14</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - New Concept Store Opening In Rouse Hill, Nsw</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Auburn Redyard Outlet, Nsw</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Birkenhead Point Factory Outlet, Nsw</td><td>Birkenhead Point</td><td>2026-10-14</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Sales Assistant - Casual</td><td>Melbourne +10</td><td>2026-10-14</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Glow Assistant - Seasonal Casual</td><td>Melbourne +4</td><td>2026-10-14</td></tr>
+<tr><td>Dissh</td><td>Casual In-store Stylist</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>Mountain Warehouse</td><td>Seasonal Casual Retail Sales Assistant</td><td>Belconnen +1</td><td>2026-10-14</td></tr>
+<tr><td>Haigh's Chocolates</td><td>Part Time And Casual Retail Assistants - Chermside</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>ManualUSA</td><td>Sales Assistant - Amx Kawana Waters - Casual</td><td>Birtinya</td><td>2026-10-14</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member – Seasonal Casual (mittagong)</td><td>Wollongong</td><td>2026-10-14</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Seasonal Casual</td><td>Maroochydore +4</td><td>2026-10-14</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Seasonal Casual (penrith)</td><td>Campbelltown</td><td>2026-10-14</td></tr>
+<tr><td>The Trustee For The Salvation A…</td><td>Casual Sales Assistant - Grafton</td><td>Grafton</td><td>2026-10-14</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Aberfoyle Hub</td><td>Adelaide</td><td>2026-10-14</td></tr>
+<tr><td>Crown Resorts</td><td>Cage Cashier</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Crown Resorts</td><td>Cage Cashiers</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>National Australia Bank (NAB)</td><td>Customer Advisor - Woolloongabba, Qld</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Resmed</td><td>Sales Assistant - Yokine, Wa (part-time)</td><td>Perth</td><td>2026-10-14</td></tr>
+<tr><td>Australian Institute for Bioeng…</td><td>Customer Service Assistant</td><td>St Lucia</td><td>2026-10-14</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member (greenlife)</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Part Time I Riverton, Wa</td><td>Perth</td><td>2026-10-14</td></tr>
+<tr><td>CLUB View</td><td>Sales Consultant</td><td>Gold Coast +3</td><td>2026-10-14</td></tr>
+<tr><td>St Vincent de Paul Society Aust…</td><td>Shop Assistant</td><td>Sydney +5</td><td>2026-10-14</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Ararat</td><td>Ararat</td><td>2026-10-14</td></tr>
+<tr><td>LOVISA</td><td>Stylist / Part Time / Spencer Street</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Molendinar</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Chirn Park</td><td>Gold Coast</td><td>2026-10-14</td></tr>
+<tr><td>Officeworks</td><td>Peak Trade Team Members - Fixed Term (ellenbrook)</td><td>Perth</td><td>2026-10-14</td></tr>
 </table>
