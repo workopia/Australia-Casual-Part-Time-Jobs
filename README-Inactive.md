@@ -9465,4 +9465,112 @@
 <tr><td>COTTON ON Careers</td><td>Visual Merchandise Specialist - Cotton On Global Support Centre</td><td>Geelong</td><td>2026-10-19</td></tr>
 <tr><td>Nike</td><td>Full Time Athlete, Nike Canberra</td><td>Belconnen</td><td>2026-10-19</td></tr>
 <tr><td>Nike</td><td>Fulltime Athlete, Nike Adelaide</td><td>Adelaide</td><td>2026-10-19</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - Casual - Clarinda</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - St George's</td><td>Altona Medows</td><td>2026-10-20</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker/pca / Part Time Roles / Glen Waverley</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Deputy Business Manager, Residential Aged Care Services (racs)</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Lifeblood</td><td>Nursing Assistant</td><td>Traralgon</td><td>2026-10-20</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Casual Educator / Alexandria Factory Outlet</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Casual Educator / Melton South</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Casual Educator</td><td>Brisbane +69</td><td>2026-10-20</td></tr>
+<tr><td>University of Queensland</td><td>School Of Social Science: Casual Academic Opportunities</td><td>St Lucia</td><td>2026-10-20</td></tr>
+<tr><td>Flinders University</td><td>Casual Academic Register – Placement Facilitator (cnhs)</td><td>Bedford Park</td><td>2026-10-20</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Padbury Area</td><td>Perth</td><td>2026-10-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Educator</td><td>Newcastle +39</td><td>2026-10-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Early Childhood Teacher - Educational Leader</td><td>South Nowra +1</td><td>2026-10-20</td></tr>
+<tr><td>Lululemon</td><td>SEASONAL Educator Doncaster / NOV start (must be avail Thurs-Fri Late nights &amp; Weekends)</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Jobgether</td><td>Online Gre Tutor (contract)</td><td>Australia</td><td>2026-10-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Trainee Educator</td><td>Lennox Head +8</td><td>2026-10-20</td></tr>
+<tr><td>Australian Institute of Profess…</td><td>Workplace Assessor - Early Childhood Education</td><td>Queensland</td><td>2026-10-20</td></tr>
+<tr><td>eduboardresults.in</td><td>Senior Education Support And Project Officer</td><td>Darlington Campus</td><td>2026-10-20</td></tr>
+<tr><td>MSS Security</td><td>Security Officer - Launceston Magistrates Court</td><td>Launceston</td><td>2026-10-20</td></tr>
+<tr><td>MYER</td><td>Retail Security Officer / Chermside</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>JLL</td><td>Event Coordinator</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Team Schein UK</td><td>Events & Equipment Marketing Coordinator (parental Leave Contract)</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>J. R. Simplot Company</td><td>Production Operator (casual) - Devonport</td><td>Devonport</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Freight Handler</td><td>Gold Coast +1</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Seasonal - Truck Driver</td><td>Mile End South</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Motorcycle Delivery Driver</td><td>Geelong +11</td><td>2026-10-20</td></tr>
+<tr><td>Queensland Health</td><td>Operational Officer (truck Driver) - Expression Of Interest</td><td>Gold Coast</td><td>2026-10-20</td></tr>
+<tr><td>Bega Group</td><td>Production Operator - Casual</td><td>Bega</td><td>2026-10-20</td></tr>
+<tr><td>Cater Care</td><td>Production Assistant (kitchen Hand)</td><td>Arndell Park</td><td>2026-10-20</td></tr>
+<tr><td>Visy</td><td>Machine Operator Wanted - Yatala</td><td>Yatala</td><td>2026-10-20</td></tr>
+<tr><td>Buildsafe Queensland Pty Ltd</td><td>Yard Hand</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Metcash</td><td>Warehouse Pick Packer</td><td>Perth</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Warehouse Operator - Regency Park</td><td>Regency Park</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Warehouse Operator - Jandakot</td><td>Jandakot</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Stores Limited</td><td>Warehouse Operator - Dandenong</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Australia</td><td>Warehouse Operator - Prestons</td><td>Campbelltown</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Freight Handler (AM shift), Tullamarine</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Seasonal - Truck Driver, Sunshine West</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>AusPost</td><td>Seasonal - Truck Driver, Dandenong</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Vocus</td><td>Logistics Officer - 12-month Fix Term Contract</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Alstom Transport Sa</td><td>Cadet - Logistics Methods</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Bolton Clarke</td><td>Hospitality Assistant - Cleaner</td><td>Brisbane +10</td><td>2026-10-20</td></tr>
+<tr><td>IHG</td><td>Room Attendant (casual) / Intercontinental Sanctuary Cove Resort</td><td>Sanctuary Cove</td><td>2026-10-20</td></tr>
+<tr><td>Wyndham Destinations</td><td>Houseperson</td><td>Dunsborough +1</td><td>2026-10-20</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Housekeeping Recruitment Open Day</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Rydges Hotels & Resorts</td><td>Rydges Resort Hunter Valley - Guest Service Agent - Casual</td><td>Hunter Valley</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Gyg Kogarah - Summer Crew Wanted!</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Hospitality Crew - New Drive Thru Restaurant Williamstown North</td><td>Williamstown North</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Hospitality Cook- New Drive Thru Restaurant Williamstown North</td><td>Williamstown North</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Crew</td><td>Melbourne +6</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Overnight Cooks / Crew (10pm To 6am Shifts)</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Bar And Gaming Attendant - Pub Mooloolaba</td><td>Maroochydore</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Kitchen Attendant - Manly Hotel</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Tab & Gaming Attendant - Glengala Hotel</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Bar Attendant</td><td>Maroochydore</td><td>2026-10-20</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Barista</td><td>Maroochydore</td><td>2026-10-20</td></tr>
+<tr><td>Nando's Australia & New Zealand</td><td>Team Member - Manor Lakes Dt</td><td>Manor Lakes</td><td>2026-10-20</td></tr>
+<tr><td>L&C Food</td><td>Nando's Team Member- Rothwell Drive Thru</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>&nbsp;</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Bar Attendant - Mercure Melbourne Southbank</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Kitchen Hand - Part-time</td><td>Hobart</td><td>2026-10-20</td></tr>
+<tr><td>Grill'd</td><td>Team Member - Newmarket</td><td>Newmarket</td><td>2026-10-20</td></tr>
+<tr><td>Crown Resorts</td><td>Food & Beverage Attendants / Exclusive Gaming Rooms</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Crown Resorts</td><td>Club Host</td><td>Perth</td><td>2026-10-20</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Overnight Crew (24 X 7) - Sevenhills</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Chef</td><td>Adelaide</td><td>2026-10-20</td></tr>
+<tr><td>IRT</td><td>Cafe Attendant - Kirrawee Place</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Centre Cook</td><td>Seymour South +23</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Demi Chef De Partie</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Chef De Partie</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Contrat Saisonnier : Commis De Cuisine</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Cdd De Remplacement : Chef De Partie</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Cdd De Remplacement : Demi Chef De Partie</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Josef Chromy Wines</td><td>Restaurant Manager - Josef Chromy Wines - 12 Month Fixed Term Contract</td><td>Relbia</td><td>2026-10-20</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Maroochydore +11</td><td>2026-10-20</td></tr>
+<tr><td>Nestle SA</td><td>Casual Merchandiser - Newcastle Area, Nsw</td><td>Newcastle</td><td>2026-10-20</td></tr>
+<tr><td>Nestle SA</td><td>Casual Merchandiser - Newcastle, Kotara, Mayfield (nsw)</td><td>Newcastle</td><td>2026-10-20</td></tr>
+<tr><td>PVH Corp.</td><td>Christmas Sales Consultant</td><td>Brisbane +5</td><td>2026-10-20</td></tr>
+<tr><td>Cotton On</td><td>Casual Team Member - Cotton On Jindalee Dfo</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>Caltex Australia</td><td>Team Member - Cleveland Shore St</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Norwest Circa Shopping Centre</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Hastings</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Wodonga Central</td><td>Wodonga</td><td>2026-10-20</td></tr>
+<tr><td>Optus</td><td>Retail Consultant, Chadstone</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Optus</td><td>Retail Consultant, Bendigo</td><td>Bendigo</td><td>2026-10-20</td></tr>
+<tr><td>Singtel</td><td>Retail Consultant, Merrylands</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Country Road Group</td><td>Witchery - Seasonal Sales Consultant - Myer Geelong</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Country Road Group</td><td>Mimco - Seasonal Sales Consultant - David Jones Southland</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Country Road Group</td><td>Trenery - Seasonal Sales Consultant - Myer Chadstone</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face : Sales Assistant, Christmas Casual- Emporium</td><td>Emporium</td><td>2026-10-20</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face : Sales Assistant, Christmas Casual- Pacific Fair</td><td>Pacific Fair</td><td>2026-10-20</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face : Sales Assistant, Christmas Casual - Chatswood Chase</td><td>Chatswood Chase</td><td>2026-10-20</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face : Sales Assistant, Christmas Casual- Highpoint</td><td>Highpoint</td><td>2026-10-20</td></tr>
+<tr><td>Mountain Warehouse</td><td>Christmas Casual Sales Assistant</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Ferntree Gully</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Caroline Springs</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Telstra</td><td>Telstra Retail: Customer Service & Sales Consultant (expression Of Interest)</td><td>Adelaide +43</td><td>2026-10-20</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Liquor Team Member - Bws Sunshine Homemaker Centre</td><td>Maroochydore</td><td>2026-10-20</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Capalaba/ Victoria Point</td><td>Brisbane</td><td>2026-10-20</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Bay Street</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>Commonwealth Bank</td><td>Customer Banking Specialist Relief - Greater South West Area</td><td>Young</td><td>2026-10-20</td></tr>
+<tr><td>adidas AG</td><td>Part-time Stockroom Specialist - Werribee Concept Store, Vic</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Mybunknbiscuit</td><td>Customer Service Team Member</td><td>Edwardstown +1</td><td>2026-10-20</td></tr>
+<tr><td>The Good Guys</td><td>Sales Consultant (0.8fte)</td><td>Melbourne</td><td>2026-10-20</td></tr>
+<tr><td>Challenger Limited</td><td>Customer Service Representative – 12 Month Contract.</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>H&M</td><td>Visual Merchandiser 6m Secondment - Northland</td><td>Northland Shopping</td><td>2026-10-20</td></tr>
+<tr><td>Le001-Asxops Asx Operations Pty</td><td>Tech & Data Sales Associate - 12 Month Max Term Contract</td><td>Sydney</td><td>2026-10-20</td></tr>
+<tr><td>MYER</td><td>Assistant Retail Store Manager - Portmans -</td><td>Adelaide</td><td>2026-10-20</td></tr>
 </table>
