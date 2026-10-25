@@ -11,13 +11,13 @@
   "as_of": "2026-10-25",
   "window_days": 45,
   "total_site_jobs_str": "8.0M+",
-  "generated_at": "2026-10-25T00:51:51.528Z",
+  "generated_at": "2026-10-25T02:10:57.897Z",
   "tagging_source": "employmentTypeNorm",
   "pool_source": "daily-fanout + tagged-collection",
-  "seasonal_live_roles": 1545,
-  "hydrated_rows": 26398,
-  "casual_website_total": 47736,
-  "casual_website_as_of": "2026-10-24T00:48:13.887Z"
+  "seasonal_live_roles": 1539,
+  "hydrated_rows": 26343,
+  "casual_website_total": 48161,
+  "casual_website_as_of": "2026-10-25T00:52:13.742Z"
  },
  "seasonal": [
   {
@@ -716,7 +716,7 @@
    "company_name": "Oakley",
    "company_hi_slug": "oakley",
    "title": "Christmas Casual / Oakley / Carousel, Wa",
-   "location": "Perth +1",
+   "location": "Perth",
    "pay_display": null,
    "shift": "Weekend",
    "ticket": null,
@@ -731,7 +731,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Casual",
-   "locations_count": 2
+   "locations_count": 1
   },
   {
    "id": "5ac4e2c7517ccd47691820b5da23b331",
@@ -1259,7 +1259,7 @@
    "company_name": "Bolton Clarke",
    "company_hi_slug": "bolton-clarke",
    "title": "Personal Care Worker",
-   "location": "Melbourne +28",
+   "location": "Melbourne +27",
    "pay_display": null,
    "shift": null,
    "ticket": "Police check",
@@ -1274,7 +1274,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Casual",
-   "locations_count": 29
+   "locations_count": 28
   },
   {
    "id": "f75ccccbdecdd55d9619c969de15607f",
@@ -5629,7 +5629,7 @@
    "company_name": "G8 Education",
    "company_hi_slug": "g8-education",
    "title": "Educator",
-   "location": "Sydney +4",
+   "location": "Sydney +3",
    "pay_display": null,
    "shift": "Flexible",
    "ticket": "WWCC + First Aid",
@@ -5644,7 +5644,7 @@
    "tier": "Casual",
    "employment_type_norm": "Casual",
    "employment_type_raw": "Casual",
-   "locations_count": 5
+   "locations_count": 4
   },
   {
    "id": "1ae750dd072af50b1da2dfbaac58ee61",
