@@ -11165,4 +11165,57 @@
 <tr><td>Revlon</td><td>Merchandiser - Perth</td><td>Perth</td><td>2026-10-25</td></tr>
 <tr><td>Country Road Group</td><td>Witchery - Part Time Sales Consultant- Adelaide Airport</td><td>Adelaide</td><td>2026-10-25</td></tr>
 <tr><td>Pandora</td><td>Assortment Planning Specialist (fixed Term Contract)</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Cabrini Health</td><td>Personal Care Assistant - Surgical Ward (casual)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Alzheimer's Association of Quee…</td><td>Assistant In Nursing - Windsor</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>RSL LifeCare</td><td>Carer</td><td>Belconnen</td><td>2026-10-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Burnside, Melbourne Casual Educator Diploma Qualified Vic 3023</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Green Point, Central Coast Casual Educator Nsw 2251</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Casual Educator</td><td>Sydney +1</td><td>2026-10-26</td></tr>
+<tr><td>Central Queensland University</td><td>Casual Academic Learning Adviser (itap)</td><td>Bundaberg +1</td><td>2026-10-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Innisfail Educator Qld 4860</td><td>Innisfail</td><td>2026-10-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Belmont, Brisbane Inclusion Support Educator Qld 4153</td><td>Geelong</td><td>2026-10-26</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Gawler South, Gawler Educator Sa 5118</td><td>Gawler South</td><td>2026-10-26</td></tr>
+<tr><td>Story House Early Learning</td><td>Educator</td><td>Toowoomba +1</td><td>2026-10-26</td></tr>
+<tr><td>Story House Early Learning</td><td>Educator (Diamond Creek)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>EducationHQ</td><td>Trainee Educator</td><td>Newcastle</td><td>2026-10-26</td></tr>
+<tr><td>lululemon</td><td>Seasonal Educator Doncaster / Nov Start (must Be Avail Thurs-fri Late Nights & Weekends)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Frontline Recruitment Group</td><td>Teaching Assistant</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Lululemon</td><td>Full-Time Educator / Karrinyup (6 month contract)</td><td>Perth</td><td>2026-10-26</td></tr>
+<tr><td>The Fresh Collective</td><td>Functions & Events Venue Supervisor - Strathfield Golf Club</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>NSW Health</td><td>Senior Security Officer - Campbelltown And Camden Hospital - Temp Ft/perm Pt</td><td>Campbelltown</td><td>2026-10-26</td></tr>
+<tr><td>AusPost</td><td>Van Driver</td><td>Murarrie +7</td><td>2026-10-26</td></tr>
+<tr><td>2XU</td><td>Warehouse Storeperson – Canning Vale Dc</td><td>Perth</td><td>2026-10-26</td></tr>
+<tr><td>AusPost</td><td>Indoor Delivery Officer</td><td>Bairnsdale +2</td><td>2026-10-26</td></tr>
+<tr><td>Amalgam Recruitment</td><td>End Tipper Drivers</td><td>Rockingham</td><td>2026-10-26</td></tr>
+<tr><td>The NSW Department of Education</td><td>Deputy Commissioner, Delivery And Engagement</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>KCA Site Services</td><td>Underground Truck Operators & Nippers</td><td>Kalgoorlie</td><td>2026-10-26</td></tr>
+<tr><td>Cochlear</td><td>Logistics Operations Coordinator</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Cochlear</td><td>Cochlear Production Operator (electronic Assembler)</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>Ferrero LADM</td><td>Logistics Executive (12 Month Contract)</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>TUI Musement</td><td>Port Delivery Agent - Shore Excursions / Fixed term</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Accor Pacific</td><td>Room Attendant</td><td>Australia +12</td><td>2026-10-26</td></tr>
+<tr><td>Accor Pacific</td><td>Housekeeping Attendant</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Treendale - After School / Weekends / Holidays</td><td>Treendale</td><td>2026-10-26</td></tr>
+<tr><td>Hungry Jack's</td><td>Casual Crew Member</td><td>Adelaide +23</td><td>2026-10-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Cook</td><td>Melbourne +4</td><td>2026-10-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew</td><td>Brisbane +2</td><td>2026-10-26</td></tr>
+<tr><td>Ramsay Health Care</td><td>Barista</td><td>Gold Coast</td><td>2026-10-26</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew Part Time - Mosman</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>The Pancake Parlour</td><td>Cook</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Seasonal Houseman</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Seasonal Barista</td><td>Porters</td><td>2026-10-26</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy's Gawler</td><td>Sa</td><td>2026-10-26</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy’s Butler</td><td>Perth</td><td>2026-10-26</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy's Gepps Cross</td><td>Blair Athol</td><td>2026-10-26</td></tr>
+<tr><td>Jimmy Brings</td><td>Customer Assistant - Dan Murphy’s Parramatta</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Jimmy Brings</td><td>Customer Assistant - Dan Murphy’s Wynnum West</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>BWS</td><td>Customer Assistant - Dan Murphy’s Woolloongabba</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>Decjuba</td><td>Casual Retail Assistant - Brighton</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Kit</td><td>Global Market Sales Associate (analyst)</td><td>Sydney CBD Area</td><td>2026-10-26</td></tr>
+<tr><td>L&C Food</td><td>Team Member - Newmarket</td><td>Newmarket</td><td>2026-10-26</td></tr>
+<tr><td>CommBank</td><td>Customer Service Representative - Hobart (30hrs/w)</td><td>Hobart</td><td>2026-10-26</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Lismore</td><td>Lismore</td><td>2026-10-26</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Part Time Customer Service & Sales Consultant Gladstone</td><td>Gladstone</td><td>2026-10-26</td></tr>
+<tr><td>Telstra Corporation Limited</td><td>Telstra Retail: Part Time Customer Service & Sales Consultant Grafton</td><td>Grafton</td><td>2026-10-26</td></tr>
+<tr><td>Strandbags</td><td>HOLIDAY CASUAL SALES ASSISTANTS - ACT</td><td>Belconnen</td><td>2026-10-26</td></tr>
 </table>
