@@ -14928,4 +14928,32 @@
 <tr><td>Nestle Ltd</td><td>Part Time Boutique Senior Coffee Specialist - Penrith</td><td>Campbelltown</td><td>2026-11-08</td></tr>
 <tr><td>Citrus Group</td><td>Customer Service Representative - Supply Chain</td><td>Melbourne</td><td>2026-11-08</td></tr>
 <tr><td>Crossmark</td><td>Retail Merchandiser - Tweed Heads - Nsw</td><td>Gold Coast</td><td>2026-11-08</td></tr>
+<tr><td>Barwon Health</td><td>Lifestyle Officer, Aged Care</td><td>Australia</td><td>2026-11-09</td></tr>
+<tr><td>Missionhr</td><td>Youth Worker</td><td>Robertson</td><td>2026-11-09</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Educator / Burnside</td><td>Adelaide</td><td>2026-11-09</td></tr>
+<tr><td>Lululemon</td><td>Seasonal Educator / Chermside</td><td>Brisbane</td><td>2026-11-09</td></tr>
+<tr><td>Queensland Government</td><td>Teacher Aide (braille) - Statewide Talent Pool, Education</td><td>Brisbane Inner City</td><td>2026-11-09</td></tr>
+<tr><td>Queensland Government</td><td>Teacher Aide (language Model - Auslan) - Statewide Talent Pool, Education</td><td>Brisbane Inner City</td><td>2026-11-09</td></tr>
+<tr><td>Department of Government Servic…</td><td>Cyber Security Officer</td><td>Melbourne</td><td>2026-11-09</td></tr>
+<tr><td>Good Shepherd Lutheran College…</td><td>Casual & Permanent Bus Driver</td><td>Maroochydore</td><td>2026-11-09</td></tr>
+<tr><td>AusPost</td><td>Indoor Delivery Officer</td><td>Bairnsdale</td><td>2026-11-09</td></tr>
+<tr><td>Jetstar Airways</td><td>System Implementation Lead - Operations And Logistics (wms)</td><td>Sydney</td><td>2026-11-09</td></tr>
+<tr><td>Bluefin Company Limited</td><td>Manager Technical Delivery</td><td>Brisbane</td><td>2026-11-09</td></tr>
+<tr><td>Respect Group Limited</td><td>Food Services/laundry/ Cleaning Assistant</td><td>Mareeba Gardens</td><td>2026-11-09</td></tr>
+<tr><td>Calrossy Anglican School</td><td>Cleaners - Permanent Part-time / Casual</td><td>Tamworth</td><td>2026-11-09</td></tr>
+<tr><td>Ikon Services</td><td>Nsw Hygiene Technician</td><td>Sydney</td><td>2026-11-09</td></tr>
+<tr><td>Homestyle Aged Care</td><td>Laundry Attendant</td><td>Melville Grange</td><td>2026-11-09</td></tr>
+<tr><td>Hungry Jack’s</td><td>Night/closing Crew Member - Pheasants Nest Northbound</td><td>Pheasants Nest</td><td>2026-11-09</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Karawara</td><td>Karawara</td><td>2026-11-09</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Casual</td><td>Melbourne +9</td><td>2026-11-09</td></tr>
+<tr><td>Hungry Jack's</td><td>Day Shift And Overnight Availability</td><td>Bell Street</td><td>2026-11-09</td></tr>
+<tr><td>Hungry Jack's</td><td>Flexible Crew Roles / Days, Nights & Weekends Available</td><td>Glasshouse Sth</td><td>2026-11-09</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook - Part Time</td><td>Brisbane +2</td><td>2026-11-09</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Overnight Crew/cooks (10pm To 6am Shifts)</td><td>Brisbane Airport</td><td>2026-11-09</td></tr>
+<tr><td>Hilton</td><td>Front Office / Guest Service Agent</td><td>Hobart</td><td>2026-11-09</td></tr>
+<tr><td>BFS Children's Services</td><td>Casual Cooks / Bfs Children's Services</td><td>Illawarra</td><td>2026-11-09</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Sales Assistant - Amx Pakenham - Casual</td><td>Melbourne</td><td>2026-11-09</td></tr>
+<tr><td>PVH</td><td>Christmas Sales Consultant</td><td>Brisbane +2</td><td>2026-11-09</td></tr>
+<tr><td>Lowes</td><td>Victor Harbor Sa - Sales Assistant</td><td>Victor Harbor</td><td>2026-11-09</td></tr>
+<tr><td>LOVISA</td><td>Stylist / Part Time / Tweed City</td><td>Gold Coast</td><td>2026-11-09</td></tr>
 </table>
