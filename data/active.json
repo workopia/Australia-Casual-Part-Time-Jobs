@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-15",
+ "asOf": "2026-11-16",
  "count": 1217,
  "jobs": {
   "933466a86ff8e432a54460e8aad102fb": {
@@ -113,8 +113,8 @@
   "041524d754793e0c03f3c155a6f2bd48": {
    "id": "041524d754793e0c03f3c155a6f2bd48",
    "company": "Calvary",
-   "role": "Support Worker Catering",
-   "location": "Geelong +4"
+   "role": "Support Worker - Catering",
+   "location": "Bendigo +4"
   },
   "1a68e26ed75fd27e3dd8f2f5aa4b2c49": {
    "id": "1a68e26ed75fd27e3dd8f2f5aa4b2c49",
@@ -362,6 +362,54 @@
    "role": "Personal Care Assistant",
    "location": "Melbourne +1"
   },
+  "7155f6aa29cb437d150431830c0f9c35": {
+   "id": "7155f6aa29cb437d150431830c0f9c35",
+   "company": "Eastern Health",
+   "role": "Disability Liaison & Ndis Navigator Leave Reliever",
+   "location": "Melbourne"
+  },
+  "b06bae238c6753b4ae1d6e95ece1aac7": {
+   "id": "b06bae238c6753b4ae1d6e95ece1aac7",
+   "company": "Eastern Health",
+   "role": "Personal Care Assistant - Residential Aged Care",
+   "location": "Melbourne"
+  },
+  "a1e966829c29aefd0b765d37bf64146a": {
+   "id": "a1e966829c29aefd0b765d37bf64146a",
+   "company": "NSW Health",
+   "role": "Aged Care Admin Officer Buronga",
+   "location": "Buronga"
+  },
+  "685f67210f9ee833fa98ce7d02a54dba": {
+   "id": "685f67210f9ee833fa98ce7d02a54dba",
+   "company": "NSW Health",
+   "role": "Admin Officer - Aged Care Unit",
+   "location": "Wagga Wagga"
+  },
+  "72ca4dd016b93ba6b145b792754de6a8": {
+   "id": "72ca4dd016b93ba6b145b792754de6a8",
+   "company": "NSW Health",
+   "role": "Allied Health Assistant - Activity Officer",
+   "location": "Brewarrina"
+  },
+  "13d1087c1f401d88cc67eb1d37cc5b6e": {
+   "id": "13d1087c1f401d88cc67eb1d37cc5b6e",
+   "company": "NSW Health",
+   "role": "Allied Health Assistant, Child Life And Music Therapy - Oncology Day Unit",
+   "location": "Westmead"
+  },
+  "f439b1054f59d2c691d6db99adf99c38": {
+   "id": "f439b1054f59d2c691d6db99adf99c38",
+   "company": "Carinity",
+   "role": "Youth Worker - Student Wellbeing",
+   "location": "Gladstone"
+  },
+  "2afa8086cbdc9ff9853b26abf110cb83": {
+   "id": "2afa8086cbdc9ff9853b26abf110cb83",
+   "company": "Carinity",
+   "role": "Lifestyle Carer (community Aged Care)",
+   "location": "Rockhampton"
+  },
   "3fa827207ad940388745f8969ca2f6fe": {
    "id": "3fa827207ad940388745f8969ca2f6fe",
    "company": "Opal HealthCare",
@@ -440,12 +488,6 @@
    "role": "Community Support Worker",
    "location": "Cairns"
   },
-  "b06bae238c6753b4ae1d6e95ece1aac7": {
-   "id": "b06bae238c6753b4ae1d6e95ece1aac7",
-   "company": "Eastern Health",
-   "role": "Personal Care Assistant - Residential Aged Care",
-   "location": "Melbourne"
-  },
   "5531a710e1b1e1f11dd2f079b71c751e": {
    "id": "5531a710e1b1e1f11dd2f079b71c751e",
    "company": "IRT",
@@ -518,30 +560,6 @@
    "role": "Personal Care Worker",
    "location": "Melbourne +7"
   },
-  "a49324e3ac52e75a81e673efe7acd151": {
-   "id": "a49324e3ac52e75a81e673efe7acd151",
-   "company": "BaptistCare NSW & ACT",
-   "role": "Lifestyle Carer",
-   "location": "Coraki"
-  },
-  "685f67210f9ee833fa98ce7d02a54dba": {
-   "id": "685f67210f9ee833fa98ce7d02a54dba",
-   "company": "NSW Health",
-   "role": "Admin Officer - Aged Care Unit",
-   "location": "Wagga Wagga"
-  },
-  "72ca4dd016b93ba6b145b792754de6a8": {
-   "id": "72ca4dd016b93ba6b145b792754de6a8",
-   "company": "NSW Health",
-   "role": "Allied Health Assistant - Activity Officer",
-   "location": "Brewarrina"
-  },
-  "13d1087c1f401d88cc67eb1d37cc5b6e": {
-   "id": "13d1087c1f401d88cc67eb1d37cc5b6e",
-   "company": "NSW Health",
-   "role": "Allied Health Assistant, Child Life And Music Therapy - Oncology Day Unit",
-   "location": "Westmead"
-  },
   "9411b3c663ce2f5c697fb82336d1d485": {
    "id": "9411b3c663ce2f5c697fb82336d1d485",
    "company": "Central Adelaide Local Health N…",
@@ -608,12 +626,6 @@
    "role": "Carer Engagement And Support Consultant (foster Carer Recruitment And Assessment)",
    "location": "Sydney NSW"
   },
-  "a848caf88b3f5e30bb4729b63d66f226": {
-   "id": "a848caf88b3f5e30bb4729b63d66f226",
-   "company": "UnitingCare",
-   "role": "Support Worker - Yamba",
-   "location": "Yamba"
-  },
   "42c8aaa347750e593502687d62956c87": {
    "id": "42c8aaa347750e593502687d62956c87",
    "company": "Bene Aged Care",
@@ -637,12 +649,6 @@
    "company": "Whiddon",
    "role": "Home Care Employee - Kyogle",
    "location": "Kyogle"
-  },
-  "2afa8086cbdc9ff9853b26abf110cb83": {
-   "id": "2afa8086cbdc9ff9853b26abf110cb83",
-   "company": "Carinity",
-   "role": "Lifestyle Carer (community Aged Care)",
-   "location": "Rockhampton"
   },
   "5d2086f331d5032a5337811a68a24d61": {
    "id": "5d2086f331d5032a5337811a68a24d61",
@@ -672,7 +678,7 @@
    "id": "1335da1f42d0008d5f72848b2608fcbd",
    "company": "Arcare",
    "role": "Personal Support Worker",
-   "location": "Melbourne +12"
+   "location": "Melbourne +11"
   },
   "e5133d5d116b6e6548a0699309a31bcd": {
    "id": "e5133d5d116b6e6548a0699309a31bcd",
@@ -715,12 +721,6 @@
    "company": "Benetas",
    "role": "Personal Care Worker – Permanent Part Time The Views",
    "location": "Melbourne"
-  },
-  "19d8bcbaeab5bb14457dbd7562c69f70": {
-   "id": "19d8bcbaeab5bb14457dbd7562c69f70",
-   "company": "Calvary",
-   "role": "Support Worker - Home Care Benalla",
-   "location": "Benalla"
   },
   "9859675312a17eab91a92873120adac9": {
    "id": "9859675312a17eab91a92873120adac9",
@@ -1802,6 +1802,18 @@
    "role": "Library Assistant Branch Relief (part-time)",
    "location": "Sydney"
   },
+  "4654bfc01417d431382f2d0c5ce10502": {
+   "id": "4654bfc01417d431382f2d0c5ce10502",
+   "company": "WA Government Jobs",
+   "role": "Aboriginal Education Support Coordinator",
+   "location": "Pilbara Region"
+  },
+  "c2d5b9d551f8ffb6a628daaacc98a3f1": {
+   "id": "c2d5b9d551f8ffb6a628daaacc98a3f1",
+   "company": "WA Government Jobs",
+   "role": "Teacher - Early Childhood Education",
+   "location": "Bridgetown +1"
+  },
   "5613bce89e3dafc300688c7afb5f6042": {
    "id": "5613bce89e3dafc300688c7afb5f6042",
    "company": "Queensland Government",
@@ -1861,12 +1873,6 @@
    "company": "Tafe Nsw",
    "role": "Education Support Officer Of Automotive",
    "location": "Kempsey"
-  },
-  "c2d5b9d551f8ffb6a628daaacc98a3f1": {
-   "id": "c2d5b9d551f8ffb6a628daaacc98a3f1",
-   "company": "WA Government Jobs",
-   "role": "Teacher - Early Childhood Education",
-   "location": "Bridgetown +1"
   },
   "771ac5b53c2a315c5e5eb0d323a3b433": {
    "id": "771ac5b53c2a315c5e5eb0d323a3b433",
@@ -2054,6 +2060,12 @@
    "role": "Senior Lecturer – Medical Educator (albany)",
    "location": "Albany"
   },
+  "f9b218bb8f3d8728ddcff96218e02be8": {
+   "id": "f9b218bb8f3d8728ddcff96218e02be8",
+   "company": "University of Western Australia",
+   "role": "Senior Lecturer – Medical Educator (geraldton)",
+   "location": "Geraldton"
+  },
   "6a5a73d547b757e7979d63281ecc4203": {
    "id": "6a5a73d547b757e7979d63281ecc4203",
    "company": "Beaconhills College",
@@ -2076,12 +2088,6 @@
    "id": "4db06df04dacee57898a0ebaa6b24c3e",
    "company": "Penrith City Council",
    "role": "Child Care Aide",
-   "location": "Campbelltown"
-  },
-  "6715d8bebf7bc6b1fc25c03358bdc8b7": {
-   "id": "6715d8bebf7bc6b1fc25c03358bdc8b7",
-   "company": "Penrith City Council",
-   "role": "Oshc Educator",
    "location": "Campbelltown"
   },
   "a5c634ac0c2dda088a37009f28bdfe0f": {
@@ -2156,11 +2162,11 @@
    "role": "Teacher - Early Childhood - Kingaroy, Tafe Queensland",
    "location": "Kingaroy"
   },
-  "8d8d20e7e8bd9ca4eb50da6ef916c695": {
-   "id": "8d8d20e7e8bd9ca4eb50da6ef916c695",
-   "company": "Yarra City Council",
-   "role": "Pool Lifeguard",
-   "location": "Melbourne"
+  "3d8709eeccfaf52bfafb185ecebffc75": {
+   "id": "3d8709eeccfaf52bfafb185ecebffc75",
+   "company": "City of Adelaide",
+   "role": "Casual Usher - Adelaide Town Hall",
+   "location": "Adelaide"
   },
   "fb069aaf4dbc1f81ba73cc9c2e7a9890": {
    "id": "fb069aaf4dbc1f81ba73cc9c2e7a9890",
@@ -2324,12 +2330,6 @@
    "role": "Casual Security Officer - Hobart",
    "location": "Hobart"
   },
-  "7e46148d6a11d79a410b9608394ce107": {
-   "id": "7e46148d6a11d79a410b9608394ce107",
-   "company": "Wilson Group",
-   "role": "Casual Fifo Security Officer - Ex Darwin Nt Or Cairns Qld",
-   "location": "Darwin"
-  },
   "71c14e2a8e86e1028443f4772467b5e1": {
    "id": "71c14e2a8e86e1028443f4772467b5e1",
    "company": "MSS Security PTY",
@@ -2406,7 +2406,7 @@
    "id": "cf025c2a02925db30d003eb37a5078f5",
    "company": "MYER",
    "role": "Retail Security Officer",
-   "location": "Melbourne +2"
+   "location": "Adelaide +2"
   },
   "5edb891156b5910a01a255c0605ed959": {
    "id": "5edb891156b5910a01a255c0605ed959",
@@ -2522,6 +2522,12 @@
    "role": "Catering Assistant - Casual",
    "location": "Sydney"
   },
+  "caa0e4aaea3e5312102cf752ec93d752": {
+   "id": "caa0e4aaea3e5312102cf752ec93d752",
+   "company": "Cater Care",
+   "role": "Catering Assistant - Thomasholt Village - Kirrawee Nsw",
+   "location": "Sydney"
+  },
   "50b2412553f21a17f47779a3bbe09c7a": {
    "id": "50b2412553f21a17f47779a3bbe09c7a",
    "company": "Cater Care",
@@ -2544,12 +2550,6 @@
    "id": "16f3f26260cfb274b694673aef717aba",
    "company": "Cater Care",
    "role": "Catering Assistant - Ashwood",
-   "location": "Melbourne"
-  },
-  "31114619f723413dc1217dbd6b4c50d2": {
-   "id": "31114619f723413dc1217dbd6b4c50d2",
-   "company": "Cater Care",
-   "role": "Catering Assistant - Glen Waverley",
    "location": "Melbourne"
   },
   "a7b330961cdae2a17467b43eeb93a5e5": {
@@ -2750,12 +2750,6 @@
    "role": "Wedding & Events Executive (part-time)",
    "location": "Perth"
   },
-  "7ba3434e34958892f469eb8289809197": {
-   "id": "7ba3434e34958892f469eb8289809197",
-   "company": "Hilton",
-   "role": "Wedding & Events Executive (part-time)",
-   "location": "Perth"
-  },
   "15ef6a17bfc7c5d60a6d0a867c458014": {
    "id": "15ef6a17bfc7c5d60a6d0a867c458014",
    "company": "Village Roadshow",
@@ -2881,6 +2875,12 @@
    "company": "Arcare",
    "role": "Catering Assistant",
    "location": "Brisbane"
+  },
+  "c95897c97b8ae06aafd303d928d51bbf": {
+   "id": "c95897c97b8ae06aafd303d928d51bbf",
+   "company": "Refuge Victoria",
+   "role": "Nurse Educator (community Health Promotion)",
+   "location": "Victoria 3000"
   },
   "8e72a52c28771719408614de0de70a07": {
    "id": "8e72a52c28771719408614de0de70a07",
@@ -3258,7 +3258,7 @@
    "id": "d96c03cbe64ec9ab761c8bc2136311bc",
    "company": "Programmed / PERSOLKELLY",
    "role": "Forklift Driver",
-   "location": "Pemulwuy +3"
+   "location": "Campbelltown +2"
   },
   "9dd3aa816668afce2ed69e3c516b362b": {
    "id": "9dd3aa816668afce2ed69e3c516b362b",
@@ -3402,7 +3402,7 @@
    "id": "252ca4fab15b915990cd4af1586c7837",
    "company": "The Good Guys",
    "role": "Warehouse Team Member",
-   "location": "Campbelltown +11"
+   "location": "Campbelltown +10"
   },
   "df332b59edf978a8c0415cc3f7ec48ef": {
    "id": "df332b59edf978a8c0415cc3f7ec48ef",
@@ -3872,6 +3872,36 @@
    "role": "Support Service Employee (bus Driver) - North Turramurra",
    "location": "Sydney"
   },
+  "5e1b466e40722b93ab608a4d940f94fd": {
+   "id": "5e1b466e40722b93ab608a4d940f94fd",
+   "company": "Fuse Recruitment",
+   "role": "High Reach Forklift Operators – $38 - $42.75 P/hr + Super And Ot - Smithfield",
+   "location": "Sydney"
+  },
+  "068112921ace309b83482a7e6a8c3144": {
+   "id": "068112921ace309b83482a7e6a8c3144",
+   "company": "Fuse Recruitment",
+   "role": "Warehouse Team Leaders – $50 P/hr + Super And Ot - Smithfield",
+   "location": "Sydney"
+  },
+  "b97c7f585f86a0f3fb6cb1936fb7f3a1": {
+   "id": "b97c7f585f86a0f3fb6cb1936fb7f3a1",
+   "company": "Fuse Recruitment",
+   "role": "4 On 4 Off 8 Tonne Forklift / Machine Operators - $42.90 P/hr + Ot – Carole Park",
+   "location": "Carole Park QLD 4300"
+  },
+  "cc352deead27938f794ce460af3c8c66": {
+   "id": "cc352deead27938f794ce460af3c8c66",
+   "company": "Fuse Recruitment",
+   "role": "Warehouse Labourers – Am Shift - $35.61 P/hr + Ot + Super – Blacktown",
+   "location": "Blacktown NSW +1"
+  },
+  "4391bfa428e9ed32dbbe057b2246089f": {
+   "id": "4391bfa428e9ed32dbbe057b2246089f",
+   "company": "Fuse Recruitment",
+   "role": "Logistics Allocator / Transport Scheduler $42.50 P/hr – Smithfield",
+   "location": "Sydney"
+  },
   "0e20935d7d9f832f8d4a41a5d891f497": {
    "id": "0e20935d7d9f832f8d4a41a5d891f497",
    "company": "PT LHR",
@@ -3943,36 +3973,6 @@
    "company": "Macquarie",
    "role": "Domain Delivery Analyst",
    "location": "Wallumattagal Campus"
-  },
-  "cdf534c6ea53b7a004014711653e7a47": {
-   "id": "cdf534c6ea53b7a004014711653e7a47",
-   "company": "Fuse Recruitment",
-   "role": "Production Workers – Carole Park - $36 P/hr + Daily Overtime",
-   "location": "Carole Park"
-  },
-  "4037e4c63b51981728bb423f07c23196": {
-   "id": "4037e4c63b51981728bb423f07c23196",
-   "company": "Fuse Recruitment",
-   "role": "Process Worker",
-   "location": "Melbourne"
-  },
-  "e419e60fb3519953366b0602462e1597": {
-   "id": "e419e60fb3519953366b0602462e1597",
-   "company": "Fuse Recruitment",
-   "role": "Truck Driver",
-   "location": "Darra"
-  },
-  "0c265772cab7d502c56519d92c177a2c": {
-   "id": "0c265772cab7d502c56519d92c177a2c",
-   "company": "Fuse Recruitment",
-   "role": "Forklift Operators – Pm Shift / St Marys / $43.12 Per Hour + Overtime",
-   "location": "St Marys"
-  },
-  "565d06ade70d75f7b2ebb5ed32b3f4b4": {
-   "id": "565d06ade70d75f7b2ebb5ed32b3f4b4",
-   "company": "Fuse Recruitment",
-   "role": "Logistics And Dispatch Officer",
-   "location": "Wacol"
   },
   "1153b533e202cbe8aa85fdbc0ebe1c1e": {
    "id": "1153b533e202cbe8aa85fdbc0ebe1c1e",
@@ -4214,12 +4214,6 @@
    "role": "Works Delivery Coordinator - Brooklyn Ug",
    "location": "Brooklyn"
   },
-  "abcff400b1dc02f660a365434984035f": {
-   "id": "abcff400b1dc02f660a365434984035f",
-   "company": "Toyota Finance Australia",
-   "role": "Warehouse Storeperson",
-   "location": "Brisbane"
-  },
   "7d6edbe9d78f068318e56eea63994efb": {
    "id": "7d6edbe9d78f068318e56eea63994efb",
    "company": "Toll Holdings Limited",
@@ -4231,6 +4225,12 @@
    "company": "Australian Department of Finance",
    "role": "Temporary Employment Register – Comcar Driver - All States",
    "location": "Belconnen"
+  },
+  "bae3b5af613f452f4f9eb23d8705ae13": {
+   "id": "bae3b5af613f452f4f9eb23d8705ae13",
+   "company": "Top Cut Foods",
+   "role": "Delivery Driver",
+   "location": "Sydney +1"
   },
   "bf935468d7b7dbbb9c0ce416413dc3e9": {
    "id": "bf935468d7b7dbbb9c0ce416413dc3e9",
@@ -4368,7 +4368,7 @@
    "id": "84a485867ca60228eaebb0dccfcf9e9b",
    "company": "Bolton Clarke",
    "role": "Hospitality Assistant - Cleaner",
-   "location": "Melbourne +7"
+   "location": "Melbourne +6"
   },
   "7bf63d46f470a9e63923cc68da5d03fc": {
    "id": "7bf63d46f470a9e63923cc68da5d03fc",
@@ -4592,6 +4592,12 @@
    "role": "Hygiene / Industrial Cleaner - Food Production",
    "location": "Moorebank NSW 2170"
   },
+  "5bd7d29c4ad99743ba97fd1a513e323d": {
+   "id": "5bd7d29c4ad99743ba97fd1a513e323d",
+   "company": "Crown Resorts",
+   "role": "Houseperson - Housekeeping",
+   "location": "Perth"
+  },
   "1544cee7bcee8ec0e6f3196e20e77bd7": {
    "id": "1544cee7bcee8ec0e6f3196e20e77bd7",
    "company": "Hilton",
@@ -4748,18 +4754,6 @@
    "role": "Room Attendant",
    "location": "Sydney +5"
   },
-  "5c9ef46569f6c9192d9372b24c5df7fc": {
-   "id": "5c9ef46569f6c9192d9372b24c5df7fc",
-   "company": "Rsl Lifecare Limited",
-   "role": "Laundry Assistant",
-   "location": "Page"
-  },
-  "7b790fa9cd8a418d9c5dbf74938ab26b": {
-   "id": "7b790fa9cd8a418d9c5dbf74938ab26b",
-   "company": "Rsl Lifecare Limited",
-   "role": "Cleaning Assistant",
-   "location": "Merimbula +1"
-  },
   "fbd9a840410c3a8816307324141edd0d": {
    "id": "fbd9a840410c3a8816307324141edd0d",
    "company": "Green by Nature",
@@ -4880,6 +4874,12 @@
    "role": "Cleaner - Rea",
    "location": "Melbourne"
   },
+  "7b790fa9cd8a418d9c5dbf74938ab26b": {
+   "id": "7b790fa9cd8a418d9c5dbf74938ab26b",
+   "company": "Rsl Lifecare Limited",
+   "role": "Cleaning Assistant",
+   "location": "Merimbula +1"
+  },
   "c7f254c5342e0d066ccb3424c8b2d6df": {
    "id": "c7f254c5342e0d066ccb3424c8b2d6df",
    "company": "Ozone Complete Property Service…",
@@ -4922,12 +4922,6 @@
    "role": "Cleaner",
    "location": "Stockton +2"
   },
-  "e52013c7f0ed4c9f6ebf4d87ebc4e90b": {
-   "id": "e52013c7f0ed4c9f6ebf4d87ebc4e90b",
-   "company": "RSL LifeCare",
-   "role": "Cleaning Assistant",
-   "location": "Tura Beach +2"
-  },
   "d5b3c7a9cd5a7ea8b64246afa931e4e0": {
    "id": "d5b3c7a9cd5a7ea8b64246afa931e4e0",
    "company": "Royal Automobile Club of Victoria",
@@ -4951,6 +4945,12 @@
    "company": "Journey Beyond",
    "role": "Housekeeping/public Areas Attendant / Monarto Safari Resort",
    "location": "Monarto"
+  },
+  "fce5bf74fd9f692066721715069ca29f": {
+   "id": "fce5bf74fd9f692066721715069ca29f",
+   "company": "Quayclean",
+   "role": "Part-time Cleaner - Kogarah",
+   "location": "Sydney"
   },
   "f057373770db87d38995de5db54be55c": {
    "id": "f057373770db87d38995de5db54be55c",
@@ -5144,35 +5144,65 @@
    "role": "HR Truck Drivers - Waste Collection",
    "location": "Brisbane"
   },
+  "ac03423cf34270ce4b18ab7205ccb030": {
+   "id": "ac03423cf34270ce4b18ab7205ccb030",
+   "company": "Hungry Jack's",
+   "role": "Crew Member Casual",
+   "location": "Melbourne +13"
+  },
+  "80b6662a5fb68b0748002f1331702df5": {
+   "id": "80b6662a5fb68b0748002f1331702df5",
+   "company": "Hungry Jack's",
+   "role": "Casual Crew Member",
+   "location": "Gold Coast +6"
+  },
+  "3daaf9c1b7fa1383dfe401231709f38a": {
+   "id": "3daaf9c1b7fa1383dfe401231709f38a",
+   "company": "Hungry Jack’s",
+   "role": "Day Crew 8am-5pm",
+   "location": "Sydney"
+  },
+  "5f5d41895e4085cd143673a1c8ba4472": {
+   "id": "5f5d41895e4085cd143673a1c8ba4472",
+   "company": "Hungry Jack’s",
+   "role": "Night Crew - After School",
+   "location": "Sydney"
+  },
   "f060ce936b07defe1784d136a002da5e": {
    "id": "f060ce936b07defe1784d136a002da5e",
    "company": "Hungry Jack's",
    "role": "Crew Member",
    "location": "Melbourne +23"
   },
-  "8a97e9e17b2aefbc86f9e2fee2bde4da": {
-   "id": "8a97e9e17b2aefbc86f9e2fee2bde4da",
-   "company": "Hungry Jack's",
-   "role": "Crew Member Casual",
-   "location": "Melbourne +12"
+  "6bb6ad353c0e8c452a1c48bf7b553d61": {
+   "id": "6bb6ad353c0e8c452a1c48bf7b553d61",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Cook And Kitchen Crew Gyg Bondi Beach",
+   "location": "Sydney"
   },
-  "216e12b20b5d3cba4e4d11e046174948": {
-   "id": "216e12b20b5d3cba4e4d11e046174948",
-   "company": "Hungry Jack's",
-   "role": "Gympie Crew Member",
-   "location": "Maroochydore"
+  "811cc9e12f330debe1233c72c3fca5b8": {
+   "id": "811cc9e12f330debe1233c72c3fca5b8",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Cook & Kitchen Crew",
+   "location": "Baringa"
   },
-  "a9ab188f1903ec861066e1844770d922": {
-   "id": "a9ab188f1903ec861066e1844770d922",
-   "company": "Hungry Jack's",
-   "role": "Manager - Coffs Harbour North",
-   "location": "Coffs Harbour"
+  "d057fda76e157d3f2eafcf336f79c2d4": {
+   "id": "d057fda76e157d3f2eafcf336f79c2d4",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Shift Leader - Casual",
+   "location": "Brisbane +2"
   },
-  "19070ad0f49e431cd90c38ce1964db7e": {
-   "id": "19070ad0f49e431cd90c38ce1964db7e",
-   "company": "Hungry Jack’s",
-   "role": "Crew Member Night / Weekend",
-   "location": "Warrawong"
+  "0196e7694802c3b0b06d0975d3b91607": {
+   "id": "0196e7694802c3b0b06d0975d3b91607",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Crew & Cooks - Gyg Cannon Hill",
+   "location": "Brisbane"
+  },
+  "d092224ec66ce8ca98f8cf56bb0d7dbe": {
+   "id": "d092224ec66ce8ca98f8cf56bb0d7dbe",
+   "company": "Guzman y Gomez Mexican Kitchen",
+   "role": "Join The Gyg Caringbah Team! New Restaurant Opening!",
+   "location": "Sydney"
   },
   "bbecf6d71fd3033989751a14658c5632": {
    "id": "bbecf6d71fd3033989751a14658c5632",
@@ -5275,36 +5305,6 @@
    "company": "Porters Liquor",
    "role": "Cook - Jamison Hotel",
    "location": "Campbelltown"
-  },
-  "0196e7694802c3b0b06d0975d3b91607": {
-   "id": "0196e7694802c3b0b06d0975d3b91607",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Crew & Cooks - Gyg Cannon Hill",
-   "location": "Brisbane"
-  },
-  "d092224ec66ce8ca98f8cf56bb0d7dbe": {
-   "id": "d092224ec66ce8ca98f8cf56bb0d7dbe",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Join The Gyg Caringbah Team! New Restaurant Opening!",
-   "location": "Sydney"
-  },
-  "457b22345b594a00097a1fe3819cf7fd": {
-   "id": "457b22345b594a00097a1fe3819cf7fd",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Cook Part Time/full Time Gyg Bondi Beach",
-   "location": "Sydney"
-  },
-  "f73125d19434cd82138570a31f346afc": {
-   "id": "f73125d19434cd82138570a31f346afc",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual Cook - Heatherbrae",
-   "location": "Heatherbrae"
-  },
-  "a29a1a6203f7863097e845318b98ffb4": {
-   "id": "a29a1a6203f7863097e845318b98ffb4",
-   "company": "Guzman y Gomez Mexican Kitchen",
-   "role": "Casual Crew - Mosman",
-   "location": "Sydney"
   },
   "0f34de8dfd6eb852facdeec78ec39a1a": {
    "id": "0f34de8dfd6eb852facdeec78ec39a1a",
@@ -5504,6 +5504,36 @@
    "role": "Chef",
    "location": "Launceston"
   },
+  "f2ce60fbb9948f796104cd9835e0955b": {
+   "id": "f2ce60fbb9948f796104cd9835e0955b",
+   "company": "Park Hyatt Melbourne",
+   "role": "Host / Hostess Dinner (m/w/d) The Lonely Broccoli / Teilzeit Oder Minijob",
+   "location": "Melbourne"
+  },
+  "e11ecbaabcd109203230bddd9a13c67e": {
+   "id": "e11ecbaabcd109203230bddd9a13c67e",
+   "company": "Park Hyatt Melbourne",
+   "role": "Cdi : Commis De Restauration - Temps Partiel",
+   "location": "Melbourne"
+  },
+  "a9be2cce6ab75293c971ac16d55cffc6": {
+   "id": "a9be2cce6ab75293c971ac16d55cffc6",
+   "company": "Park Hyatt Melbourne",
+   "role": "Chef De Partie - Flexi Hours",
+   "location": "Melbourne"
+  },
+  "a1ca81e1a3df20fb5458d0907b5fb826": {
+   "id": "a1ca81e1a3df20fb5458d0907b5fb826",
+   "company": "Park Hyatt Melbourne",
+   "role": "Steward - Flexi Hours",
+   "location": "Melbourne"
+  },
+  "a2effe3b906ad1ce271122230ab8710b": {
+   "id": "a2effe3b906ad1ce271122230ab8710b",
+   "company": "Park Hyatt Melbourne",
+   "role": "Cocinero/a - Media Jornada",
+   "location": "Melbourne"
+  },
   "6eb090d47d49d65f727aa62821c49620": {
    "id": "6eb090d47d49d65f727aa62821c49620",
    "company": "Guzman y Gomez Mexican Kitchen",
@@ -5557,24 +5587,6 @@
    "company": "Green Leaves Early Learning",
    "role": "Kitchen Hand",
    "location": "Brisbane +4"
-  },
-  "a9be2cce6ab75293c971ac16d55cffc6": {
-   "id": "a9be2cce6ab75293c971ac16d55cffc6",
-   "company": "Park Hyatt Melbourne",
-   "role": "Chef De Partie - Flexi Hours",
-   "location": "Melbourne"
-  },
-  "a1ca81e1a3df20fb5458d0907b5fb826": {
-   "id": "a1ca81e1a3df20fb5458d0907b5fb826",
-   "company": "Park Hyatt Melbourne",
-   "role": "Steward - Flexi Hours",
-   "location": "Melbourne"
-  },
-  "a2effe3b906ad1ce271122230ab8710b": {
-   "id": "a2effe3b906ad1ce271122230ab8710b",
-   "company": "Park Hyatt Melbourne",
-   "role": "Cocinero/a - Media Jornada",
-   "location": "Melbourne"
   },
   "99847abedb47033a0a03cbbbad45d817": {
    "id": "99847abedb47033a0a03cbbbad45d817",
@@ -5851,18 +5863,6 @@
    "company": "Sofitel Melbourne On Collins",
    "role": "Commis Chef - Mercure Melbourne Southbank",
    "location": "Melbourne"
-  },
-  "4a6e4716c1accd1bae42697a3b981bff": {
-   "id": "4a6e4716c1accd1bae42697a3b981bff",
-   "company": "Sofitel",
-   "role": "Food And Beverage Attendant / Club Millesime",
-   "location": "Sydney"
-  },
-  "62114cbf5a880c0e6b6df8946b0cdd9d": {
-   "id": "62114cbf5a880c0e6b6df8946b0cdd9d",
-   "company": "Corryong Health",
-   "role": "Cook",
-   "location": "Corryong"
   },
   "53d49c9fcd3ebc5033d8a53210e54d67": {
    "id": "53d49c9fcd3ebc5033d8a53210e54d67",
@@ -6224,6 +6224,24 @@
    "role": "Customer Host Supervisor (12 Hrs)",
    "location": "Perth"
   },
+  "46e25a450d49a3623f0475b51f3ff1dc": {
+   "id": "46e25a450d49a3623f0475b51f3ff1dc",
+   "company": "Hanes Australasia",
+   "role": "Casual Sales Assistant / Bonds Outlet / Ellenbrook",
+   "location": "Perth"
+  },
+  "08f761177e3a409c096831cbd410f406": {
+   "id": "08f761177e3a409c096831cbd410f406",
+   "company": "Tarocash",
+   "role": "Tarocash Parafield Retail Team - Casual Assistant South Australia",
+   "location": "Parafield"
+  },
+  "43f7c65f4ebe6f2f26cf21853915d7f3": {
+   "id": "43f7c65f4ebe6f2f26cf21853915d7f3",
+   "company": "Tarocash",
+   "role": "Toowoomba Yd - Retail Assistant",
+   "location": "Toowoomba"
+  },
   "439363415abf3c82bfd2a577eca86482": {
    "id": "439363415abf3c82bfd2a577eca86482",
    "company": "Pinnacle Drinks",
@@ -6283,12 +6301,6 @@
    "company": "genU",
    "role": "Customer Service Officer",
    "location": "Melbourne"
-  },
-  "43f7c65f4ebe6f2f26cf21853915d7f3": {
-   "id": "43f7c65f4ebe6f2f26cf21853915d7f3",
-   "company": "Tarocash",
-   "role": "Toowoomba Yd - Retail Assistant",
-   "location": "Toowoomba"
   },
   "44d61c0704035ab85efcb1f0560cdb43": {
    "id": "44d61c0704035ab85efcb1f0560cdb43",
@@ -6560,12 +6572,6 @@
    "role": "Sales Assistant - Casual - Portmans - Canelands",
    "location": "Mackay"
   },
-  "ff96a68371a86b43812d3ff18a599835": {
-   "id": "ff96a68371a86b43812d3ff18a599835",
-   "company": "Dotti",
-   "role": "Sales Assistant - Casual - Just Jeans - Mildura",
-   "location": "Mildura"
-  },
   "c9e555459202ab43f7c918764b139e43": {
    "id": "c9e555459202ab43f7c918764b139e43",
    "company": "MYER",
@@ -6578,23 +6584,23 @@
    "role": "Sales Assistant - Casual - Just Jeans - Mildura",
    "location": "Mildura"
   },
-  "0d4b3163b0ca23ffef7d1a5c46f7ec68": {
-   "id": "0d4b3163b0ca23ffef7d1a5c46f7ec68",
-   "company": "Mountain Warehouse",
-   "role": "Christmas Casual Retail Sales Assistant",
-   "location": "Brisbane +1"
+  "3f304436b4956ce7e09812ebac565838": {
+   "id": "3f304436b4956ce7e09812ebac565838",
+   "company": "L&C Food",
+   "role": "Team Member Carindalewf",
+   "location": "Brisbane"
   },
-  "38f7b315a44e83465d2fc7b8fc0d6d5f": {
-   "id": "38f7b315a44e83465d2fc7b8fc0d6d5f",
-   "company": "L'Oréal",
-   "role": "Retail Consultant / Aesop Sydney Flagship / Part Time",
+  "35d046a02b7377ebd3a5163c0da38967": {
+   "id": "35d046a02b7377ebd3a5163c0da38967",
+   "company": "L&C Food",
+   "role": "Team Member",
    "location": "Sydney"
   },
-  "9ad8b458c71775ac57b6a04302398db4": {
-   "id": "9ad8b458c71775ac57b6a04302398db4",
-   "company": "L’Oréal S.A.",
-   "role": "Retail Consultant / Aesop Sydney Flagship / Part Time sydney, Australia",
-   "location": "Sydney"
+  "ad9eac51c23178e531e28b1934af81d1": {
+   "id": "ad9eac51c23178e531e28b1934af81d1",
+   "company": "Hanes Australasia",
+   "role": "Pt Sales Assistant / Bonds / Palmerston",
+   "location": "Belconnen"
   },
   "5a309caa334214da2f988b54b5330460": {
    "id": "5a309caa334214da2f988b54b5330460",
@@ -6650,12 +6656,6 @@
    "role": "Retail Sales Assistant (part Time) - Black Pepper Echuca",
    "location": "Echuca"
   },
-  "946093a1c96b1fb273a0d63ee21823ee": {
-   "id": "946093a1c96b1fb273a0d63ee21823ee",
-   "company": "Brand Collective",
-   "role": "Retail Sales Assistant (part Time) - Black Pepper Batemans Bay",
-   "location": "Batemans Bay"
-  },
   "73b69beae63c94367b481c0e58ca756d": {
    "id": "73b69beae63c94367b481c0e58ca756d",
    "company": "Optus",
@@ -6667,6 +6667,12 @@
    "company": "Star Aviation",
    "role": "Customer Service Officer - Sydney Airport",
    "location": "Sydney"
+  },
+  "26f3bc1e78f5145df1c318b99c26e16e": {
+   "id": "26f3bc1e78f5145df1c318b99c26e16e",
+   "company": "North Memorial Health",
+   "role": "Retail Associate",
+   "location": "Maple Grove"
   },
   "36a4a43526fa79ead771d3e4c84ccce7": {
    "id": "36a4a43526fa79ead771d3e4c84ccce7",
@@ -6896,12 +6902,6 @@
    "role": "Sales Consultant",
    "location": "Melbourne +3"
   },
-  "35d046a02b7377ebd3a5163c0da38967": {
-   "id": "35d046a02b7377ebd3a5163c0da38967",
-   "company": "L&C Food",
-   "role": "Team Member",
-   "location": "Sydney"
-  },
   "fe2e07fec43320f15764466520d0ac48": {
    "id": "fe2e07fec43320f15764466520d0ac48",
    "company": "Anglicare",
@@ -6988,9 +6988,21 @@
   },
   "1ee0cb3339e17aed26fb7eca7261e856": {
    "id": "1ee0cb3339e17aed26fb7eca7261e856",
-   "company": "Luxottica Retail Australia Pty Ltd",
+   "company": "EssilorLuxottica SA",
    "role": "Sales Associate",
    "location": "Indianapolis"
+  },
+  "b5ac8e06770da9a70728c52cf698ee72": {
+   "id": "b5ac8e06770da9a70728c52cf698ee72",
+   "company": "EssilorLuxottica SA",
+   "role": "Associate Dispenser I Opsm I Pt I Vic I Bairnsdale",
+   "location": "Bairnsdale"
+  },
+  "0d2f63dd7c16ab146e3efe006556c74b": {
+   "id": "0d2f63dd7c16ab146e3efe006556c74b",
+   "company": "EssilorLuxottica SA",
+   "role": "Associate Dispenser I Opsm I Pt I Vic I Traralgon",
+   "location": "Traralgon"
   },
   "ce4bd1d9e5197da80c4e9a7c576098af": {
    "id": "ce4bd1d9e5197da80c4e9a7c576098af",
@@ -7106,6 +7118,12 @@
    "role": "Customer Service Officer / Community Bank Lancelin / Wa",
    "location": "Lancelin"
   },
+  "a15abe3b3304fbb7da6371aa183a5cb8": {
+   "id": "a15abe3b3304fbb7da6371aa183a5cb8",
+   "company": "Bendigo Bank",
+   "role": "Customer Service Officer / Community Bank Rochester & Elmore / Vic",
+   "location": "Rochester +1"
+  },
   "c97859105dc2260febc3aeec0b7c0bf2": {
    "id": "c97859105dc2260febc3aeec0b7c0bf2",
    "company": "State Revenue Office Victoria",
@@ -7135,12 +7153,6 @@
    "company": "Stylerunner",
    "role": "Holiday Stylist / Sorrento",
    "location": "Perth"
-  },
-  "c1076ed2bde2e09f444e2231b9a51454": {
-   "id": "c1076ed2bde2e09f444e2231b9a51454",
-   "company": "AbbVie",
-   "role": "Initiatives And Solutions Associate",
-   "location": "Sydney"
   },
   "aefd7c1a58f5455b011121e05d2b7a55": {
    "id": "aefd7c1a58f5455b011121e05d2b7a55",
@@ -7291,18 +7303,6 @@
    "company": "Allied Credit",
    "role": "Customer Service Officer – Multiple Vacancies",
    "location": "Sydney"
-  },
-  "b5ac8e06770da9a70728c52cf698ee72": {
-   "id": "b5ac8e06770da9a70728c52cf698ee72",
-   "company": "EssilorLuxottica SA",
-   "role": "Associate Dispenser I Opsm I Pt I Vic I Bairnsdale",
-   "location": "Bairnsdale"
-  },
-  "0d2f63dd7c16ab146e3efe006556c74b": {
-   "id": "0d2f63dd7c16ab146e3efe006556c74b",
-   "company": "EssilorLuxottica SA",
-   "role": "Associate Dispenser I Opsm I Pt I Vic I Traralgon",
-   "location": "Traralgon"
   }
  }
 }

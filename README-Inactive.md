@@ -16447,4 +16447,35 @@
 <tr><td>Dimensional Fund Advisors LP</td><td>Associate, Client Services</td><td>Sydney</td><td>2026-11-15</td></tr>
 <tr><td>Porters Liquor</td><td>Finance Business Partner, Retail Ecommerce (bws)</td><td>Melbourne</td><td>2026-11-15</td></tr>
 <tr><td>Sharp & Carter BRISBANE</td><td>Customer Service Officer</td><td>Brisbane</td><td>2026-11-15</td></tr>
+<tr><td>BaptistCare NSW & ACT</td><td>Lifestyle Carer</td><td>Coraki</td><td>2026-11-16</td></tr>
+<tr><td>UnitingCare</td><td>Support Worker - Yamba</td><td>Yamba</td><td>2026-11-16</td></tr>
+<tr><td>Calvary</td><td>Support Worker - Home Care Benalla</td><td>Benalla</td><td>2026-11-16</td></tr>
+<tr><td>Penrith City Council</td><td>Oshc Educator</td><td>Campbelltown</td><td>2026-11-16</td></tr>
+<tr><td>Yarra City Council</td><td>Pool Lifeguard</td><td>Melbourne</td><td>2026-11-16</td></tr>
+<tr><td>Wilson Group</td><td>Casual Fifo Security Officer - Ex Darwin Nt Or Cairns Qld</td><td>Darwin</td><td>2026-11-16</td></tr>
+<tr><td>Cater Care</td><td>Catering Assistant - Glen Waverley</td><td>Melbourne</td><td>2026-11-16</td></tr>
+<tr><td>Hilton</td><td>Wedding & Events Executive (part-time)</td><td>Perth</td><td>2026-11-16</td></tr>
+<tr><td>Fuse Recruitment</td><td>Production Workers – Carole Park - $36 P/hr + Daily Overtime</td><td>Carole Park</td><td>2026-11-16</td></tr>
+<tr><td>Fuse Recruitment</td><td>Process Worker</td><td>Melbourne</td><td>2026-11-16</td></tr>
+<tr><td>Fuse Recruitment</td><td>Truck Driver</td><td>Darra</td><td>2026-11-16</td></tr>
+<tr><td>Fuse Recruitment</td><td>Forklift Operators – Pm Shift / St Marys / $43.12 Per Hour + Overtime</td><td>St Marys</td><td>2026-11-16</td></tr>
+<tr><td>Fuse Recruitment</td><td>Logistics And Dispatch Officer</td><td>Wacol</td><td>2026-11-16</td></tr>
+<tr><td>Toyota Finance Australia</td><td>Warehouse Storeperson</td><td>Brisbane</td><td>2026-11-16</td></tr>
+<tr><td>Rsl Lifecare Limited</td><td>Laundry Assistant</td><td>Page</td><td>2026-11-16</td></tr>
+<tr><td>RSL LifeCare</td><td>Cleaning Assistant</td><td>Tura Beach +2</td><td>2026-11-16</td></tr>
+<tr><td>Hungry Jack's</td><td>Crew Member Casual</td><td>Melbourne +12</td><td>2026-11-16</td></tr>
+<tr><td>Hungry Jack's</td><td>Gympie Crew Member</td><td>Maroochydore</td><td>2026-11-16</td></tr>
+<tr><td>Hungry Jack's</td><td>Manager - Coffs Harbour North</td><td>Coffs Harbour</td><td>2026-11-16</td></tr>
+<tr><td>Hungry Jack’s</td><td>Crew Member Night / Weekend</td><td>Warrawong</td><td>2026-11-16</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Cook Part Time/full Time Gyg Bondi Beach</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Cook - Heatherbrae</td><td>Heatherbrae</td><td>2026-11-16</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Casual Crew - Mosman</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>Sofitel</td><td>Food And Beverage Attendant / Club Millesime</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>Corryong Health</td><td>Cook</td><td>Corryong</td><td>2026-11-16</td></tr>
+<tr><td>Dotti</td><td>Sales Assistant - Casual - Just Jeans - Mildura</td><td>Mildura</td><td>2026-11-16</td></tr>
+<tr><td>Mountain Warehouse</td><td>Christmas Casual Retail Sales Assistant</td><td>Brisbane +1</td><td>2026-11-16</td></tr>
+<tr><td>L'Oréal</td><td>Retail Consultant / Aesop Sydney Flagship / Part Time</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>L’Oréal S.A.</td><td>Retail Consultant / Aesop Sydney Flagship / Part Time sydney, Australia</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>Brand Collective</td><td>Retail Sales Assistant (part Time) - Black Pepper Batemans Bay</td><td>Batemans Bay</td><td>2026-11-16</td></tr>
+<tr><td>AbbVie</td><td>Initiatives And Solutions Associate</td><td>Sydney</td><td>2026-11-16</td></tr>
 </table>
