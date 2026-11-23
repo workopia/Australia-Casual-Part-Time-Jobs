@@ -17894,4 +17894,39 @@
 <tr><td>Crossmark</td><td>Retail Merchandiser - Orange - Nsw</td><td>Orange</td><td>2026-11-22</td></tr>
 <tr><td>Solargain</td><td>Renewable Energy Sales Consultant - Contractor</td><td>Melbourne</td><td>2026-11-22</td></tr>
 <tr><td>Retailors</td><td>Holiday Retail Assistant - Nike Eastland</td><td>Melbourne</td><td>2026-11-22</td></tr>
+<tr><td>St John of God Health Care</td><td>Patient Care Assistant</td><td>Warrnambool +2</td><td>2026-11-23</td></tr>
+<tr><td>St Vincent's Care Services</td><td>Personal Care Assistant - Casual</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Lifeblood</td><td>Nursing Assistant</td><td>Melbourne +2</td><td>2026-11-23</td></tr>
+<tr><td>Uniting</td><td>Care Support Employee</td><td>Wollongong</td><td>2026-11-23</td></tr>
+<tr><td>NSW Health</td><td>Leisure And Lifestyle Coordinator (assistant In Nursing) - Kyogle</td><td>Kyogle</td><td>2026-11-23</td></tr>
+<tr><td>CATHOLIC SCHOOLS PARRAMATTA DIO…</td><td>Classroom & Learning Support</td><td>Campbelltown</td><td>2026-11-23</td></tr>
+<tr><td>Tafe Nsw</td><td>Education Support Officer - Children's Education</td><td>Randwick</td><td>2026-11-23</td></tr>
+<tr><td>University of Western Australia</td><td>Senior Lecturer – Medical Educator (manjimup)</td><td>Manjimup</td><td>2026-11-23</td></tr>
+<tr><td>University of Western Australia</td><td>Senior Lecturer – Medical Educator (broome)</td><td>Broome</td><td>2026-11-23</td></tr>
+<tr><td>City of Adelaide</td><td>Casual Usher - Adelaide Town Hall</td><td>Adelaide</td><td>2026-11-23</td></tr>
+<tr><td>Academic Professional</td><td>Events And Communication Officer</td><td>Belconnen</td><td>2026-11-23</td></tr>
+<tr><td>GPC Pacific Asia</td><td>Delivery Driver - Repco Winnellie - Casual</td><td>Winnellie</td><td>2026-11-23</td></tr>
+<tr><td>Crown Resorts</td><td>Warehousing Employee</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Central Adelaide Local Health N…</td><td>Medical Courier Positions - Pool</td><td>Adelaide</td><td>2026-11-23</td></tr>
+<tr><td>Evolve Scientific</td><td>Production Operator - Afternoon Shift</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>GPC Pacific Asia</td><td>Store Person - NAPA Gladstone - Fixed Term 12 Months</td><td>Gladstone</td><td>2026-11-23</td></tr>
+<tr><td>Crown Resorts</td><td>Room Attendant / Part Time</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>City of Greater Geelong</td><td>Gardener / Qualified Gardener</td><td>Geelong</td><td>2026-11-23</td></tr>
+<tr><td>Fuse Recruitment</td><td>Cleaner</td><td>Brisbane</td><td>2026-11-23</td></tr>
+<tr><td>Guzman y Gomez Mexican Kitchen</td><td>Crew - Franchise - Must Be Available On Mon/ Tue/ Wed From 6:30 Or 8:30 Am To 2-3 Pm</td><td>Lavington</td><td>2026-11-23</td></tr>
+<tr><td>BP Service Stations</td><td>Customer Service Representative / Barista (casual) - Bp Lindisfarne, Tas</td><td>Tasmania</td><td>2026-11-23</td></tr>
+<tr><td>BP Service Stations</td><td>Barista (casual) - Bp Quakers Hill, Nsw</td><td>Sydney</td><td>2026-11-23</td></tr>
+<tr><td>Brightwater</td><td>Hotel Services Multi Skilled Onslow Gardens -Casual</td><td>Perth</td><td>2026-11-23</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Kitchen Hand</td><td>Melbourne Airport +1</td><td>2026-11-23</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>People And Culture Administrator</td><td>Brisbane</td><td>2026-11-23</td></tr>
+<tr><td>Stoney Point Healthcare Center</td><td>Trade Cook</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Journey Beyond</td><td>Vessel Master Iv / Captain Cook Cruises</td><td>Perth</td><td>2026-11-23</td></tr>
+<tr><td>The Wine Group</td><td>Vintage Cellar Crew</td><td>Loxton</td><td>2026-11-23</td></tr>
+<tr><td>The Wine Group</td><td>Experienced Vintage Cellar Crew</td><td>Loxton</td><td>2026-11-23</td></tr>
+<tr><td>PUMA</td><td>2026 Seasonal Casual Sales Associates - Brisbane Dfo</td><td>Brisbane</td><td>2026-11-23</td></tr>
+<tr><td>Nestlé</td><td>Casual Merchandiser - Toowoomba, Qld</td><td>Toowoomba</td><td>2026-11-23</td></tr>
+<tr><td>Nestlé</td><td>Casual Merchandiser - Tooronga/hawthorn, Vic</td><td>Tooronga</td><td>2026-11-23</td></tr>
+<tr><td>Forever New</td><td>Part Time Sales Assistant - Rundle Mall</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Forever New</td><td>Part Time Sales Assistant - Myer Marion</td><td>Marion</td><td>2026-11-23</td></tr>
+<tr><td>WA Government</td><td>Customer Service Officer (pool)</td><td>Perth</td><td>2026-11-23</td></tr>
 </table>
